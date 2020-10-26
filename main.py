@@ -52,7 +52,7 @@ if __name__ == '__main__':
             row['Foto 1'] = ''
         else:
             image_path_filtered = "images/{}".format(image_name)
-            cv2.imwrite(image_path_filtered)
+            cv2.imwrite(image_path_filtered, filtered_image)
             row['Foto 1'] = image_path_filtered
 
         res = res.append(row, ignore_index=True)
