@@ -32,13 +32,10 @@ if __name__ == '__main__':
             urllib.request.urlretrieve(row["URL FOTO"], image_path)
 
             correct_image(image_path)
-            if os.path.exists(image_path):
-                row['Foto 1'] = image_name
-                print(image_name)
-            else:
-                unsaved_images.append([index, image_path])
-                row['Foto 1'] = "No image"
+            row['Foto 1'] = image_name
+            print(image_name)
         except Exception as e:
+            unsaved_images.append([index, image_path])
             row['Foto 1'] = "Error"
         res = res.append(row, ignore_index=True)
         # print(row['ID_PRODUCTO'], row['ID'], row['Nombre'],row['Descripcion'],row['% Impuesto'],row['Atributos'],row['Sabor'],
