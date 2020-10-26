@@ -3,13 +3,16 @@ import os
 from PIL import Image
 import numpy as np
 
+
 def correct_image(img_path):
     img = Image.open(img_path)
     img.load()
-
-    background = Image.new("RGB", img.size, (255, 255, 255))
-    background.paste(img, mask=img.split()[3])
-    background.save(img_path, 'JPEG', quality=100)
+    try:
+        background = Image.new("RGB", img.size, (255, 255, 255))
+        background.paste(img, mask=img.split()[3])
+        background.save(img_path, 'JPEG', quality=100)
+    except Exception as e:
+        print("error", e)
 
 
 def remove_special_characters(s: str) -> str:
