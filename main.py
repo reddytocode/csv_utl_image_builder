@@ -28,23 +28,33 @@ if __name__ == '__main__':
     pd.set_option("display.max_rows", None, "display.max_columns", None)
     data = pd.read_csv(csv_file_path)
     for index, row in data.iterrows():
+        if index < 97:
+            continue
         import urllib.request
 
         try:
             image_name = "{}_{}.png".format(row['ID_PRODUCTO'], row['ID'])
-            image_path = "images/{}".format(image_name)
+            image_path = "filtered/{}".format(image_name)
             urllib.request.urlretrieve(row["URL FOTO"], image_path)
 
             correct_image(image_path)
             row['Foto 1'] = image_name
             print(image_name)
-            if cv2.imread(image_path) is None:
-                unsaved_images.append([index, image_path])
-                print(image_path, " has an error  with url")
-                row['Foto 1'] = ''
+
         except Exception as e:
             unsaved_images.append([index, image_path])
             row['Foto 1'] = "Error"
+
+        filtered_image = cv2.imread(image_path)
+        if filtered_image is None:
+            unsaved_images.append([index, image_path])
+            print(image_path, " has an error  with url")
+            row['Foto 1'] = ''
+        else:
+            image_path_filtered = "images/{}".format(image_name)
+            cv2.imwrite(image_path_filtered)
+            row['Foto 1'] = image_path_filtered
+
         res = res.append(row, ignore_index=True)
         # print(row['ID_PRODUCTO'], row['ID'], row['Nombre'],row['Descripcion'],row['% Impuesto'],row['Atributos'],row['Sabor'],
         #       row['Foto 1'], row['Foto 2'], row['Foto 3'])
