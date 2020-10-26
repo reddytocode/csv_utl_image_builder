@@ -9,8 +9,7 @@ def correct_image(img_path):
 
     background = Image.new("RGB", img.size, (255, 255, 255))
     background.paste(img, mask=img.split()[3])
-
-    background.save('foo.jpg', 'JPEG', quality=100)
+    background.save(img_path, 'JPEG', quality=100)
 
 
 def remove_special_characters(s: str) -> str:
