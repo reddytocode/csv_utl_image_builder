@@ -1,0 +1,6 @@
+4 | "images/jugohit_259_1.png"
+5 | "images/jugohit_259_2.png"
+6 | "images/jugohit_259_3.png"
+7 | "images/jugohit_259_4.png"
+9 | "images/jugohit_260_2.png"
+10 | "images/jugohit_260_3.png"
