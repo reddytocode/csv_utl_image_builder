@@ -39,7 +39,7 @@ if __name__ == '__main__':
                 unsaved_images.append([index, image_path])
                 row['Foto 1'] = "No image"
         except Exception as e:
-            row['Foto 1'] = "No image"
+            row['Foto 1'] = "Error"
         res = res.append(row, ignore_index=True)
         # print(row['ID_PRODUCTO'], row['ID'], row['Nombre'],row['Descripcion'],row['% Impuesto'],row['Atributos'],row['Sabor'],
         #       row['Foto 1'], row['Foto 2'], row['Foto 3'])
