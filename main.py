@@ -2,6 +2,7 @@ import pandas as pd
 import os
 from PIL import Image
 import numpy as np
+import cv2
 
 
 def correct_image(img_path):
@@ -37,6 +38,10 @@ if __name__ == '__main__':
             correct_image(image_path)
             row['Foto 1'] = image_name
             print(image_name)
+            if cv2.imread(image_path) is None:
+                unsaved_images.append([index, image_path])
+                print(image_path, " has an error  with url")
+                row['Foto 1'] = ''
         except Exception as e:
             unsaved_images.append([index, image_path])
             row['Foto 1'] = "Error"
