@@ -1,13 +1,1000 @@
 ,% Impuesto,Atributos,Cantidad,Cantidad.1,Descripcion,Etiquetas,Foto 1,Foto 2,Foto 3,ID,ID_PRODUCTO,Nombre,Precio,Sabor,URL FOTO
-0,,Sabor,1.0,,Tetra x 1000,Jugos,No image,,,1.0,258.0,Jugo Hit ,2800.0,Naranja piña,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3466738-1000-1000/7702090038088.jpg?v=637078797055330000
-1,,Sabor,1.0,,Tetra x 1000,Jugos,No image,,,2.0,258.0,Jugo Hit ,2800.0,frutas tropicales,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702090038095.jpg
-2,,Sabor,1.0,,Tetra x 1000,Jugos,No image,,,3.0,258.0,Jugo Hit ,2800.0,mora,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702090038064.jpg
-3,,Sabor,1.0,,Tetra x 1000,Jugos,No image,,,4.0,258.0,Jugo Hit ,2800.0,mango,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702090038071.jpg
-4,,Sabor,1.0,,Botella 1.5 lt,Jugos,jugohit_259_1.png,,,1.0,259.0,Jugo Hit ,3500.0,Naranja piña,https://www.merkaplace.com/web/image/product.product/2607/image?unique=2dbf121
-5,,Sabor,1.0,,Botella 1.5 lt,Jugos,jugohit_259_2.png,,,2.0,259.0,Jugo Hit ,3500.0,frutas tropicales,https://merkaplace.com/web/image/product.product/2635/image?unique=2dbf121
-6,,Sabor,1.0,,Botella 1.5 lt,Jugos,jugohit_259_3.png,,,3.0,259.0,Jugo Hit ,3500.0,mora,https://merkaplace.com/web/image/product.product/2606/image?unique=2dbf121
-7,,Sabor,1.0,,Botella 1.5 lt,Jugos,jugohit_259_4.png,,,4.0,259.0,Jugo Hit ,3500.0,mango,https://merkaplace.com/web/image/product.product/2605/image?unique=2dbf121
-8,,Sabor,1.0,,Botella x 500,Jugos,No image,,,1.0,260.0,Jugo Hit ,2000.0,Naranja piña,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171621-750-750/7702090029871-20-281-29.jpg?v=636111275333130000
-9,,Sabor,1.0,,Botella x 500,Jugos,jugohit_260_2.png,,,2.0,260.0,Jugo Hit ,2000.0,frutas tropicales,https://merkaplace.com/web/image/product.product/2608/image?unique=2dbf121
-10,,Sabor,1.0,,Botella x 500,Jugos,jugohit_260_3.png,,,3.0,260.0,Jugo Hit ,2000.0,mora,https://merkaplace.com/web/image/product.product/2609/image?unique=2dbf121
-11,,Sabor,1.0,,Botella x 500,Jugos,No image,,,4.0,260.0,Jugo Hit ,2000.0,mango,https://bodegaeltrebol.com/wp-content/uploads/2018/11/jugo-hit-mango.jpeg
+0,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,1.0,Leche Entera Alpina,3100.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702001041404.jpg
+1,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,2.0,Leche Alpina Deslactosada ,3400.0,,https://cdn.derematazo.com/wp-content/uploads/2019/08/Leche-Alpina-Deslactosada-Bolsa-x-1100ml-23445.jpg
+2,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,3.0,Leche Alpina Semi-Descremada  ,3500.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702001050130.jpg
+3,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,4.0,Leche Alpina Deslactosada-Descremada ,3500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496784-1000-1000/7702001053841.jpg?v=637230819660630000
+4,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,5.0,Leche Alpina Descremada  ,3500.0,,https://supertiendascomunal.com/5457-large_default/leche-descremada-alpina-11-lt.jpg
+5,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,6.0,Leche Alpina Entera  ,16200.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/266047-750-750/7702001041411.jpg?v=637230837843670000
+6,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,7.0,Leche Alpina Deslactosada  ,17700.0,,https://exitocol.vtexassets.com/arquivos/ids/1782790/Leche-Deslactosada-Sixpack-En-Bolsa-X-11-Litros-Cu-576258_a.png?v=637236951475730000
+7,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,8.0,Leche Alpina Semi-Descremada ,21000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496788-750-750/7702001050208.jpg?v=637230819678000000
+8,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,9.0,Leche Alpina Deslactosada-Descremada ,21000.0,,https://mercaldas.vteximg.com.br/arquivos/ids/183332-1300-1300/LECHE-ALPINA-6UN-1100-DESLACDESCREM-BS.jpg?v=636996793400800000
+9,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,10.0,Leche Alpina Descremada ,21000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496787-750-750/7702001050352.jpg?v=637230819672530000
+10,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,11.0,Leche Colanta Entera,3000.0,,
+11,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,12.0,Leche Colanta Deslactosada,3100.0,,
+12,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,13.0,Leche Colanta Entera,17800.0,,
+13,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,14.0,Leche Colanta Deslactosada,18800.0,,
+14,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,15.0,Leche Alqueria Entera,3100.0,,
+15,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,16.0,Leche Alqueria Deslactosada,3400.0,,
+16,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,17.0,Leche Alqueria Descremada Deslactosada,3400.0,,
+17,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,18.0,Leche Alqueria Entera,18500.0,,
+18,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,19.0,Leche Alqueria Deslactosada,19900.0,,
+19,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,20.0,Leche Alqueria Descremada Deslactosada,0.0,,
+20,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,21.0,Leche Algarra Entera,2600.0,,
+21,0.0,,1.0,,Bolsa x 1.100 ml,Leches ,No image,,,1.0,22.0,Leche Algarra Deslactosada,2700.0,,
+22,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,23.0,Leche Algarra Entera,15500.0,,
+23,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,24.0,Leche Algarra Deslactosada,16500.0,,
+24,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,25.0,Leche Alpin Chocolate ,8900.0,,
+25,0.0,,1.0,,Paca x 6 und,Leches ,No image,,,1.0,26.0,Leche Alpin Fresa,8900.0,,
+26,0.0,,1.0,,Bolsa x 800 ml,Leches ,No image,,,1.0,27.0,Leche Alpin Chocolate ,5300.0,,
+27,0.0,,1.0,,Caja x 900 ml,Leches ,No image,,,1.0,28.0,Bebida Jappi Almendra Natural ,9300.0,,
+28,0.0,,1.0,,Caja x 900 ml,Leches ,No image,,,1.0,29.0,Bebida Jappi Almendra Vainilla ,9300.0,,
+29,0.0,,1.0,,Caja x 900 ml,Leches ,No image,,,1.0,30.0,Bebida Jappi Coco Natural ,9300.0,,
+30,0.0,,1.0,,Bolsa x 200 gr,Leches en Polvo,No image,,,1.0,31.0,Leche Proleche Entera,4900.0,,
+31,0.0,,1.0,,Bolsa x 380 gr,Leches en Polvo,No image,,,1.0,32.0,Leche Proleche Entera,7800.0,,
+32,0.0,,1.0,,Bolsa x 900 gr,Leches en Polvo,No image,,,1.0,33.0,Leche Proleche Entera,20300.0,,
+33,0.0,,1.0,,Bolsa x 380 gr,Leches en Polvo,No image,,,1.0,34.0,Leche Proleche Deslactosada,9300.0,,
+34,0.0,,1.0,,Bolsa x 380 gr,Leches en Polvo,No image,,,1.0,35.0,Leche Proleche Descremada,9400.0,,
+35,0.0,,1.0,,Bolsa x 400 gr,Leches en Polvo,No image,,,1.0,36.0,Leche Colanta Entera,8100.0,,
+36,0.0,,1.0,,Bolsa x 1000 gr,Leches en Polvo,No image,,,1.0,37.0,Leche Colanta Entera,18400.0,,
+37,0.0,,1.0,,Bolsa x 400 gr,Leches en Polvo,No image,,,1.0,38.0,Leche Colanta Descremada,8400.0,,
+38,0.0,,1.0,,Bolsa x 400 gr,Leches en Polvo,No image,,,1.0,39.0,Leche Colanta Deslactosada,0.0,,
+39,0.0,,1.0,,Bolsa x 900 gr,Leches en Polvo,No image,,,1.0,40.0,Leche El Rodeo,20500.0,,
+40,0.0,,1.0,,Bolsa x 364 gr,Leches en Polvo,No image,,,1.0,41.0,Leche El Rodeo Nutri Rinde ,8800.0,,
+41,0.0,,1.0,,Bolsa x 900 gr,Leches en Polvo,No image,,,1.0,42.0,Leche El Rodeo Nutri Rinde ,19400.0,,
+42,0.0,,1.0,,Bolsa x 500 gr,Leches en Polvo,No image,,,1.0,43.0,Leche Klim 1+ ,16800.0,,
+43,0.0,,1.0,,Bolsa x 1000 gr,Leches en Polvo,No image,,,1.0,44.0,Leche Klim  1+,28900.0,,
+44,0.0,,1.0,,Bolsa x 360 gr,Leches en Polvo,No image,,,1.0,45.0,Leche Klim Fortificada,11100.0,,
+45,0.0,,1.0,,Bolsa x 840 gr,Leches en Polvo,No image,,,1.0,46.0,Leche Klim Fortificada,24800.0,,
+46,,Sabor,1.0,,Vaso x 150 ml,Yogurt,No image,,,1.0,47.0,Yogurt Alpina,1600.0,Fresa,
+47,,Sabor,1.0,,Vaso x 150 ml,Yogurt,No image,,,2.0,48.0,Yogurt Alpina,1600.0,Melocotón,https://cdn.shopify.com/s/files/1/0358/7787/9941/products/2006517_420x.jpg?v=1586655734
+48,,Sabor,1.0,,Vaso x 150 ml,Yogurt,No image,,,3.0,49.0,Yogurt Alpina,1600.0,Guanabana,https://i1.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2019/05/alpina_yogurt_guanabana_200gr.jpg?fit=750%2C750&ssl=1
+49,,Sabor,1.0,,Vaso x 150 ml,Yogurt,No image,,,4.0,50.0,Yogurt Alpina,1600.0,Mora ,https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images2000557.jpg
+50,,Sabor,1.0,,Vaso x 150 ml,Yogurt,No image,,,5.0,47.0,Yogurt Alpina Deslactosado,1600.0,Fresa,https://www.amercarya.com/wp-content/uploads/2020/08/Yogurt-ALPINA-deslactosado-fresa-150gr_9e3cde8e-60ed-4e9b-9159-6f095fd2ad22.jpg
+51,,Sabor,1.0,,Vaso x 150 ml,Yogurt,No image,,,6.0,47.0,Yogurt Alpina Deslactosado,1600.0,Melocotón,https://www.amercarya.com/wp-content/uploads/2020/08/Yogurt-ALPINA-deslactosado-melocoton-150gr_b7f6114d-59c2-41a6-9afe-f4f3e796a8a6.jpg
+52,,Sabor,1.0,,Vaso x 200 ml,Yogurt,No image,,,1.0,48.0,Yogurt Alpina,2300.0,Fresa,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496832-750-750/7702001044115.jpg?v=637230819842930000
+53,,Sabor,1.0,,Vaso x 200 ml,Yogurt,No image,,,2.0,48.0,Yogurt Alpina,2300.0,Melocotón,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496833-1000-1000/7702001044122.jpg?v=637230819843570000
+54,,Sabor,1.0,,Vaso x 200 ml,Yogurt,No image,,,3.0,48.0,Yogurt Alpina,2300.0,Guanabana,https://i1.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2019/05/alpina_yogurt_guanabana_200gr.jpg?fit=750%2C750&ssl=1
+55,,Sabor,1.0,,Vaso x 200 ml,Yogurt,No image,,,4.0,48.0,Yogurt Alpina,2300.0,Mora ,
+56,,Sabor,1.0,,Bolsa x 1000 ml,Yogurt,No image,,,1.0,49.0,Yogo Yogo Litro,4300.0,Mora ,https://mercadoacasa.co/wp-content/uploads/2020/05/yogo-yogo-mora-1000.jpg
+57,,Sabor,1.0,,Bolsa x 1000 ml,Yogurt,No image,,,2.0,49.0,Yogo Yogo Litro,4300.0,Melocotón,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496813-1000-1000/7702001046423.jpg?v=637230819766870000
+58,,Sabor,1.0,,Bolsa x 1000 ml,Yogurt,No image,,,3.0,49.0,Yogo Yogo Litro,4300.0,Fresa,
+59,,Sabor,1.0,,Vaso x 150 ml,Yogurt,No image,,,1.0,50.0,Yogo Yogo ,1000.0,Mora ,https://www.dumbomania.com/wp-content/uploads/2019/04/yogo-yogo-alpina-mora-vaso-.jpg
+60,,Sabor,1.0,,Vaso x 150 ml,Yogurt,No image,,,2.0,50.0,Yogo Yogo ,1000.0,Melocotón,
+61,,Sabor,1.0,,Vaso x 150 ml,Yogurt,No image,,,3.0,50.0,Yogo Yogo ,1000.0,Fresa,https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images2000602.jpg
+62,,Sabor,1.0,,Botella x 1000 ml,Yogurt,No image,,,1.0,51.0,Yogurt Alpina,9500.0,Melocotón,
+63,,Sabor,1.0,,Botella x 1000 ml,Yogurt,No image,,,2.0,51.0,Yogurt Alpina,9500.0,Fresa,https://images.rappi.com/products/357793-1583765947543.jpg?d=500x500
+64,,Sabor,1.0,,Botella x 1750 ml,Yogurt,yogurtalpina521.png,,,1.0,52.0,Yogurt Alpina,14700.0,Melocotón,https://merkandoya.com/imgproductos/41a931d0-8518-11ea-bbc2-e1ddb3edd09320200422230941.jpg
+65,,Sabor,1.0,,Botella x 1750 ml,Yogurt,No image,,,2.0,52.0,Yogurt Alpina,14700.0,Fresa,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702001046508.jpg
+66,,Sabor,1.0,,Bolsa x 900 ml,Yogurt,No image,,,1.0,53.0,Yogurt Alpina,6100.0,Melocotón,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496808-750-750/7702001047406.jpg?v=637230819753400000
+67,,Sabor,1.0,,Bolsa x 900 ml,Yogurt,No image,,,2.0,53.0,Yogurt Alpina,6100.0,Fresa,
+68,,Sabor ,1.0,,Vaso x 130 gr,Yogurt,No image,,,1.0,54.0,Yogo Yogo Cereal ,1500.0,Fresa,      https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images2006084.jpg
+69,,Sabor,1.0,,Vaso x 130 gr,Yogurt,No image,,,2.0,54.0,Yogo Yogo Cereal ,1500.0,Natural,https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images2006084.jpg
+70,,Sabor,1.0,,Vaso x 130 gr,Yogurt,No image,,,3.0,54.0,Yogo Yogo Cereal ,1500.0,Chocolate,https://triunfoq.com/wp-content/uploads/2019/05/7702001106714-600x600.jpg
+71,,Sabor,1.0,,x 8 und,Yogurt,No image,,,1.0,55.0,Yogo Yogo ,6800.0,,
+72,,Sabor,1.0,,Botella x 100 gr ,Yogurt,No image,,,1.0,56.0,Yogurt Alpina Yox,1800.0,Vainilla,https://mercaldas.vteximg.com.br/arquivos/ids/183201-1300-1300/YOGURT-ALPINA-YOX-100-VAINILLA-FR.jpg?v=636996792879230000
+73,,Sabor,1.0,,Botella x 100 gr ,Yogurt,No image,,,2.0,56.0,Yogurt Alpina Yox,1800.0,Melocoton ,
+74,,Sabor,1.0,,Botella x 100 gr ,Yogurt,No image,,,3.0,56.0,Yogurt Alpina Yox,1800.0,Mora,https://mercalo.co/wp-content/uploads/2017/06/Yox-Alpina-Multifrutas-100-grs.jpg
+75,,Sabor,1.0,,Botella x 100 gr ,Yogurt,No image,,,4.0,56.0,Yogurt Alpina Yox,1800.0,Fresa,https://mercaldas.vteximg.com.br/arquivos/ids/183199-1300-1300/YOGURT-ALPINA-YOX-100-FRESA-FR.jpg?v=636996792873770000
+76,,Sabor,1.0,,Vaso 150 gr,Yogurt,No image,,,1.0,57.0,Yogurt Alpina Griego 0%,3200.0,Fresa,
+77,,Sabor,1.0,,Vaso 150 gr,Yogurt,No image,,,2.0,57.0,Yogurt Alpina Griego 0%,3200.0,Mandarina,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496965-750-750/7702001148912.jpg?v=637230833618600000
+78,,Sabor,1.0,,Vaso 150 gr,Yogurt,No image,,,3.0,57.0,Yogurt Alpina Griego 0%,3200.0,Coco,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496963-750-750/7702001148936.jpg?v=637230833614700000
+79,,Sabor,1.0,,Vaso 150 gr,Yogurt,No image,,,4.0,57.0,Yogurt Alpina Griego 0%,3200.0,Limón,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496964-1000-1000/7702001148929.jpg?v=637230833617030000
+80,,Sabor,1.0,,Vaso 150 gr,Yogurt,No image,,,5.0,57.0,Yogurt Alpina Griego 0%,3200.0,Mora / Arandanos,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496778-750-750/7702001055067.jpg?v=637230819637330000
+81,,Sabor,1.0,,Botella x 1000 ml,Yogurt,No image,,,1.0,58.0,Yogurt Alpina Finesse ,10700.0,mora,
+82,,Sabor,1.0,,Botella x 1000 ml,Yogurt,No image,,,2.0,58.0,Yogurt Alpina Finesse ,10700.0,Melocoton ,https://colsubsidiogrocery.vtexassets.com/arquivos/ids/158597-800-450?width=800&height=450&aspect=true
+83,,Sabor,1.0,,Vaso x 180 ml,Yogurt,No image,,,1.0,59.0,Yogurt Alpina Finesse ,2500.0,mora,https://mercalo.co/wp-content/uploads/2017/06/Yogurt-Finesse-Mora-180-grs.jpg
+84,,Sabor,1.0,,Vaso x 180 ml,Yogurt,No image,,,2.0,59.0,Yogurt Alpina Finesse ,2500.0,fresa,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496858-1000-1000/7702001041749.jpg?v=637230819950570000
+85,,Sabor,1.0,,Vaso x 180 ml ,Yogurt,No image,,,3.0,59.0,Yogurt Alpina Finess ,2500.0,Melocoton ,https://metrocolombiafood.vteximg.com.br/arquivos/ids/266039-1000-1000/7702001041756.jpg?v=637230837814530000
+86,,,1.0,,Vaso x 170 ml,Yogurt,No image,,,1.0,60.0,Yogurt Alpina Finesse Musli,2900.0,,
+87,,,1.0,,Vaso x 113,Yogurt,No image,,,1.0,61.0,Yogurt Alpina Baby ,2300.0,,
+88,,Sabor,1.0,,Vaso x 105,Yogurt,No image,,,1.0,62.0,Yogurt Alpina Baby Cereal,2500.0,piazza,https://metrocolombiafood.vteximg.com.br/arquivos/ids/265861-1000-1000/7702001124763.jpg?v=637230837047170000
+89,,Sabor,1.0,,Vaso x 169 gr,Yogurt,No image,,,1.0,63.0,BonYour Alpina ,2700.0,black,https://metrocolombiafood.vteximg.com.br/arquivos/ids/265941-400-400/7702001086498.jpg?v=637230837344070000
+90,,Sabor,1.0,,Vaso x 169 gr,Yogurt,No image,,,2.0,63.0,BonYour Alpina ,2700.0,zucaritas,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496760-750-750/7702001086023.jpg?v=637230819561930000
+91,,Sabor,1.0,,Vaso x 169 gr,Yogurt,No image,,,3.0,63.0,BonYour Alpina ,2700.0,ChocoKrtispis,https://i1.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2019/03/bonyur_chocokrispis_169gr.jpg?fit=1000%2C1000&ssl=1
+92,,Sabor,1.0,,Vaso x 169 gr,Yogurt,No image,,,4.0,63.0,BonYour Alpina ,2700.0,Chocozo,https://cdn.derematazo.com/wp-content/uploads/2019/08/Bonyurt-Alpina-Cereal-RecubChocolate-x-172g-22508.jpg
+93,,Sabor,1.0,,Vaso x 100 gr ,Yogurt,No image,,,1.0,64.0,Mini BonYour Alpina ,2200.0,Candy,https://i1.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2019/02/alpina_mini_bon_yourt_chococandy_100gr.jpg?fit=800%2C800&ssl=1
+94,,Sabor,1.0,,Bolsa x 250 gr,Snacks,papassuperricastodorico651.png,,,1.0,65.0,Papas Super Ricas Todo Rico,5900.0,BBQ,https://www.larebajavirtual.com/images/productos/sii/F/300x300/todo_rico_bbq_familiar_super_ricas-99391-1594703696.png
+95,,Sabor,1.0,,Bolsa x 250 gr ,Snacks,No image,,,2.0,65.0,Papas Super Ricas Todo Rico,5900.0,Natural,https://metrocolombiafood.vteximg.com.br/arquivos/ids/165942-1000-1000/7702152009193-1.jpg?v=636670854237570000
+96,,Sabor,1.0,,Bolsa x 180 gr,Snacks,No image,,,1.0,66.0,Papas Super Ricas Todo Rico,4800.0,Criollo,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/158088-1000-1000/7702152003504.jpg?v=636081687985800000
+97,,Sabor,1.0,,Bolsa x 180 gr,Snacks,No image,,,2.0,67.0,Papas Super Ricas Todo Rico,4800.0,Criollo Aji ,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/158088-750-750/7702152003504.jpg?v=636081687985800000
+98,,Sabor,1.0,,Bolsa x  150 gr,Snacks,No image,,,1.0,68.0,Papas Super Ricas Todo Rico,4100.0,BBQ,https://www.google.com/search?q=super+ricas+todo+rico&tbm=isch&ved=2ahUKEwj3pYLDmt3rAhWQ11kKHVsbCoAQ2-cCegQIABAA&oq=super+ricas+todo+rico&gs_lcp=CgNpbWcQA1CnM1jkPmCrQGgAcAB4AIABkAGIAbMJkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=k2JZX7eQBJCv5wLbtqiACA&bih=657&biw=1366&rlz=1C1AVNA_enCO565CO565#imgrc=j-TRGwMb3VqBvM&imgdii=SNs5ljMjr-DsjM
+99,,Sabor,1.0,,Bolsa x 150 gr,Snacks,No image,,,2.0,68.0,Papas Super Ricas Todo Rico,4100.0,Original,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/superr.jpg
+100,,Sabor,1.0,,Bolsa x 320 gr,Snacks,No image,,,1.0,69.0,Papas Super Ricas Fritas,6700.0,Pollo,https://exitocol.vtexassets.com/arquivos/ids/1765513-800-auto?width=800&height=auto&aspect=true
+101,,Sabor,1.0,,Bolsa x 215 gr,Snacks,No image,,,1.0,70.0,Papas Super Ricas Fritas,4800.0,Natural,https://metrocolombiafood.vteximg.com.br/arquivos/ids/267938-1000-1000/7702152002255.jpg?v=637242039369600000
+102,,Sabor,1.0,,Bolsa x 205 gr ,Snacks,papassuperricasfritas702.png,,,2.0,70.0,Papas Super Ricas Fritas,4800.0,Pollo,https://images.rappi.com/products/620765-1559235068.png
+103,,Sabor,1.0,,Bolsa x 105 gr,Snacks,No image,,,1.0,71.0,Papas Super Ricas Fritas,3200.0,Pollo,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3539109-1000-1000/7702152109831.jpg?v=637352028532230000
+104,,Sabor,1.0,,Bolsa x 115 gr,Snacks,papassuperricasfritas713.png,,,3.0,71.0,Papas Super Ricas Fritas,3200.0,Picante ,https://images.rappi.com/products/494072-1559235067.png
+105,,Sabor,1.0,,Bolsa x 105 gr,Snacks,No image,,,4.0,71.0,Papas Super Ricas Fritas,3200.0,Natural,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3539108-1000-1000/7702152109824.jpg?v=637352028529600000
+106,,Sabor,1.0,,Bolsa x 115 gr,Snacks,No image,,,1.0,72.0,Papas Super Ricas Fritas Crocantes ,3500.0,Costillas Ahumadas,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3458994-750-750/7702152101231---PAPA-CROKANTE-COSTILLA-DE-CERDO-X-115GR.jpg?v=637039162324770000
+107,,,1.0,,Bolsa x 115 gr,Snacks,No image,,,2.0,72.0,Papas Super Ricas Fritas Crocantes ,3500.0,,
+108,,Sabor,1.0,,Bolsa x 200 gr,Snacks,No image,,,1.0,73.0,Papas Super Ricas Fritas Fosforitos ,3600.0,Natural,
+109,,Sabor,1.0,,Bolsa x 135 gr,Snacks,No image,,,1.0,74.0,Tajamiel Super Ricas,3600.0,Platano Maduro,https://exitocol.vtexassets.com/arquivos/ids/2081675-800-auto?width=800&height=auto&aspect=true
+110,,Sabor,1.0,,Bolsa x 135 gr,Snacks,No image,,,2.0,74.0,Tajaditas Super Ricas,3600.0,Platano verde,https://metrocolombiafood.vteximg.com.br/arquivos/ids/267944-1000-1000/7702152107967.jpg?v=637242039399900000
+111,,Sabor,1.0,,Bolsa x 400 gr,Snacks,No image,,,1.0,75.0,Papas Margarita De Todito ,7700.0,Natural,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3484364-1000-1000/7702189030443.jpg?v=637175561746170000
+112,,Sabor,1.0,,Bolsa x 150 gr,Snacks,No image,,,1.0,76.0,Papas Margarita De Todito ,4200.0,Natural,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3484423-1000-1000/7702189054036.jpg?v=637175561956630000
+113,,Sabor,1.0,,Bolsa x 150 gr,Snacks,No image,,,2.0,76.0,Papas Margarita De Todito ,4200.0,Mix,https://metrocolombiafood.vteximg.com.br/arquivos/ids/259441-1000-1000/7702189054050.jpg?v=637175640813230000
+114,,Sabor,1.0,,Bolsa x 150 gr,Snacks,No image,,,3.0,76.0,Papas Margarita De Todito ,4200.0,BBQ,https://exitocol.vtexassets.com/arquivos/ids/1978516-800-auto?width=800&height=auto&aspect=true
+115,,Sabor,1.0,,Bolsa x 105 gr,Snacks,No image,,,1.0,77.0,Papas Margarita  Fritas,3400.0,Natural,https://metrocolombiafood.vteximg.com.br/arquivos/ids/259434-750-750/7702189053787.jpg?v=637175640789670000
+116,,Sabor,1.0,,Bolsa x 105 gr,Snacks,No image,,,2.0,77.0,Papas Margarita  Fritas,3400.0,Pollo,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3484417-1000-1000/7702189053770.jpg?v=637175561929570000
+117,,Sabor,1.0,,Bolsa x 105 gr,Snacks,No image,,,1.0,78.0,Papas Margarita Onduladas  ,3400.0,Tomate,https://metrocolombiafood.vteximg.com.br/arquivos/ids/259437-1000-1000/7702189053848.jpg?v=637175640797800000
+118,,Sabor,1.0,,Bolsa x 105 gr,Snacks,No image,,,2.0,78.0,Papas Margarita Onduladas  ,3400.0,Mayonesa,https://metrocolombiafood.vteximg.com.br/arquivos/ids/259435-1000-1000/7702189053831.jpg?v=637175640793430000
+119,,Sabor,1.0,,Bolsa x 120 gr,Snacks,No image,,,1.0,79.0,Papas Margarita Receta Clasica ,3900.0,Alitas BBQ,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3484397-1000-1000/7702189051455.jpg?v=637175561863830000
+120,,Sabor,1.0,,Bolsa x 120 gr,Snacks,No image,,,2.0,79.0,Papas Margarita Receta Clasica ,3900.0,Sal,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3484396-1000-1000/7702189051431.jpg?v=637175561850070000
+121,,Sabor,1.0,,Bolsa x 182 gr,Snacks,No image,,,1.0,80.0,Papas Margarita Fosforito,4100.0,Natural,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/190424-1000-1000/7702189033093.jpg?v=636162204226800000
+122,,Sabor,1.0,,Bolsa x 230 gr,Snacks,No image,,,1.0,81.0,Choclitos Margarita ,3700.0,Limon,https://secureservercdn.net/50.62.88.95/vx2.bc3.myftpupload.com/wp-content/uploads/2019/05/7702189045799.jpg?time=1599745994
+123,,Sabor,1.0,,Bolsa x 185 gr,Snacks,No image,,,1.0,82.0,Doritos Margarita ,4300.0,Mega Queso,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3484386-1000-1000/7702189045782.jpg?v=637175561819070000
+124,,Sabor,1.0,,Bolsa x 160 gr,Snacks,No image,,,1.0,83.0,Cheetos Margarita Horneados,3200.0,Boliqueso,https://metrocolombiafood.vteximg.com.br/arquivos/ids/259395-1000-1000/7702189045577.jpg?v=637175640651200000
+125,,Sabor,1.0,,Bolsa x 43 gr,Snacks,No image,,,1.0,84.0,Cheetos Margarita Horneados,1000.0,Trissitos ,https://metrocolombiafood.vteximg.com.br/arquivos/ids/259449-1000-1000/7702189054739.jpg?v=637175640838030000
+126,,Sabor,1.0,,Bolsa x 43 gr,Snacks,No image,,,2.0,84.0,Cheetos Margarita Horneados,1000.0,Maxi,https://metrocolombiafood.vteximg.com.br/arquivos/ids/259445-1000-1000/7702189054708.jpg?v=637175640828530000
+127,,Sabor,1.0,,Bolsa x 250 gr,Snacks,No image,,,1.0,85.0,Papas Yupi Golpe Con Todo,5200.0,Ranchero,https://cdn.totalcode.com/la14/product-zoom/es/golpe-con-todo-ranchero-250g-2.jpg
+128,,Sabor,1.0,,Bolsa x 140 gr,Snacks,No image,,,1.0,86.0,Papas Yupi Golpe Con Todo,3400.0,Original,https://cdn.totalcode.com/la14/product-zoom/es/golpe-con-todo-original-140g-1.jpg
+129,,Sabor,1.0,,Bolsa x 140 gr,Snacks,No image,,,2.0,86.0,Papas Yupi Golpe Con Todo,3400.0,Ranchero,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/174666-750-750/7703133073509---1.jpg?v=636112866901500000
+130,,Sabor,1.0,,Bolsa x 140 gr,Snacks,No image,,,3.0,86.0,Papas Yupi Golpe Con Todo,3400.0,Mayonesa,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3531092-750-750/7703133086745.jpg?v=637310525651830000
+131,,Sabor,1.0,,Bolsa x 250 gr,Snacks,No image,,,1.0,87.0,Papas Yupi Rizadas,5200.0,Mayonesa,https://exitocol.vtexassets.com/arquivos/ids/1818135-800-auto?width=800&height=auto&aspect=true
+132,,Sabor,1.0,,Bolsa x 110 gr,Snacks,No image,,,1.0,88.0,Papas Yupi Rizadas,3200.0,Natural,https://exitocol.vtexassets.com/arquivos/ids/1818144-800-auto?width=800&height=auto&aspect=true
+133,,Sabor,1.0,,Bolsa x 110 gr,Snacks,No image,,,2.0,88.0,Papas Yupi Rizadas,3200.0,Tomate,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3409977-1000-1000/7703133088121.jpg?v=636918079591070000
+134,,Sabor,1.0,,Bolsa x 110 gr,Snacks,No image,,,3.0,88.0,Papas Yupi Rizadas,3200.0,Mayonesa,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3531098-1000-1000/7703133088510.jpg?v=637310525670300000
+135,,Sabor,1.0,,Bolsa x 110 gr,Snacks,No image,,,4.0,88.0,Papas Yupi Rizadas,3200.0,Pollo,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3531097-1000-1000/7703133088497.jpg?v=637310525666700000
+136,,Sabor,1.0,,Bolsa x 110 gr,Snacks,No image,,,5.0,88.0,Papas Yupi Rizadas,3200.0,Limon,https://exitocol.vtexassets.com/arquivos/ids/1818147-800-auto?width=800&height=auto&aspect=true
+137,,Sabor,1.0,,Bolsa x 160 gr,Snacks,No image,,,1.0,89.0,Tosti Nacho Yupi ,2700.0,Queso,https://exitocol.vtexassets.com/arquivos/ids/1818153-800-auto?width=800&height=auto&aspect=true
+138,,Sabor,1.0,,Bolsa x 100 gr,Snacks,No image,,,1.0,90.0,Tocinetas Fred Yupi ,3300.0,Original,https://metrocolombiafood.vteximg.com.br/arquivos/ids/278588-1000-1000/7703133007283.jpg?v=637310528525400000
+139,,Sabor,1.0,,Bolsa x 138 gr,Snacks,No image,,,1.0,91.0,Papas Chefrito Fritas,2900.0,Pollo,
+140,,Sabor,1.0,,Bolsa x 156 gr,Snacks,No image,,,1.0,92.0,Trocipollo Chefrito ,2700.0,Pollo,
+141,,Sabor,1.0,,Bolsa x 130 gr,Snacks,No image,,,1.0,93.0,Palokitos Chefrito ,2700.0,Limon,https://cdn.derematazo.com/wp-content/uploads/2019/08/Palitos-Palokitos-limon-x-130-g-69547.jpg
+142,,Sabor,1.0,,Bolsa x 40 gr,Snacks,tocinetaschefrito941.png,,,1.0,94.0,Tocinetas Chefrito,1600.0,Original,https://merkeygane.com/1923-home_default/tocineta.jpg
+143,,Sabor,1.0,,Bolsa x 250 ,Embutidos,No image,,,1.0,95.0,Mortadela Zenu,4300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515151-1000-1000/7701101270059-1.jpg?v=637279379684170000
+144,,Sabor,1.0,,Bolsa x 450 ,Embutidos,No image,,,1.0,96.0,Mortadela Zenu,6800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515154-1000-1000/7701101270349-1.jpg?v=637279379697970000
+145,,Sabor,1.0,,Bolsa x 250 ,Embutidos,No image,,,1.0,97.0,Mortadela Zenu Pollo,4300.0,,https://exitocol.vtexassets.com/arquivos/ids/1964434/Mortadela-Pollo-X-250g-245125_b.png?v=637258602142030000
+146,,Sabor,1.0,,Bolsa x 450 ,Embutidos,No image,,,1.0,98.0,Mortadela Zenu Pollo,6900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515153-1000-1000/7701101270332-1.jpg?v=637279379696530000
+147,,Sabor,1.0,,Bolsa x 250 ,Embutidos,No image,,,1.0,99.0,Mortadela Rica,0.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/273476-1000-1000/7702398001401-1.jpg?v=637280281908130000
+148,,Sabor,1.0,,Bolsa x 450 ,Embutidos,No image,,,1.0,100.0,Mortadela Rica,5400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515457-750-750/7702398001449-1.jpg?v=637280282213170000
+149,,Sabor,1.0,,Bolsa x 250 ,Embutidos,No image,,,1.0,101.0,Mortadela Rica Pollo,4300.0,,https://mk0mercasmart8va0b4r.kinstacdn.com/wp-content/uploads/2020/06/7702398001661_H1C1-1-MORTADELA-RICA-POLLO-X-250.jpg
+150,,Sabor,1.0,,Bolsa x 230,Embutidos,No image,,,1.0,102.0,Jamon Zenu,6400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515155-750-750/7701101280638-1.jpg?v=637279379703730000
+151,,Sabor,1.0,,Bolsa x 450 ,Embutidos,No image,,,1.0,103.0,Jamon Zenu,10400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515157-750-750/7701101280645-1.jpg?v=637279379720170000
+152,,Sabor,1.0,,Bolsa x 230,Embutidos,No image,,,1.0,104.0,Jamon Rica,5600.0,,https://mk0mercasmart8va0b4r.kinstacdn.com/wp-content/uploads/2020/06/7702398017877_H1C1JAMON-IDEAL-X-230.jpg
+153,,Sabor,1.0,,Bolsa x 400 ,Embutidos,No image,,,1.0,105.0,Jamon Rica,7500.0,,https://mercaldas.vteximg.com.br/arquivos/ids/187364-400-400/Jamon-RICA-ideal-x400-g.jpg?v=637141071050670000
+154,,Sabor,1.0,,Bolsa x 230,Embutidos,No image,,,1.0,106.0,Jamon Pietran,7900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3516939-1000-1000/7701101356098-1.jpg?v=637285313006770000
+155,,Sabor,1.0,,Bolsa x 431,Embutidos,No image,,,1.0,107.0,Jamon Pietran,13800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3534241-1000-1000/7701101358542.jpg?v=637321696275630000
+156,,Sabor,1.0,,Bolsa x 225,Embutidos,No image,,,1.0,108.0,Salchicha Tradicional Zenu,4500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515145-1000-1000/7701101261071-1.jpg?v=637279379656200000
+157,,Sabor,1.0,,Bolsa x 240 ,Embutidos,No image,,,1.0,109.0,Salchicha Zenu Perro Caliente,5200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515150-750-750/7701101261521-1.jpg?v=637279379677130000
+158,,Sabor,1.0,,Bolsa x 480 ,Embutidos,No image,,,1.0,110.0,Salchicha Zenu Perro Caliente,9600.0,,https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images1012343.jpg
+159,,Sabor,1.0,,Bolsa x 230 ,Embutidos,No image,,,1.0,111.0,Salchicha Rica ,4100.0,,https://mk0mercasmart8va0b4r.kinstacdn.com/wp-content/uploads/2020/06/7702398027425-1-7.jpg
+160,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,112.0,Salchicha Rica ,6500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515473-1000-1000/7702398027432-1.jpg?v=637280282262030000
+161,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,113.0,Salchicha Rica Llanera,9200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515473-1000-1000/7702398027432-1.jpg?v=637280282262030000
+162,,Sabor,1.0,,Bolsa x 230,Embutidos,No image,,,1.0,114.0,Salchicha Ranchera,8100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515446-750-750/7701101247273-1.jpg?v=637280282176130000
+163,,Sabor,1.0,,Bolsa x 480 ,Embutidos,No image,,,1.0,115.0,Salchicha Ranchera,14900.0,,https://exitocol.vtexassets.com/arquivos/ids/1975588/Salchicha-Ranchera-X-480-G-1047205_b.png?v=637259075909300000
+164,,Sabor,1.0,,Barra x 900,Embutidos,No image,,,1.0,116.0,Salchichon Zenu Cervecero ,14200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515127-1000-1000/7701101246894-1.jpg?v=637279379579500000
+165,,Sabor,1.0,,Bolsa x 225,Embutidos,No image,,,1.0,117.0,Salchichon Zenu Tradicional,3900.0,,https://admin.consumo.com.co/backend/admin/backend/web/archivosDelCliente/items/images/Carnes-Frescas-Procesadas-y-Congeladas-Carnes-Frias-SALCHICHON-ZENU-X-225-GR-TRADICIONAL-113820200606233301.jpg
+166,,Sabor,1.0,,Bolsa x 250,Embutidos,No image,,,1.0,118.0,Salchichon Zenu Pollo,3400.0,,https://supermercadocomunal.com/557-large_default/salchichon-zenu-brost-250-gr.jpg
+167,,Sabor,1.0,,Bolsa x 235,Embutidos,No image,,,1.0,119.0,Chorizo Zenu Ternera,5900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3515172-750-750/7701101357231-1.jpg?v=637279379819400000
+168,,Sabor,1.0,,Bolsa x 400,Embutidos,No image,,,1.0,120.0,Chorizo Rica ,7400.0,,https://i2.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2019/06/chorizo_rica_400gr.jpg?fit=700%2C700&ssl=1
+169,,Sabor,1.0,,Bolsa x 165,Embutidos,No image,,,1.0,121.0,Chorizo Rica ,3300.0,,https://i1.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2019/10/chorizo_rica_165gr.jpg?fit=600%2C600&ssl=1
+170,,Sabor,1.0,,Bolsa x 450 ,Embutidos,No image,,,1.0,122.0,Rollo Carne Rica,6900.0,,https://www.rica.com.co/wp-content/uploads/2017/08/Producto16.png
+171,,Sabor,1.0,,Bolsa x 130,Embutidos,No image,,,1.0,123.0,Hamburguesa Ranchera ,3500.0,,https://mistiendas.com.co/plazaoeste/1181-large_default/hamburguesa-ranchera-x130.jpg
+172,,Sabor,1.0,,Bolsa x 250,Embutidos,No image,,,1.0,124.0,Jamon Seleccionado Colanta,5300.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702129075251.jpg
+173,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,125.0,Jamon Seleccionado Colanta,9900.0,,https://colanta.com/sabe-mas/wp-content/uploads/2019/11/jamon-seleccionado-500-g_1000x1000.png
+174,,Sabor,1.0,,Bolsa x 250,Embutidos,No image,,,1.0,126.0,Morcilla Colanta,3400.0,,https://vaquitaexpress.com.co/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/7/7/7702129072823.jpg
+175,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,127.0,Morcilla Colanta,6400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3485044-1000-1000/7702129072809.jpg?v=637179144028930000
+176,,Sabor,1.0,,Bolsa x 250,Embutidos,No image,,,1.0,128.0,Salchicha Colanta,3800.0,,https://mistiendas.com.co/nuevo-milenio/3481-medium_default/chorizo-fricar-x6-ternera.jpg
+177,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,129.0,Salchicha Colanta,7100.0,,https://colanta.com/sabe-mas/wp-content/uploads/2019/11/salchicha-seleccionada-500-g_1000x1000.png
+178,,Sabor,1.0,,Bolsa x 400,Embutidos,No image,,,1.0,130.0,Salchicha Colanta XL,4900.0,,https://exitocol.vtexassets.com/arquivos/ids/1994125-800-auto?width=800&height=auto&aspect=true
+179,,Sabor,1.0,,Bolsa x 250,Embutidos,No image,,,1.0,131.0,Chorizo Colanta Ternera,5600.0,,https://images.jumpseller.com/store/mercappdos/4164236/montefrio021.jpg?0
+180,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,132.0,Chorizo Colanta Ternera,10400.0,,https://colanta.com/sabe-mas/wp-content/uploads/2019/11/chorizo-con-ternera-500-g_1000x1000.png
+181,,Sabor,1.0,,Bolsa x 250,Embutidos,No image,,,1.0,133.0,Chorizo Colanta Santarrosano,5500.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/167610-1000-1000/7702129072564-1.jpg?v=636671030144470000
+182,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,134.0,Chorizo Colanta Santarrosano,11200.0,,https://colanta.com/sabe-mas/wp-content/uploads/2019/11/chorizo-santarrosano-500-g_1000x1000.png
+183,,Sabor,1.0,,Bolsa x 250,Embutidos,No image,,,1.0,135.0,Chorizo Colanta Campeisno,5300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3323040-1000-1000/7702129072342-1.jpg?v=636670897053430000
+184,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,136.0,Chorizo Colanta Campeisno,9900.0,,https://colanta.com/sabe-mas/wp-content/uploads/2019/11/chorizo-campesino-500-g_1000x1000.png
+185,,Sabor,1.0,,Bolsa x 150 ,Embutidos,No image,,,1.0,137.0,Tocineta Colanta ,6600.0,,https://exitocol.vtexassets.com/arquivos/ids/1992370/TOCINETA-35898_a.png?v=637261651221770000
+186,,Sabor,1.0,,Bolsa x 500 ,Embutidos,No image,,,1.0,138.0,Hamburguesa Colanta ,8500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3490343-1000-1000/7702129076531.jpg?v=637200604393700000
+187,,Sabor,1.0,,Bolsa x 250,Embutidos,No image,,,1.0,139.0,Mortadela La Esperanza ,3400.0,,
+188,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,140.0,Mortadela La Esperanza ,5800.0,,
+189,,Sabor,1.0,,Bolsa x 250,Embutidos,No image,,,1.0,141.0,Jamon La Esperanza,4700.0,,
+190,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,142.0,Jamon La Esperanza,7500.0,,
+191,,Sabor,1.0,,Bolsa x 450 ,Embutidos,No image,,,1.0,143.0,Hamburguesa La Esperanza,8100.0,Res ,http://www.petunia.com.co/wp-content/uploads/2016/01/HAMBURGUESA-LA-ESPERANZA-DE-RES-X-5-UNIDADES.jpg
+192,,Sabor,1.0,,Bolsa x 450 ,Embutidos,No image,,,2.0,143.0,Hamburguesa La Esperanza,8100.0,Pollo,https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Hamburguesa-pollo.jpg
+193,,Sabor,1.0,,Bolsa x 480 ,Embutidos,No image,,,1.0,144.0,Salchicha La Esperanza Mini Manguera,4200.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/app/salchicha.jpg
+194,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,145.0,Salchicha La Esperanza Perro Caliente,7200.0,,
+195,,Sabor,1.0,,Bolsa x 500,Embutidos,No image,,,1.0,146.0,Chorizo La Esperanza Mexicano,9600.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Chorizo-mexicano.jpg
+196,,Sabor,1.0,,Bolsa x 250,Embutidos,No image,,,1.0,147.0,Chorizo La Esperanza Coctel,5900.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Chorizo-coctel.jpg
+197,,Sabor,1.0,,Bolsa x 150,Embutidos,No image,,,1.0,148.0,Tocineta La Esperanza ,3800.0,,https://s.cornershopapp.com/product-images/1367291.jpg?versionId=A5oVBQDsQWUESWDFQzGUTU43ohrFwZkF
+198,,Sabor,1.0,,Bolsa x 350 gr,Arepas,No image,,,1.0,149.0,Arepas Don Felipe Pequeñas,1600.0,,
+199,,Sabor,1.0,,Bolsa x 480 gr,Arepas,No image,,,1.0,150.0,Arepas Don Felipe Cafeteras,2000.0,,
+200,,Sabor,1.0,,Bolsa x 730 gr,Arepas,No image,,,1.0,151.0,Arepas Don Felipe Plancha ,3000.0,,
+201,,Sabor,1.0,,Bolsa x 380 gr,Arepas,No image,,,1.0,152.0,Arepas Don Felipe Medianas Queso,2800.0,,
+202,,Sabor,1.0,,Bolsa x 350 gr,Arepas,No image,,,1.0,153.0,Arepas Don Felipe Plancha  Queso,2800.0,,
+203,,Sabor,1.0,,Bolsa x 800 gr,Arepas,No image,,,1.0,154.0,Arepas Don Felipe Rellenas de Queso,4300.0,,
+204,,Sabor,1.0,,Bolsa x 330 gr,Arepas,No image,,,1.0,155.0,Arepas Don Felipe Chocolo,2000.0,,
+205,,Sabor,1.0,,Cubeta x 30 ,Huevos,No image,,,1.0,156.0,Huevos Tipo A,7600.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/HUEVOSA30-800x800.jpg
+206,,Sabor,1.0,,Cubeta x 30 ,Huevos,No image,,,2.0,156.0,Huevos Tipo AA,8900.0,,https://esenserio.com/wp-content/uploads/2020/04/carton30huevos.jpg
+207,,Sabor,1.0,,Cubeta x 30 ,Huevos,No image,,,3.0,156.0,Huevos Extra,9900.0,,https://quoagro.com/wp-content/uploads/2020/07/Huevos30.jpg
+208,,Sabor,1.0,,Bolsa x 480 gr,Quesos,No image,,,1.0,157.0,Queso El Potal Tajado,8100.0,,
+209,,Sabor,1.0,,Bolsa x 240 gr,Quesos,No image,,,1.0,158.0,Queso El Potal Tajado,4200.0,,
+210,,Sabor,1.0,,Bolsa x 480 gr,Quesos,No image,,,1.0,159.0,Queso El Portal Entero,8100.0,,
+211,,Sabor,1.0,,Bolsa x 240 gr,Quesos,No image,,,1.0,160.0,Queso El Portal Entero,4100.0,,
+212,,Sabor,1.0,,Bolsa x 250 gr,Quesos,No image,,,1.0,161.0,Queso MilkChefs Campesino ,4100.0,,
+213,,Sabor,1.0,,Bolsa x 1.250 gr,Quesos,No image,,,1.0,162.0,Queso Lactimuu Entero ,18500.0,,
+214,,Sabor,1.0,,Bolsa x 400 gr,Quesos,No image,,,1.0,163.0,Queso Lactimuu Entero ,6800.0,,
+215,,Sabor,1.0,,Bolsa x 240 gr,Quesos,No image,,,1.0,164.0,Queso Lactimuu Entero ,4500.0,,
+216,,Sabor,1.0,,Bolsa x 500 gr,Quesos,No image,,,1.0,165.0,Queso Lactimuu Tajado,7950.0,,
+217,,Sabor,1.0,,Bolsa x 240 gr,Quesos,No image,,,1.0,166.0,Queso Lactimuu Tajado,4500.0,,
+218,,Sabor,1.0,,Bolsa x 250 gr,Quesos,No image,,,1.0,167.0,Queso Alpina Campesino ,6700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496898-1000-1000/7702001016068.jpg?v=637230820119430000
+219,,Sabor,1.0,,Bolsa x 250 gr,Quesos,No image,,,1.0,168.0,Queso Alpina Mozarella Entero,7400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496900-750-750/7702001015603.jpg?v=637230820128030000
+220,,Sabor,1.0,,Bolsa x 100 gr,Quesos,No image,,,1.0,169.0,Queso Alpina Parmesano ,8000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496908-1000-1000/7702001012053.jpg?v=637230820156500000
+221,,Sabor,1.0,,Bolsa x 40 gr,Quesos,No image,,,1.0,170.0,Queso Alpina Parmesano ,3200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496909-1000-1000/7702001012022.jpg?v=637230820157130000
+222,,Sabor,1.0,,Tarro x 375 gr,Quesos,No image,,,1.0,171.0,Quesito Alpina Entero,6300.0,,https://www.dumbomania.com/wp-content/uploads/2019/04/Alpina-quesito.jpg
+223,,Sabor,1.0,,Tarro x 185 gr,Quesos,No image,,,1.0,172.0,Quesito Alpina Entero,3500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496674-750-750/7702001133611.jpg?v=637230819237870000
+224,,Sabor,1.0,,Bolsa x 240 gr,Quesos,No image,,,1.0,173.0,Queso Alpina Sabana Tajado,12200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496687-750-750/7702001121731.jpg?v=637230819294200000
+225,,,1.0,,Bolsa x 240 gr,Quesos,No image,,,1.0,174.0,Queso Alpina Mozarella Tajado,8500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496685-750-750/7702001121755.jpg?v=637230819284500000
+226,,,1.0,,Bolsa x 239 gr,Quesos,No image,,,1.0,175.0,Queso Alpina Finesse Tajado,9800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496683-1000-1000/7702001121779.jpg?v=637230819273070000
+227,,,1.0,,Bolsa x 250 gr,Quesos,No image,,,1.0,176.0,Queso Colanta Mozzarella Tajado,6900.0,,https://colanta.com/sabe-mas/wp-content/uploads/2019/01/mozzarella-tajado-250g.jpg
+228,,,1.0,,Bolsa x 250 g,Quesos,No image,,,1.0,177.0,Queso Colanta Mozzarella Entero,6900.0,,https://vaquitaexpress.com.co/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/7/7/7702129020350.jpg
+229,,,1.0,,Tarro x 200 gr,Quesos,No image,,,1.0,178.0,Queso Para Untar Alpina ,4000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496912-750-750/7702001011308.jpg?v=637230820175270000
+230,,,1.0,,Tarro x 380 gr,Quesos,No image,,,1.0,179.0,Queso Para Untar Alpina ,6300.0,,https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images2000456.jpg
+231,,,1.0,,Tarro x 400 gr,Quesos,No image,,,1.0,180.0,Queso Para Untar Colanta ,6100.0,,https://cdn.totalcode.com/la14/product-zoom/es/queso-crema-colanta-x-400g-1.jpg
+232,,,1.0,,Tarro x 230 gr,Quesos,No image,,,1.0,181.0,Queso Para Untar Colanta ,3700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/160789-1000-1000/7702129025201-281-29.jpg?v=636106927528370000
+233,,,1.0,,Barra x 250,Margarinas,No image,,,1.0,182.0,Margatina La Fina ,2900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/199793-1000-1000/7702161002000.jpg?v=636258709800700000
+234,,,1.0,,Barra x 500,Margarinas,No image,,,1.0,183.0,Margatina La Fina ,5900.0,,https://secureservercdn.net/50.62.88.95/vx2.bc3.myftpupload.com/wp-content/uploads/2019/07/7702161003007-600x600.jpg
+235,,,1.0,,Barra x 250,Margarinas,No image,,,1.0,184.0,Maragarina Dagusto,2700.0,,https://s3.us-east-2.amazonaws.com/iyata-eldivino/productos/W8vBKZJPRD.jpg
+236,,,1.0,,Barra x 500,Margarinas,No image,,,1.0,185.0,Maragarina Dagusto,5100.0,,https://mundohuevo.com/wp-content/uploads/2020/07/margarina_dagusto_500_gr.jpg
+237,,,1.0,,Barra x 250,Margarinas,maragarinarama1861.png,,,1.0,186.0,Maragarina Rama,3900.0,,https://images.rappi.com/products/797394-1575388251429.png
+238,,,1.0,,Barra x 250,Margarinas,No image,,,1.0,187.0,Maragarina La Buena,2900.0,,https://secureservercdn.net/50.62.88.95/vx2.bc3.myftpupload.com/wp-content/uploads/2019/04/7702116000297-600x600.jpg
+239,,,1.0,,Barra x 500,Margarinas,No image,,,1.0,188.0,Maragarina La Buena,5500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3498984-1000-1000/7702116000303.jpg?v=637237136332300000
+240,,,1.0,,Barra x 250,Margarinas,No image,,,1.0,189.0,Maragarina La Buena Cremosa,2900.0,,https://mercaldas.vteximg.com.br/arquivos/ids/185032-1000-1000/Margarina-cremosaLA-BUENA-x250-g.jpg?v=637026905462830000
+241,,,1.0,,Vaso x 250,Mantequilla,No image,,,1.0,190.0,Mantequilla La Fina,4600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496405-1000-1000/7702161002031.jpg?v=637230091293530000
+242,,,1.0,,Vaso x 250,Mantequilla,No image,,,1.0,191.0,Mantequilla Rama,4900.0,,https://admin.megatiendas.co/backend/admin/backend/web/archivosDelCliente/items/images/Lacteos-y-refrigerados-Mantequillas-y-margarinas-Margarina-Rama-Baja-en-Sal-x-250-g-955920200629125806.jpg
+243,,,1.0,,Vaso x 250,Mantequilla,No image,,,1.0,192.0,Mantequilla Rama Liviana,3600.0,,https://i0.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2019/04/rama_liviana_x250gr.jpg?fit=1000%2C1000&ssl=1
+244,,,1.0,,Barra x 125,Mantequilla,No image,,,1.0,193.0,Mantequilla Alpina con Sal,4800.0,,https://admin.megatiendas.co/backend/admin/backend/web/archivosDelCliente/items/images/Lacteos-y-refrigerados-Mantequillas-y-margarinas-Mantequilla-Alpina-con-Sal-x-125-g-969020200629125802.jpg
+245,,,1.0,,Barra x 125,Mantequilla,No image,,,2.0,193.0,Mantequilla Alpina sin Sal,4800.0,,https://admin.megatiendas.co/backend/admin/backend/web/archivosDelCliente/items/images/Lacteos-y-refrigerados-Mantequillas-y-margarinas-Mantequilla-Alpina-sin-Sal-x-125-g-969420200629125802.jpg
+246,,,1.0,,Vaso x 250,Mantequilla,No image,,,1.0,194.0,Mantequilla Campi Paisa ,4800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3498975-1000-1000/7702109007432.jpg?v=637237128342000000
+247,,,1.0,,Vaso x 250,Mantequilla,No image,,,2.0,194.0,Mantequilla Campi con Sal,4800.0,,https://admin.megatiendas.co/backend/admin/backend/web/archivosDelCliente/items/images/Lacteos-y-refrigerados-Mantequillas-y-margarinas-Margarina-Campi-con-Sal-x-250-g-1011420200629125804.jpg
+248,,,1.0,,Vaso x 250,Mantequilla,No image,,,3.0,194.0,Mantequilla Campi Sal Marina,4800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3493295-750-750/7702141007728.jpg?v=637217822895870000
+249,,,1.0,,Vaso x 500 ,Mantequilla,No image,,,1.0,195.0,Mantequilla Campi Paisa ,9100.0,,https://exitocol.vtexassets.com/arquivos/ids/2031601-800-auto?width=800&height=auto&aspect=true
+250,,,1.0,,Vaso x 500 ,Mantequilla,No image,,,2.0,195.0,Mantequilla Campi con Sal,9100.0,,https://exitocol.vtexassets.com/arquivos/ids/2031593/Mantequilla-Esparcible-Con-Sal-X-500-gr-102611_a.jpg?v=637267930725830000
+251,,,1.0,,Vaso x 500 ,Mantequilla,mantequillacampilight1961.png,,,1.0,196.0,Mantequilla Campi Light,9800.0,,https://campi.com.co/wp-content/uploads/2020/03/Tarrina-LIGHT.png
+252,,,1.0,,Bolsa x 200,Crema de Leche,No image,,,1.0,197.0,Crema de Leche Alqueria,2600.0,,https://exitocol.vtexassets.com/arquivos/ids/1978426-800-auto?width=800&height=auto&aspect=true
+253,,,1.0,,Bolsa x 200,Crema de Leche,No image,,,2.0,197.0,Crema de Leche Alqueria Libre,2600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3509436-1000-1000/7702177020012.jpg?v=637268855826800000
+254,,,1.0,,Bolsa x 450,Crema de Leche,No image,,,1.0,198.0,Crema de Leche Alqueria,5200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3509435-1000-1000/7702177020029.jpg?v=637268855817270000
+255,,,1.0,,Bolsa x 900,Crema de Leche,No image,,,1.0,199.0,Crema de Leche Alqueria,9900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3509431-1000-1000/7702177009123.jpg?v=637268855803970000
+256,,,1.0,,Botella x 1000 gr,Kumis,No image,,,1.0,200.0,Kumis Alpina ,9000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496802-1000-1000/7702001048113.jpg?v=637230819733070000
+257,,,1.0,,Bolsa x 1000 gr,Kumis,No image,,,1.0,201.0,Kumis Alpina ,5700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496803-750-750/7702001048106.jpg?v=637230819734500000
+258,,,1.0,,Vaso x 200 gr,Kumis,kumisalpina2021.png,,,1.0,202.0,Kumis Alpina ,2400.0,,https://content-us-7.content-cms.com//1285e1d2-5151-4eab-9da2-775291879cb9/dxresources/8149/8149c624-d78b-4fca-bd32-0452eb25bdfb.png
+259,,,1.0,,Bolsa x 1000 gr,Kumis,No image,,,1.0,203.0,Kumis Lacteos Superior ,4350.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/kumis-bolsa-1000g.jpg
+260,,,1.0,,Pack x 5 ,Kumis,No image,,,1.0,204.0,Kumis Lacteos Superior ,4600.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/Kumis-Vaso-Pack-x-5-NVO.jpg
+261,,Sabor,1.0,,Bolsa x 1000 gr,Yogurt,No image,,,1.0,205.0,Yogurt Lacteos Superior,4350.0,Mora ,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/litromora.jpg
+262,,Sabor,1.0,,Bolsa x 1000 gr,Yogurt,No image,,,2.0,205.0,Yogurt Lacteos Superior,4350.0,Fresa,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/Lacteos-Superior-Yogurt-Fresa-1L.jpg
+263,,Sabor,1.0,,Bolsa x 1000 gr,Yogurt,No image,,,3.0,205.0,Yogurt Lacteos Superior,4350.0,Melocoton,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/Yogurt-bolsa-melocoton-800x800.jpg
+264,,Sabor,1.0,,Botella x 4000,Yogurt,No image,,,1.0,206.0,Yogurt Lacteos Superior,19900.0,Mora ,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3322973-1000-1000/7702298008388-1.jpg?v=636670896851570000
+265,,Sabor,1.0,,Botella x 4000,Yogurt,No image,,,2.0,206.0,Yogurt Lacteos Superior,19900.0,Fresa,https://metrocolombiafood.vteximg.com.br/arquivos/ids/167570-750-750/7702298008395-1.jpg?v=636671029979730000
+266,,Sabor,1.0,,Botella x 4000,Yogurt,No image,,,3.0,206.0,Yogurt Lacteos Superior,19900.0,Melocoton,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/238897-1000-1000/7702298008364-1.jpg?v=636404657744770000
+267,,Sabor,1.0,,Botella x 1.750,Yogurt,No image,,,1.0,207.0,Yogurt Lacteos Superior,10500.0,Mora ,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/Yogurt-garrafa-1750g-light-mora-800x800.jpg
+268,,Sabor,1.0,,Botella x 1.750,Yogurt,No image,,,2.0,207.0,Yogurt Lacteos Superior,10500.0,Fresa,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/Garrafa-fresa-2-800x800.jpg
+269,,Sabor,1.0,,Botella x 1.750,Yogurt,No image,,,3.0,207.0,Yogurt Lacteos Superior,10500.0,Melocoton,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/Garrafa-melocoton-800x800.jpg
+270,,,1.0,,Vaso Pack x 5 ,Yogurt,No image,,,1.0,208.0,Yogurt Lacteos Superior,4600.0,,https://colsubsidiogrocery.vtexassets.com/arquivos/ids/158122/7702298004915.jpg?v=637276772496130000
+271,,,1.0,,Vaso Pack x 5 ,Yogurt,No image,,,1.0,209.0,Yogurt Lacteos Superior Con Masmelos,6700.0,,https://cdn.derematazo.com/wp-content/uploads/2019/08/Yogurt-gomas-Masmelo-Superior-pague-4-lleve-5x-130g-c-u-24026.jpg
+272,,,1.0,,Bolsa Pack x 7,Yogurt,No image,,,1.0,210.0,Yogurt Lacteos Superior,5000.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/167577-750-750/7702298004939-1.jpg?v=636671030011370000
+273,,,1.0,,Vaso Pack x 4,Yogurt,No image,,,1.0,211.0,Yogurt Lacteos Superior  ,6200.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/204832-750-750/7702298000818-1.jpg?v=636773705395130000
+274,,,1.0,,Bolsa Pack x 6,Yogurt,No image,,,1.0,212.0,Yogurt Lacteos Superior  Chiquigurt,2800.0,,https://supermercadosprogresar.vive.expert/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2E5SWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b4f8183c31dbda1429b45989ef2448ab40ab7ddf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9UY21WemFYcGxYMkZ1WkY5d1lXUmJDR2tDUUFGcEFrQUJld1k2QzJWNGRHVnVaRG9LZDJocGRHVTZER052Ym5abGNuUkpJZ2hxY0djR09nWkZWRG9LYzJGMlpYSjdDRG9NY1hWaGJHbDBlV2xmT2dwemRISnBjRlE2RDJKaFkydG5jbTkxYm1SYkNHa0IvMmtCLzJrQi93PT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--cce1b70dad3a0785ed15866f1aadf16af1f8013b/7702495466004.jpg?locale=es
+275,,,1.0,,Vaso Pack x 6,Gelatina,No image,,,1.0,213.0,Gelatina Lacteos Superior ,4100.0,,https://colsubsidiogrocery.vtexassets.com/arquivos/ids/158121/7702298001105.jpg?v=637276772492330000
+276,,,1.0,,Bolsa x 800 ml,Avena ,No image,,,1.0,214.0,Avena Alpina Original ,4500.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/275605-750-750/7702001145102.jpg?v=637296417754900000
+277,,,1.0,,Bolsa Pack x 6,Avena ,No image,,,1.0,215.0,Avena Alpina Original ,9000.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/266028-1000-1000/7702001042425.jpg?v=637230837768030000
+278,,,1.0,,Bolsa Pack x 6,Avena ,No image,,,2.0,215.0,Avena Alpina Canela,9000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496776-1000-1000/7702001055494.jpg?v=637230819633870000
+279,,,1.0,,Vaso x 250 gr,Avena ,No image,,,1.0,216.0,Avena Alpina Original ,2300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496825-1000-1000/7702001044504.jpg?v=637230819816700000
+280,,,1.0,,Vaso x 250 gr,Avena ,No image,,,2.0,216.0,Avena Alpina Canela,2300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496824-750-750/7702001044542.jpg?v=637230819809500000
+281,,,1.0,,Vaso x 250 gr,Avena ,No image,,,1.0,217.0,Avena Alpina Finesse,2900.0,,https://cdn.shopify.com/s/files/1/0358/7787/9941/products/2008557_2048x2048.jpg?v=1586651225
+282,,Sabor,1.0,,Botella x 185 gr,Yogurt,No image,,,1.0,218.0,Yogo Yogo Alpina Fresh,1500.0,Lulo,https://images.rappi.com/products/1779051-1597961266181.png?d=500x500
+283,,Sabor,1.0,,Botella x 185 gr,Yogurt,No image,,,2.0,218.0,Yogo Yogo Alpina Fresh,1500.0,Maracuya,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/7702001156962.jpg
+284,,Sabor,1.0,,Botella x 150 gr,Yogurt,No image,,,1.0,219.0,Yogo yogo Alpina Premio ,2400.0,Melocoton,https://mercaldas.vteximg.com.br/arquivos/ids/183274-1000-1000/Yogurt-ALPINA-yogo-yogo-premio-melocoton-x150-g.jpg?v=636996793172170000
+285,,Sabor,1.0,,Botella x 150 gr,Yogurt,No image,,,2.0,219.0,Yogo yogo Alpina Premio ,2400.0,Fresa,https://exitocol.vtexassets.com/arquivos/ids/1975151-800-auto?width=800&height=auto&aspect=true
+286,,Sabor,1.0,,Botella x 150 gr,Yogurt,No image,,,3.0,219.0,Yogo yogo Alpina Premio ,2400.0,Mora,https://exitocol.vtexassets.com/arquivos/ids/1975152/Yogurt-Mora-Yogo-Premio-En-Botella-X-150-gr-376580_a.jpg?v=637259055292130000
+287,,,1.0,,Caja x 1000 ml,Leche,lechealpinaentera2201.png,,,1.0,220.0,Leche Alpina Entera ,3600.0,,https://images.jumpseller.com/store/fanero/4932129/leche_alpina_entera.png?1591893359
+288,,,1.0,,Caja x 1000 ml,Leche,No image,,,1.0,221.0,Leche Alpina Deslactosada,3800.0,,https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images2000587.jpg
+289,,Sabor,1.0,,Caja x 140 gr,Alpinette,alpinettealpina2221.png,,,1.0,222.0,Alpinette Alpina ,2800.0,Melocoton,https://content-us-7.content-cms.com//1285e1d2-5151-4eab-9da2-775291879cb9/dxresources/5846/58461c72-4030-47f7-aeb9-9239a6b073ff.png?resize=600px%3A600px&crop=600%3A600%3B0%2C0
+290,,Sabor,1.0,,Caja x 140 gr,Alpinette,No image,,,2.0,222.0,Alpinette Alpina ,2800.0,Cereza,https://content-us-7.content-cms.com//1285e1d2-5151-4eab-9da2-775291879cb9/dxresources/623b/623b165b-df7c-434c-9476-c4f1c9e005b5.png?resize=600px%3A600px&crop=600%3A600%3B0%2C0
+291,,Sabor,1.0,,Caja x 140 gr,Alpinette,No image,,,3.0,222.0,Alpinette Alpina ,2800.0,Mora,https://www.f-webmedia.com/alpina/wp-content/uploads/2019/10/Alpinete-Mora-Anterior.png
+292,,Sabor,1.0,,Caja x 140 gr,Alpinette,No image,,,4.0,222.0,Alpinette Alpina ,2800.0,Fresa,https://www.f-webmedia.com/alpina/wp-content/uploads/2019/10/Alpinete-Fresa-Anterior.png
+293,,Sabor,1.0,,Pack x 4 x 45 ,Alpinito,No image,,,1.0,223.0,Alpinito Alpina ,4000.0,Melocoton ,https://mercaldas.vteximg.com.br/arquivos/ids/190599-1300-1300/Alpinito-ALPINA-sabor-melocoton-x45-g_25045.jpg?v=637268811877970000
+294,,Sabor,1.0,,Pack x 4 x 45 ,Alpinito,No image,,,2.0,223.0,Alpinito Alpina ,4000.0,Fresa,https://mercaldas.vteximg.com.br/arquivos/ids/183223-1300-1300/ALPINITO-Alpina-Sabor-Fresa-4-unds-x45-g.jpg?v=636996792985230000
+295,,Sabor,1.0,,Pack x 4 x 45 ,Alpinito,No image,,,3.0,223.0,Alpinito Alpina ,4000.0,Mora,https://mercaldas.vteximg.com.br/arquivos/ids/190135-1300-1300/Alpinito-ALPINA-sabor-mora-x4-unds-x45g_25047.jpg?v=637263808836100000
+296,,Sabor,1.0,,Pack x 4 x 90 gr,Alpinito,No image,,,1.0,224.0,Alpinito Alpina ,6400.0,Melocoton,https://www.larecettaencasa.com/wp-content/uploads/2020/07/2004905-300x300.jpg
+297,,Sabor,1.0,,Pack x 4 x 90 gr,Alpinito,alpinitoalpina2242.png,,,2.0,224.0,Alpinito Alpina ,6400.0,Fresa,https://res.cloudinary.com/riqra/image/upload/v1591035020/saas/Alpina/productos/productos%20alpina%20nuevos%202/STR_1313.png
+298,,Sabor,1.0,,Pack x 4 x 90 gr,Alpinito,alpinitoalpina2243.png,,,3.0,224.0,Alpinito Alpina ,6400.0,Mora,https://res.cloudinary.com/riqra/image/upload/v1591035015/saas/Alpina/productos/productos%20alpina%20nuevos%202/STR_1309.png
+299,,Sabor,1.0,,Pack x 4 x 90 gr,Alpinito,No image,,,4.0,224.0,Alpinito Alpina ,6400.0,Galleta y Frutos  R,https://cdn.derematazo.com/wp-content/uploads/2019/08/Alpinito-Max-Alpina-Frutos-Galleta-x-4und-x-90g-c-u-23978-2.jpg
+300,,Sabor,1.0,,Vaso x 108 gr,Gelatina,No image,,,1.0,225.0,Gelatina Alpina Boggy Premio,1700.0,Naranja,https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images2007137.jpg
+301,,Sabor,1.0,,Vaso x 108 gr,Gelatina,gelatinaalpinaboggypremio2252.png,,,2.0,225.0,Gelatina Alpina Boggy Premio,1700.0,Mora,https://content-us-7.content-cms.com/1285e1d2-5151-4eab-9da2-775291879cb9/dxresources/c133/c133b536-7461-4c8e-b5c6-35bb92bdce76.png?resize=600px%3A600px&crop=600%3A600%3B0%2C0
+302,,Sabor,1.0,,Vaso x 108 gr,Gelatina,No image,,,3.0,225.0,Gelatina Alpina Boggy Premio,1700.0,Fresa,https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images2007130.jpg
+303,,Sabor,1.0,,Vaso x 108 gr,Gelatina,No image,,,1.0,226.0,Gelatina Alpina Boggy ,1200.0,Naranja,https://lamayorista.com/wp-content/uploads/2020/07/7702001116997.jpg
+304,,Sabor,1.0,,Vaso x 108 gr,Gelatina,No image,,,2.0,226.0,Gelatina Alpina Boggy ,1200.0,Mora,https://lamayorista.com/wp-content/uploads/2020/07/7702001116980.jpg
+305,,Sabor,1.0,,Vaso x 108 gr,Gelatina,No image,,,3.0,226.0,Gelatina Alpina Boggy ,1200.0,Fresa,https://i0.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2019/03/gelatina_boggy_fresa.jpg?fit=600%2C600&ssl=1
+306,,Sabor,1.0,,Vaso x 100 gr,Yogurt,No image,,,1.0,227.0,Yogo Yogo Alpina Cuchareable,800.0,Fresa,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3537781-1000-1000/7702001155361.jpg?v=637345058183200000
+307,,Sabor,1.0,,Vaso x 100 gr,Yogurt,No image,,,2.0,227.0,Yogo Yogo Alpina Cuchareable,800.0,Melocoton,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3537780-1000-1000/7702001155378.jpg?v=637345058181470000
+308,,,1.0,,Vaso x 170 gr,Yogurt,No image,,,1.0,228.0,Yogurt Alqueria Con Cereal ,2500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3505121-1000-1000/7707331402185.jpg?v=637254199156330000
+309,,Sabor ,1.0,,Vaso x 150 gr,Yogurt,No image,,,1.0,229.0,Yogurt Alqueria Fortikids,1400.0,Fresa,https://cdn.derematazo.com/wp-content/uploads/2019/08/Yogurt-Alqueria-fortificado-fresa-x-150g-83819.jpg
+310,,Sabor ,1.0,,Vaso x 150 gr,Yogurt,No image,,,2.0,229.0,Yogurt Alqueria Fortikids,1400.0,Melocoton,https://www.mundoalqueria.co/wp-content/uploads/2018/06/Yogurt_ninos-1.png
+311,,Sabor ,1.0,,Vaso x 150 gr,Yogurt,yogurtalqueriafortikids2293.png,,,3.0,229.0,Yogurt Alqueria Fortikids,1400.0,Mora,https://m.lopido.com/images/productos/sii/F/300x300/yogurt_fortikids_mora_alqueria-142390-1591245087.png
+312,,,1.0,,Vaso x 100 gr,Yogurt,No image,,,1.0,230.0,Yogurt Alqueria MyM,2200.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/ALQUERIA_M&M_UNIDAD.jpg
+313,,,1.0,,Vaso x 100 gr,Yogurt,No image,,,2.0,231.0,Yogurt Alqueria Fortikids Trululu,2200.0,,https://web.superboom.net/web/image/product.template/21663/image
+314,,,1.0,,Bolsa x 300,Congelados,No image,,,1.0,232.0,Nuggets de Pollo Calypso,5500.0,,https://supermercadocomunal.com/666-large_default/nuggets-de-pollo-calypso-300-gr.jpg
+315,,,1.0,,Bolsa x 300,Congelados,No image,,,1.0,233.0,Pinchos de Pollo Calypso,5500.0,,https://supermercadocomunal.com/664-large_default/pinchos-de-pollo-calypso-300-gr.jpg
+316,,,1.0,,Bolsa x 360,Congelados,No image,,,1.0,234.0,Milanesa de Pollo Calypso,6400.0,,https://supermercadocomunal.com/668-large_default/milanesa-de-pollo-calypso-360-gr.jpg
+317,,,1.0,,Bolsa x 300,Congelados,No image,,,1.0,235.0,Hamburguesa de Pollo Calypso,5200.0,,https://lh3.googleusercontent.com/proxy/dTu-evzdYky0VYxx5qmsn6JXHh51fFj6UDMjA-_mZl-Or_Q9PoUzcOBFUIUFGCycCmzlLdtsrApLv4Xiry-s3fIijpP8pOBGlgOm3B6ukiqGhCL025oEtX4
+318,,,1.0,,Bolsa x 500,Congelados,No image,,,1.0,236.0,Papa Mydibel,4200.0,,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQoZylBRo_ls8YzMwj7Shz4zTb92MeHgB4LQ&usqp=CAU
+319,,,1.0,,Bolsa x 1000,Congelados,No image,,,1.0,237.0,Papa Mydibel ,6500.0,,https://cdn.happyfresh.com/spree/images/attachments/481483c264d9cf7abe92c3939071bb972dc1f1c0-wide.jpg
+320,,,1.0,,Bolsa x 2500,Congelados,No image,,,1.0,238.0,Papa Mydibel,14900.0,,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTlSvloZWjhilU4ghYMKQj8ZDUO4_wh0ykZA&usqp=CAU
+321,,,1.0,,Bolsa x 300,Congelados,No image,,,1.0,239.0,Anillos de Cebola Calypso,9800.0,,https://scontent.fbog4-1.fna.fbcdn.net/v/t1.0-9/s960x960/40376854_1959011687492692_8838058142634868736_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=DGSR5Ni1R2kAX-pqX4J&_nc_ht=scontent.fbog4-1.fna&tp=7&oh=6c3d8de4f14076a078d151e9e655c937&oe=5F81FE35
+322,,,1.0,,Bolsa x 500,Congelados,No image,,,1.0,240.0,Empanadas de Carne Calypso,7100.0,,https://scontent.fbog4-1.fna.fbcdn.net/v/t1.0-9/s960x960/46482926_2069288413131685_2176397522455494656_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=K0L6Kzj_w08AX___K-c&_nc_ht=scontent.fbog4-1.fna&tp=7&oh=456f96abd22b2ffb2ec45825af2f8a4d&oe=5F7FCAC8
+323,,,1.0,,Bolsa x 500,Congelados,No image,,,1.0,241.0,Yuca Croqueta Calypso,3400.0,,https://image.jimcdn.com/app/cms/image/transf/none/path/s3898bcdc373d61ea/image/i92bd05547e92245e/version/1562447717/image.jpg
+324,,,1.0,,Bolsa x 1000,Congelados,No image,,,1.0,242.0,Yuca Croqueta Calypso,6300.0,,https://villavoexpress.com/es/productos/yuca-en-croqueta-precocida-calypso
+325,,,1.0,,Bolsa x 500,Congelados,No image,,,1.0,243.0,Costillas de Cerdo ,10000.0,,
+326,,,1.0,,Bolsa x 250,Congelados,No image,,,1.0,244.0,Costillas de Cerdo ,5300.0,,
+327,,,1.0,,Bolsa x 500,Congelados,No image,,,1.0,245.0,Pollo en cubos,6100.0,,
+328,,,1.0,,Botella x 600,Agua,No image,,,1.0,246.0,Agua Brisa ,1500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3430380-1000-1000/7702535010327.jpg?v=636958676613100000
+329,,,1.0,,Botella x 600,Agua,No image,,,1.0,247.0,Agua Brisa con Gas,2200.0,,https://cdn.totalcode.com/la14/product-zoom/es/agua-brisa-con-gas-pet-x-600-ml-1.jpg
+330,,,1.0,,Garrafa x 6 lt,Agua,No image,,,1.0,248.0,Agua Brisa ,5500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/198535-1000-1000/7702535002650.jpg?v=636247709663500000
+331,,,1.0,,Botella x 600,Agua,No image,,,1.0,249.0,Agua Cristal ,1500.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157608-1000-1000/7702090022711-1.jpg?v=636670246786270000
+332,,,1.0,,Botella x 600,Agua,No image,,,1.0,250.0,Agua Cristal con Gas,1600.0,,https://www.licoexpress.co/wp-content/uploads/2020/05/Agua-Cristal-Con-Gas-Botella-600-ml.jpg
+333,,,1.0,,Botella x 1000,Agua,No image,,,1.0,251.0,Agua Cristal ,2000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/200135-1000-1000/7702090042054.jpg?v=636262153198770000
+334,,,1.0,,Bolsa x 6 lt,Agua,No image,,,1.0,252.0,Agua Cristal ,2500.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157611-1000-1000/7702090006407-1.jpg?v=636670246788830000
+335,,,1.0,,Garrafa x 5lt,Agua,No image,,,1.0,253.0,Agua Cristal ,4900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/241743-1000-1000/7702090006544.jpg?v=636462711510370000
+336,,,1.0,,Botellon x 18.5 lt,Agua,No image,,,1.0,254.0,Agua Cristal ,10900.0,,https://i0.wp.com/sumicorp.com/wp-content/uploads/2019/05/006044.jpg
+337,,Sabor,1.0,,Botella 1.5 lt,Agua,No image,,,1.0,255.0,Aqua Postobon,3000.0,Frutos rojos,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3485228-1000-1000/7702090062854.jpg?v=637179186835570000
+338,,Sabor,1.0,,Botella 1.5 lt,Agua,No image,,,2.0,255.0,Aqua Postobon,3000.0,Frutos Verdes,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3485229-750-750/7702090062861.jpg?v=637179186836330000
+339,,Sabor,1.0,,Botella 1.5 lt,Agua,No image,,,1.0,256.0,H2O ,3000.0,Lima limon ,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171659-1000-1000/7702090039986-20-281-29.jpg?v=636111275458230000
+340,,Sabor,1.0,,Botella 1.5 lt,Agua,No image,,,2.0,256.0,H2O ,3000.0,limonata,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/1448085-750-750/7702090044584-1.jpg?v=636494646993400000
+341,,Sabor,1.0,,Botella  x 600,Agua,No image,,,1.0,257.0,H2O ,2600.0,Lima limon ,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157617-750-750/7702090027884-1.jpg?v=636670246793800000
+342,,Sabor,1.0,,Botella  x 600,Agua,No image,,,2.0,257.0,H2O ,2600.0,limonata,https://metrocolombiafood.vteximg.com.br/arquivos/ids/165275-750-750/7702090044577-1.jpg?v=636670262270770000
+343,,Sabor,1.0,,Botella  x 600,Agua,No image,,,3.0,257.0,H2O ,2600.0,Maracuya,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171484-1000-1000/7702090029154-20-281-29.jpg?v=636111275115600000
+344,,Sabor,1.0,,Tetra x 1000,Jugos,No image,,,1.0,258.0,Jugo Hit ,2800.0,Naranja piña,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3466738-1000-1000/7702090038088.jpg?v=637078797055330000
+345,,Sabor,1.0,,Tetra x 1000,Jugos,No image,,,2.0,258.0,Jugo Hit ,2800.0,frutas tropicales,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702090038095.jpg
+346,,Sabor,1.0,,Tetra x 1000,Jugos,No image,,,3.0,258.0,Jugo Hit ,2800.0,mora,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702090038064.jpg
+347,,Sabor,1.0,,Tetra x 1000,Jugos,No image,,,4.0,258.0,Jugo Hit ,2800.0,mango,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702090038071.jpg
+348,,Sabor,1.0,,Botella 1.5 lt ,Jugos,jugohit2591.png,,,1.0,259.0,Jugo Hit ,3500.0,Naranja piña,https://www.merkaplace.com/web/image/product.product/2607/image?unique=2dbf121
+349,,Sabor,1.0,,Botella 1.5 lt ,Jugos,jugohit2592.png,,,2.0,259.0,Jugo Hit ,3500.0,frutas tropicales,https://merkaplace.com/web/image/product.product/2635/image?unique=2dbf121
+350,,Sabor,1.0,,Botella 1.5 lt ,Jugos,jugohit2593.png,,,3.0,259.0,Jugo Hit ,3500.0,mora,https://merkaplace.com/web/image/product.product/2606/image?unique=2dbf121
+351,,Sabor,1.0,,Botella 1.5 lt ,Jugos,jugohit2594.png,,,4.0,259.0,Jugo Hit ,3500.0,mango,https://merkaplace.com/web/image/product.product/2605/image?unique=2dbf121
+352,,Sabor,1.0,,Botella x 500 ,Jugos,No image,,,1.0,260.0,Jugo Hit ,2000.0,Naranja piña,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171621-750-750/7702090029871-20-281-29.jpg?v=636111275333130000
+353,,Sabor,1.0,,Botella x 500 ,Jugos,jugohit2602.png,,,2.0,260.0,Jugo Hit ,2000.0,frutas tropicales,https://merkaplace.com/web/image/product.product/2608/image?unique=2dbf121
+354,,Sabor,1.0,,Botella x 500 ,Jugos,jugohit2603.png,,,3.0,260.0,Jugo Hit ,2000.0,mora,https://merkaplace.com/web/image/product.product/2609/image?unique=2dbf121
+355,,Sabor,1.0,,Botella x 500 ,Jugos,No image,,,4.0,260.0,Jugo Hit ,2000.0,mango,https://bodegaeltrebol.com/wp-content/uploads/2018/11/jugo-hit-mango.jpeg
+356,,,1.0,,Botella 1.5 lt ,Jugos,jugohitrefresh2611.png,,,1.0,261.0,Jugo Hit Refresh ,2000.0,,https://tomatelavida.com.co/wp-content/uploads/2019/06/HIT-Refresh-mandarina-g-200x667.png
+357,,Sabor,1.0,,Botella x 500 ,Jugos,No image,,,1.0,262.0,Jugo del Valle ,1800.0,mora ,https://megaredil.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHQ2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa25d979f32d2e11b262d9ce36630fc6a9bf6c35/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9UY21WemFYcGxYMkZ1WkY5d1lXUmJDR2tCeUdrQnlIc0dPZ3RsZUhSbGJtUTZDbmRvYVhSbE9neGpiMjUyWlhKMFNTSUlhbkJuQmpvR1JWUTZDbk5oZG1WeWV3ZzZESEYxWVd4cGRIbHBYem9LYzNSeWFYQlVPZzlpWVdOclozSnZkVzVrV3docEFmOXBBZjlwQWY4PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--02ee172f724951cb0f5a5b4731dee471858aac52/7702535027066.jpg?locale=es
+358,,Sabor,1.0,,Botella x 500 ,Jugos,No image,,,2.0,262.0,Jugo del Valle ,1800.0,mango,https://www.cruzverde.com.co/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dw6fe92eb0/images/large/161669-1-JUGO-FRUTAL-CON-PULPA-DE-FRUTA-DEL-VALLE-BOT-X-500ML-MANGO.jpg?sw=1000&sh=1000
+359,,Sabor,1.0,,Botella 1 lt,Jugos,No image,,,1.0,263.0,Jugo del Valle ,3000.0,mora ,https://mercaldas.vteximg.com.br/arquivos/ids/197422-1000-1000/Refresco-DEL-VALLE-frutal-mora-botella-x1000-ml_118437.jpg?v=637346865760130000
+360,,Sabor,1.0,,Botella 1 lt,Jugos,No image,,,2.0,263.0,Jugo del Valle ,3000.0,mango,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702535023303.jpg
+361,,Sabor,1.0,,Botella 1.5 lt ,Jugos,No image,,,1.0,264.0,Jugo del Valle ,2500.0,frutas citricas,https://www.cruzverde.com.co/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dw732f5ebc/images/large/165423-1-BEBIDA-CON-JUGO-DEL-VALLE-BOT-X-1.5LT-FRESH-FRUTAS-CITRICAS.jpg?sw=1000&sh=1000
+362,,Sabor,1.0,,Botella 1.5 lt ,Jugos,No image,,,2.0,264.0,Jugo del Valle ,2500.0,mandarina,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3430357-1000-1000/7702535020371.jpg?v=636958676595500000
+363,,Sabor,1.0,,Botella 2.5 lt ,Jugos,No image,,,1.0,265.0,Jugo del Valle ,3800.0,frutas citricas,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702535022078.jpg
+364,,Sabor,1.0,,Botella 2.5 lt ,Jugos,No image,,,2.0,265.0,Jugo del Valle ,3800.0,mandarina,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3430361-1000-1000/7702535015537.jpg?v=636958676598500000
+365,,Sabor,1.0,,Botella x 900,Jugos,No image,,,1.0,266.0,Jugo Nectar California,4500.0,Mango,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/206635-1000-1000/7702617021449-20-1.jpg?v=636287519057470000
+366,,Sabor,1.0,,Botella x 900,Jugos,No image,,,2.0,266.0,Jugo Nectar California,4500.0,pera,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/189052-1000-1000/7702617021432.jpg?v=636156135380170000
+367,,Sabor,1.0,,Botella x 900,Jugos,No image,,,3.0,266.0,Jugo Nectar California,4500.0,manzana,https://exitocol.vtexassets.com/arquivos/ids/651063/Nectar-Manzana-900-ml-37130_a.jpg?v=637027003248470000
+368,,Sabor,1.0,,Botella x 900,Jugos,No image,,,4.0,266.0,Jugo Nectar California,4500.0,durazno,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/199774-750-750/7702617021418.jpg?v=636258709773030000
+369,,Sabor,1.0,,Caja x 1 lt,Jugos,No image,,,1.0,267.0,Jugo Nectar California,4500.0,Mango,https://metrocolombiafood.vteximg.com.br/arquivos/ids/169426-1000-1000/7702617022415-1.jpg?v=636674235632500000
+370,,Sabor,1.0,,Caja x 1 lt,Jugos,No image,,,2.0,267.0,Jugo Nectar California,4500.0,pera,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/206622-1000-1000/7702617022347-1.jpg?v=636287519040270000
+371,,Sabor,1.0,,Caja x 1 lt,Jugos,No image,,,3.0,267.0,Jugo Nectar California,4500.0,manzana,https://admin.megatiendas.co/backend/admin/backend/web/archivosDelCliente/items/images/Bebidas-Jugos-y-refrescos-Nectar-California-Manzana-x-1-L-978220200612224805.jpg
+372,,Sabor,1.0,,Caja x 1 lt,Jugos,No image,,,4.0,267.0,Jugo Nectar California,4500.0,durazno,https://metrocolombiafood.vteximg.com.br/arquivos/ids/169425-1000-1000/7702617022316-1.jpg?v=636674235631700000
+373,,,1.0,,Pack x 6 ,Jugos,No image,,,1.0,268.0,Jugo Nectar California Tetra,7500.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/164342-1000-1000/7702617071352-1.jpg?v=636670260788130000
+374,,,1.0,,Pack x 6 ,Jugos,No image,,,1.0,269.0,Jugo Nectar California Botella,9800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/1537017-1000-1000/7702617487399-1.jpg?v=636494777209270000
+375,,,1.0,,Pack x 6 ,Jugos,No image,,,1.0,270.0,Hit surtido,5200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171521-512-512/7702090031584-20-282-29.jpg?v=636111275200570000
+376,,Sabor,1.0,,Caja x 1 lt,Jugos,No image,,,1.0,271.0,Jugo Fruto Alpina,4600.0,manzana ,https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images2000519.jpg
+377,,Sabor,1.0,,Caja x 1 lt,Jugos,No image,,,2.0,271.0,Jugo Fruto Alpina,4600.0,pera ,https://cdn.derematazo.com/wp-content/uploads/2019/08/Nectar-pera-alpina-x-1000-ml-13757.jpg
+378,,Sabor,1.0,,Caja x 1 lt,Jugos,No image,,,3.0,271.0,Jugo Fruto Alpina,4600.0,durazno,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3496877-750-750/7702001023523.jpg?v=637230820035330000
+379,,,1.0,,Botella x 1 lt,Jugos,tangelocitrusalqueria2721.png,,,1.0,272.0,Tangelo Citrus Alqueria,2300.0,,https://www.alqueria.com.co/wp-content/uploads/2017/10/Tangelo-Botella-286-ml.png
+380,,,1.0,,Botella x 2 lt,Jugos,No image,,,1.0,273.0,Tangelo Citrus Alqueria,3900.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/Tangelo-Citrux.jpg
+381,,,1.0,,Botella x 380,Energizantes,No image,,,1.0,274.0,Vive 100,2000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/189904-1000-1000/7702354934361-1.jpg?v=636162021408970000
+382,,,1.0,,Botella x 380,Energizantes,No image,,,2.0,274.0,Vive 100,2000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/1447963-1000-1000/7702354944193-1.jpg?v=636494646886270000
+383,,,1.0,,Botella x 380,Energizantes,No image,,,3.0,274.0,Vive 100,2000.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702354941567.jpg
+384,,,1.0,,Botella x 380,Energizantes,No image,,,4.0,274.0,Vive 100,2000.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/169394-750-750/7702354939984-1.jpg?v=636674235585700000
+385,,,1.0,,Botella x 1000,Energizantes,No image,,,1.0,275.0,Vive 100,0.0,,https://web.superboom.net/web/image/product.template/15861/image
+386,,,1.0,,Lata,Energizantes,redbull2761.png,,,1.0,276.0,Red Bull,0.0,,https://www.nuevabotella.com.co/wp-content/uploads/2018/01/red-bull.png
+387,,,1.0,,Pack x 4 ,Energizantes,No image,,,1.0,277.0,Red Bull,0.0,,https://www.24hoursalcoholdelivery.co.uk/wp-content/uploads/2018/12/cts-3.jpg
+388,,,1.0,,Lata,Energizantes,No image,,,1.0,278.0,Monster Energy,5300.0,,https://www.chedraui.com.mx/medias/70847003656-00-CH1200Wx1200H?context=bWFzdGVyfHJvb3R8MTIxODg0fGltYWdlL2pwZWd8aGM2L2hhYS8xMDIyMzQwMjY4MDM1MC5qcGd8MzZiY2Q0OWUxMGJkYjRjMWY0YmQxZWM5MmQzOTBiYzIyYjM1MGI1MDUwNzFlNjM3NDIzMDNkZTExYmE0MDYyMg
+389,,,1.0,,Botella x 1 lt,Energizantes,No image,,,1.0,279.0,Speed,2000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3531652-1000-1000/7702090050974.jpg?v=637312039782170000
+390,,Sabor,1.0,,Botella x 500 ,Bebidas Hidratantes,No image,,,1.0,280.0,Gatorade ,2700.0,maracuya,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/234262-750-750/7702192224051-1.jpg?v=636323520383500000
+391,,Sabor,1.0,,Botella x 500 ,Bebidas Hidratantes,No image,,,2.0,280.0,Gatorade ,2700.0,frutas tropicales,https://www.licoresmundiales.com/pub/media/catalog/product/cache/6d1a366ec4c28c9c58646a10a644e322/g/a/gatorade_frutas_tropicales_3.jpg
+392,,Sabor,1.0,,Botella x 500 ,Bebidas Hidratantes,No image,,,3.0,280.0,Gatorade ,2700.0,mandarina,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171667-1000-1000/7702192218050-20-281-29.jpg?v=636111275492100000
+393,,Sabor,1.0,,Botella x 591,Bebidas Hidratantes,No image,,,1.0,281.0,Gatorade ,3200.0,mandarina ,https://www.chopinmol.com/22659-large_default/bebida-rehidratante-naranja-600ml-gatorade.jpg
+394,,Sabor,1.0,,Botella x 591,Bebidas Hidratantes,No image,,,2.0,281.0,Gatorade ,3200.0,frutas tropicales,https://mercaldas.vteximg.com.br/arquivos/ids/157465-1300-1300/13140.jpg?v=636918829708400000
+395,,Sabor,1.0,,Botella x 1 lt,Bebidas Hidratantes,No image,,,1.0,282.0,Gatorade ,4100.0,mandarina,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/206760-750-750/7702192418030-1.jpg?v=636287519353270000
+396,,Sabor,1.0,,Botella x 1 lt,Bebidas Hidratantes,No image,,,2.0,282.0,Gatorade ,4100.0,frutas tropicales,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/206763-750-750/7702192418047-20-1.jpg?v=636287519353600000
+397,,,1.0,,Pack x 3 ,Bebidas Hidratantes,No image,,,1.0,283.0,Gatorade Promo,6900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/200141-1000-1000/7702090030808.jpg?v=636262153208400000
+398,,,1.0,,Botella x 420,Bebidas Hidratantes,No image,,,1.0,284.0,Saviloe,3000.0,,https://images.jumpseller.com/store/fanero/4931903/SAVILOEX420MLX24U.jpg?1587075120
+399,,Sabor,1.0,,Botella x 540 ,Bebidas Hidratantes,No image,,,1.0,285.0,Zen Bebida gasificada,2000.0,Frutos rojos,https://metrocolombiafood.vteximg.com.br/arquivos/ids/244507-1000-1000/Frutos-Rojos-_-Flor-de-Jamaica-540ML--2.jpg?v=637033804435900000
+400,,Sabor,1.0,,Botella x 540 ,Bebidas Hidratantes,No image,,,2.0,285.0,Zen Bebida gasificada,2000.0,Hierbabuena,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3455234-1000-1000/7702354946685-1--1-.jpg?v=637030529615900000
+401,,,1.0,,Pack x 2,Bebidas Hidratantes,No image,,,1.0,286.0,Squash Promo,2600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/241753-1000-1000/7702090029994-1.jpg?v=636462711520130000
+402,,,1.0,,Botella x 2 lt,Gaseosas,No image,,,1.0,287.0,Gaseosa Postobon Pepsi,3000.0,,https://i0.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2020/04/IMG_0083.jpg?fit=898%2C1120&ssl=1
+403,,,1.0,,Botella x 2 lt,Gaseosas,No image,,,1.0,288.0,Gaseosa Postobon Naranja,3000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/200144-1000-1000/7702090029529.jpg?v=636262153209600000
+404,,,1.0,,Botella x 2 lt,Gaseosas,No image,,,1.0,289.0,Gaseosa Postobon 7UP,3000.0,,https://i1.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2020/04/refresco-7up-sabor-lima-limon-botella-de-2-l.jpg?fit=1200%2C1200&ssl=1
+405,,,1.0,,Botella x 2.5 lt,Gaseosas,No image,,,1.0,290.0,Gaseosa Postobon Colombiana,3000.0,,https://www.licoresmedellin.com/wp-content/uploads/2017/10/Colombiana-2.5lts-Licores_Medellin-.jpg
+406,,,1.0,,Botella x 2.5 lt,Gaseosas,No image,,,1.0,291.0,Gaseosa Postobon Manzana,3000.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702090016406.jpg
+407,,,1.0,,Botella x 2.5 lt,Gaseosas,No image,,,1.0,292.0,Gaseosa Postobon Uva,3000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/234258-1000-1000/7702090020649-1.jpg?v=636323520377570000
+408,,,1.0,,Botella x 1.5 lt,Gaseosas,No image,,,1.0,293.0,Gaseosa Postobon Uva Sin Calorias,2000.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/166662-1000-1000/7702090041316-1.jpg?v=636670855821300000
+409,,,1.0,,Botella x 3 lt,Gaseosas,No image,,,1.0,294.0,Gaseosa Postobon 7UP,2500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/200140-750-750/7702090022797.jpg?v=636262153205470000
+410,,,1.0,,Botella x 3 lt,Gaseosas,No image,,,1.0,295.0,Gaseosa Postobon Colombiana,5700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/176120-1000-1000/7702090022766-281-29.jpg?v=636114531436370000
+411,,,1.0,,Botella x 3 lt,Gaseosas,No image,,,1.0,296.0,Gaseosa Postobon Manzana,5700.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157467-1000-1000/7702090022797-1.jpg?v=636670241064300000
+412,,,1.0,,Botella x 3 lt,Gaseosas,No image,,,1.0,297.0,Gaseosa Postobon Pepsi,5700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171486-750-750/7702090022780-20-281-29.jpg?v=636111275117670000
+413,,,1.0,,Botella x 1.5 lt,Gaseosas,No image,,,1.0,298.0,Gaseosa Postobon Canada Dry,3000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/197879-750-750/7702090029581.jpg?v=636241489981970000
+414,,,1.0,,Botella x 1.5 lt,Gaseosas,No image,,,1.0,299.0,Gaseosa Postobon Bretaña ,3000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171634-750-750/7702090029543-20-281-29.jpg?v=636111275367600000
+415,,,1.0,,Duo pack x 3 lts,Gaseosas,No image,,,1.0,300.0,Gaseosa Postobon Promo,8600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/176104-750-750/7702090035339-20-281-29.jpg?v=636114531420200000
+416,,,1.0,,Pack x 6 ,Gaseosas,No image,,,1.0,301.0,Gaseosa Postobon Promo Mini,5400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/200140-750-750/7702090022797.jpg?v=636262153205470000
+417,,,1.0,,Botella x 1 lt,Gaseosas,No image,,,1.0,302.0,Gaseosa Pony Malta,2500.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157550-750-750/7702004013842-1.jpg?v=636670246711770000
+418,,,1.0,,Botella x 1.5 lt,Gaseosas,No image,,,1.0,303.0,Gaseosa Pony Malta,3500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3473642-750-750/7702004013514.jpg?v=637122151142400000
+419,,,1.0,,Botella x 2 lt,Gaseosas,No image,,,1.0,304.0,Gaseosa Pony Malta,4100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3491716-1000-1000/7702004025036.jpg?v=637209161182500000
+420,,,1.0,,Botella x 400,Gaseosas,No image,,,1.0,305.0,Gaseosa Coca Cola ,2000.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/241123-1000-1000/7702535011089.jpg?v=636989910515730000
+421,,,1.0,,Botella x 400,Gaseosas,No image,,,1.0,306.0,Gaseosa Coca Cola Sin azucar,2000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3472038-750-750/7702535005941.jpg?v=637115014533300000
+422,,,1.0,,Lata ,Gaseosas,No image,,,1.0,307.0,Gaseosa Coca Cola ,2100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3472039-1000-1000/7702535005354.jpg?v=637115015338000000
+423,,,1.0,,Pack x 6 ,Gaseosas,No image,,,1.0,308.0,Gaseosa Coca Cola Mini,6200.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702535009253.jpg
+424,,,1.0,,Botella x 1.5 lt,Gaseosas,No image,,,1.0,309.0,Gaseosa Coca Cola ,3800.0,,https://www.cruzverde.com.co/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dw8fc2921c/images/large/165950-1-BEBIDA-GASEOSA-COCA-COLA-BOT-X-1.5LT-MENOS-AZUCAR-ORIGINAL.jpg?sw=1000&sh=1000
+425,,,1.0,,Botella x 1.5 lt,Gaseosas,No image,,,1.0,310.0,Gaseosa Coca Cola Sin azucar,3700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171542-1000-1000/7702535011782-20-281-29.jpg?v=636111275237270000
+426,,,1.0,,Botella x 3 lt,Gaseosas,No image,,,1.0,311.0,Gaseosa Coca Cola ,6400.0,,https://www.licoresmedellin.com/wp-content/uploads/2017/10/Cocacola-3lts-Licores_Medellin-.jpg
+427,,,1.0,,Botella x 2.5 lt,Gaseosas,No image,,,1.0,312.0,Gaseosa Coca Cola Sin azucar,5800.0,,https://supermercado.carrefour.com.ar/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/7/7/7790895068096_02.jpg
+428,,,1.0,,Botella x 1.5 lt,Gaseosas,No image,,,1.0,313.0,Gaseosa Sprite,3100.0,,https://i2.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2019/08/gaseosa_sprite_1.5.jpg?fit=600%2C600&ssl=1
+429,,,1.0,,Botella x 1. 75 lt,Gaseosas,No image,,,1.0,314.0,Gaseosa Kola Roman,3100.0,,https://cdn.shopify.com/s/files/1/0247/8768/1379/products/producto_kola_roman_1e77edea-d2f4-4173-8cc2-eb0d8c6d499c.jpg?v=1594408250
+430,,,1.0,,Botella x 1.5 lt,Gaseosas,No image,,,1.0,315.0,Gaseosa Quatro,3100.0,,https://www.merkadomi.com/wp-content/uploads/2018/07/QUATRO-1.5-L.jpg
+431,,,1.0,,Botella x 3 lt,Gaseosas,No image,,,1.0,316.0,Gaseosa Sprite,6200.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/169348-1000-1000/7702535005910-1.jpg?v=636674235530200000
+432,,,1.0,,Botella x 3 lt,Gaseosas,No image,,,1.0,317.0,Gaseosa Kola Roman,6200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/196072-750-750/7702609001855.jpg?v=636228740345000000
+433,,,1.0,,Botella x 3 lt,Gaseosas,No image,,,1.0,318.0,Gaseosa Quatro,6200.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/169356-750-750/7702535005903-1.jpg?v=636674235538800000
+434,,,1.0,,Pack 3 lts,Gaseosas,No image,,,1.0,319.0,Gaseosa Promo Coca Cola + Quatro,9300.0,,https://cdn.derematazo.com/wp-content/uploads/2019/08/Gaseosa-Coca-Cola-x-3L-Gaseosa-Quatro-x-3L-11752.jpg
+435,,Sabor,1.0,,Botella x 400,Te Liquido,No image,,,1.0,320.0,Te Fuzetea,1500.0,limon,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/242320-750-750/7702535014240-2.jpg?v=636464630123200000
+436,,Sabor,1.0,,Botella x 400,Te Liquido,No image,,,2.0,320.0,Te Fuzetea,1500.0,mango ,https://colsubsidio.vteximg.com.br/arquivos/ids/166513-1200-1200/7702535018651.jpg?v=637299797471530000
+437,,Sabor,1.0,,Botella x 400,Te Liquido,No image,,,3.0,320.0,Te Fuzetea,1500.0,manzana,https://colsubsidio.vteximg.com.br/arquivos/ids/166512-1200-1200/7702535016688.jpg?v=637299797462300000
+438,,Sabor,1.0,,Botella x 400,Te Liquido,No image,,,4.0,320.0,Te Fuzetea,1500.0,durazno,https://www.cruzverde.com.co/on/demandware.static/-/Sites-masterCatalog_Colombia/default/dw8fc4989c/images/large/105422-1-FUZE-TEA-TE-NEGRO-FCO-X-400ML-DURAZNO.jpg
+439,,Sabor,1.0,,Botella x 500 ,Te Liquido,No image,,,1.0,321.0,Te Mr Tea,0.0,limon,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157744-1000-1000/7702090030839-1.jpg?v=636670246943830000
+440,,Sabor,1.0,,Botella x 500 ,Te Liquido,No image,,,2.0,321.0,Te Mr Tea,0.0,durazno,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/206885-1000-1000/7702090031294-20-1.jpg?v=636287519530070000
+441,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,322.0,Helado Popsy Arequipe,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492306-750-750/7705890010476.jpg?v=637212867363400000
+442,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,323.0,Helado Popsy Brownie,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492275-750-750/7705890050021.jpg?v=637212867242670000
+443,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,324.0,Helado Popsy Chocolate ,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492295-750-750/7705890020871.jpg?v=637212867317700000
+444,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,325.0,Helado Popsy Frutos del Bosque,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492297-1000-1000/7705890020451.jpg?v=637212867319730000
+445,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,326.0,Helado Popsy M&M,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492290-1000-1000/7705890021090.jpg?v=637212867297070000
+446,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,327.0,Helado Popsy Macadamia ,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492296-750-750/7705890020468.jpg?v=637212867317870000
+447,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,328.0,Helado Popsy Mandarina,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492304-750-750/7705890010483.jpg?v=637212867361670000
+448,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,329.0,Helado Popsy Milky Way ,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492291-1000-1000/7705890020949.jpg?v=637212867302670000
+449,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,330.0,Helado Popsy Oreo ,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492293-750-750/7705890020680.jpg?v=637212867311430000
+450,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,331.0,Helado Popsy Snikers,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492287-1000-1000/7705890021137.jpg?v=637212867290970000
+451,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,332.0,Helado Popsy Tres Leches,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492301-750-750/7705890011527.jpg?v=637212867339130000
+452,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,333.0,Helado Popsy Vainilla ,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492309-750-750/7705890010445.jpg?v=637212867376830000
+453,,,1.0,,Tarro 300 gr,Helados,No image,,,1.0,334.0,Helado Popsy Chocolate ,12500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492380-1000-1000/7705890021519.jpg?v=637213515323270000
+454,,,1.0,,Tarro 300 gr,Helados,No image,,,1.0,335.0,Helado Popsy Frutos del Bosque,12500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492381-750-750/7705890021526.jpg?v=637213516056900000
+455,,,1.0,,Tarro 300 gr,Helados,No image,,,1.0,336.0,Helado Popsy Oreo ,12500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492289-1000-1000/7705890021014.jpg?v=637212867296900000
+456,,,1.0,,Tarro 300 gr,Helados,No image,,,1.0,337.0,Helado Popsy Tres Leches,12500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492283-1000-1000/7705890021502.jpg?v=637212867268700000
+457,,,1.0,,Vaso x 60 ,Helados,No image,,,1.0,338.0,Helado Popsy Vainilla ,2800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492302-750-750/7705890011183.jpg?v=637212867352900000
+458,,,1.0,,Vaso x 60 ,Helados,No image,,,1.0,339.0,Helado Popsy Arequipe,2800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492299-750-750/7705890011268.jpg?v=637212867338200000
+459,,,1.0,,Vaso x 60 ,Helados,No image,,,1.0,340.0,Helado Popsy Chocolate ,2800.0,,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPCAW24xQ2v5Wad8s2pkuDyl2HGkqw7qdqeA&usqp=CAU
+460,,,1.0,,Vaso x 60 ,Helados,No image,,,1.0,341.0,Helado Popsy Coco,2800.0,,https://admin.megatiendas.co/backend/admin/backend/web/archivosDelCliente/items/images/Lacteos-y-refrigerados-Helados-Helado-Popsy-Coco-x-60-g-1068120200629125805.jpg
+461,,,1.0,,Vaso x 60 ,Helados,No image,,,1.0,342.0,Helado Popsy Frutos del Bosque,2800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492288-1000-1000/7705890021052.jpg?v=637212867295170000
+462,,,1.0,,Vaso x 60 ,Helados,No image,,,1.0,343.0,Helado Popsy M&M,2800.0,,https://admin.megatiendas.co/backend/admin/backend/web/archivosDelCliente/items/images/Lacteos-y-refrigerados-Helados-Helado-Popsy-MMs-x-60-g-1025120200629125805.jpg
+463,,,1.0,,Vaso x 60 ,Helados,No image,,,1.0,344.0,Helado Popsy Milky Way ,2800.0,,https://web.superboom.net/web/image/product.template/8579/image
+464,,,1.0,,Vaso x 60 ,Helados,No image,,,1.0,345.0,Helado Popsy Oreo ,2800.0,,https://s.cornershopapp.com/product-images/1088355.jpg?versionId=Z9LnN9zkiaIEhwGyseDfTHp_C2DR3uad
+465,,,1.0,,Vaso x 60 ,Helados,No image,,,1.0,346.0,Helado Popsy Vainilla ,2800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492302-750-750/7705890011183.jpg?v=637212867352900000
+466,,,1.0,,Vaso x 60 ,Helados,No image,,,1.0,347.0,Helado Popsy Ron Pasas,2800.0,,https://s.cornershopapp.com/product-images/1087682.jpg?versionId=rqS2dE4vhLTyvapEXZvh4ojTSXGUpGwE
+467,,,1.0,,Four Pack ,Helados,No image,,,1.0,348.0,Helado Popsy,10000.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7705890011503.jpg
+468,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,349.0,Helado Popsy Brownie Light,25500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492376-750-750/7705890030467.jpg?v=637213512431900000
+469,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,350.0,Helado Popsy Frutos del Bosque Light ,25500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492375-1000-1000/7705890030306.jpg?v=637213511274470000
+470,,,1.0,,Tarro 600 gr ,Helados,No image,,,1.0,351.0,Helado Popsy Vainilla Light,25500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492382-1000-1000/7705890030245.jpg?v=637213516677830000
+471,,,1.0,,Tarro 300 gr,Helados,No image,,,1.0,352.0,Helado Popsy Brownie Light,13000.0,,https://dreamedbodies.files.wordpress.com/2014/11/0000935205926416_lrg_a.jpg?w=640
+472,,,1.0,,Tarro 300 gr,Helados,No image,,,1.0,353.0,Helado Popsy Frutos del Bosque Light ,13000.0,,https://vixark.azureedge.net/lp-i-i-g/helado-diet%C3%A9tico-con-sabor-a-frutos-rojos-popsy-600g.jpg
+473,,,1.0,,Tarro 300 gr,Helados,No image,,,1.0,354.0,Helado Popsy Vainilla Light,13000.0,,
+474,,,1.0,,Caja x 1000 ,Helados,No image,,,1.0,355.0,Helado Popsy Rollo Vainilla,29500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492279-750-750/7705890090034.jpg?v=637212867255330000
+475,,,1.0,,Caja x 1000 ,Helados,No image,,,1.0,356.0,Helado Popsy Rollo Frutos del Bosque,29500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492276-1000-1000/7705890090126.jpg?v=637212867243770000
+476,,,1.0,,Caja x 900 ,Helados,No image,,,1.0,357.0,Helado Popsy Torta Frutos del Bosque,31500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492278-1000-1000/7705890090188.jpg?v=637212867244370000
+477,,,1.0,,Caja x 600 ,Helados,No image,,,1.0,358.0,Helado Popsy Torta Juan Valdes,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492282-750-750/7705890021496.jpg?v=637212867268230000
+478,,,1.0,,Caja x 600 ,Helados,No image,,,1.0,359.0,Helado Popsy Torta Crema de Limon,24500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492284-750-750/7705890021489.jpg?v=637212867280730000
+479,,,1.0,,Caja x 900 ,Helados,No image,,,1.0,360.0,Helado Popsy Torta Oreo ,31500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492277-1000-1000/7705890090157.jpg?v=637212867244070000
+480,,,1.0,,Caja x 250 ,Aguardiente,No image,,,1.0,361.0,Aguardiente Nectar Club,9900.0,,https://piragua.com.co/wp-content/uploads/2019/11/aguardiente-nectar-club-sin-azucar-250-piragua.jpg
+481,,,1.0,,Botella x 375,Aguardiente,No image,,,1.0,362.0,Aguardiente Nectar Club,15900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/196380-1000-1000/7702404005034.jpg?v=636233775742270000
+482,,,1.0,,Botella x 750,Aguardiente,No image,,,1.0,363.0,Aguardiente Nectar Club,29800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/196385-750-750/7702404005041.jpg?v=636233775747370000
+483,,,1.0,,Caja x 1000 ,Aguardiente,No image,,,1.0,364.0,Aguardiente Nectar Club,38500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/198534-750-750/7702404005287.jpg?v=636247703296930000
+484,,,1.0,,Botella x 2000,Aguardiente,No image,,,1.0,365.0,Aguardiente Nectar Club,68300.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/166699-1000-1000/7702404005065-1.jpg?v=636670855867800000
+485,,,1.0,,Botella x 375,Aguardiente,No image,,,1.0,366.0,Aguardiente Nectar Rojo,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/199314-1000-1000/7702404000039.jpg?v=636258088719470000
+486,,,1.0,,Botella x 750,Aguardiente,No image,,,1.0,367.0,Aguardiente Nectar Rojo,29900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/230206-1000-1000/7702404000046-1.jpg?v=636312347644570000
+487,,,1.0,,Caja x 1000 ,Aguardiente,No image,,,1.0,368.0,Aguardiente Nectar Rojo,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/200172-750-750/7702404000282-AGUARDIENTE-NECTAR-EN-CAJA-X-1000cm3.jpg?v=636262334467530000
+488,,,1.0,,Botella x 375,Aguardiente,No image,,,1.0,369.0,Aguardiente Antiqueño Rojo,21200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3500151-1000-1000/7702049000449.jpg?v=637238805202500000
+489,,,1.0,,Botella x 750,Aguardiente,No image,,,1.0,370.0,Aguardiente Antiqueño Rojo,38900.0,,https://loboexpress.com.co/598-tm_thickbox_default/antioque%C3%B1o-rojo.jpg
+490,,,1.0,,Caja x 1000 ,Aguardiente,No image,,,1.0,371.0,Aguardiente Antiqueño Rojo,48600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3500163-750-750/7702049001507.jpg?v=637238806891370000
+491,,,1.0,,Botella x 375,Aguardiente,No image,,,1.0,372.0,Aguardiente Antiqueño Verde,18300.0,,https://i2.wp.com/disfajo.com/wp-content/uploads/2020/07/aguardienteverde.jpg?fit=1200%2C1200&ssl=1
+492,,,1.0,,Botella x 750,Aguardiente,No image,,,1.0,373.0,Aguardiente Antiqueño Verde,0.0,,https://loboexpress.com.co/608/antioque%C3%B1o-verde.jpg
+493,,,1.0,,Caja x 1000 ,Aguardiente,No image,,,1.0,374.0,Aguardiente Antiqueño Verde,0.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/259143-1000-1000/7702049001675.jpg?v=637172016121530000
+494,,,1.0,,Botella x 375,Aguardiente,No image,,,1.0,375.0,Aguardiente Antiqueño Azul ,21900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3500155-750-750/7702049000548.jpg?v=637238805232200000
+495,,,1.0,,Botella x 750,Aguardiente,No image,,,1.0,376.0,Aguardiente Antiqueño Azul ,39300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3500153-750-750/7702049000531.jpg?v=637238805217800000
+496,,,1.0,,Caja x 1000 ,Aguardiente,No image,,,1.0,377.0,Aguardiente Antiqueño Azul ,53600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3500162-1000-1000/7702049001514.jpg?v=637238806891200000
+497,,,1.0,,Caja x 250 ,Ron,No image,,,1.0,378.0,Ron Santa Fe ,12100.0,,https://exitocol.vtexassets.com/arquivos/ids/1979821/RON-CUARTO-417553_a.jpg?v=637259350840770000
+498,,,1.0,,Botella x 375,Ron,No image,,,1.0,379.0,Ron Santa Fe ,22300.0,,https://exitocol.vtexassets.com/arquivos/ids/1979979-800-auto?width=800&height=auto&aspect=true
+499,,,1.0,,Botella x 750,Ron,No image,,,1.0,380.0,Ron Santa Fe ,38500.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157808-750-750/7702404001043-1.jpg?v=636670247050900000
+500,,,1.0,,Caja x 1000 ,Ron,No image,,,1.0,381.0,Ron Santa Fe ,39900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/207894-1000-1000/7702404001289-20-2.jpg?v=636287522971930000
+501,,,1.0,,Caja x 250 ,Ron,No image,,,1.0,382.0,Ron Caldas,15800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/206808-1000-1000/7702168213508.jpg?v=636287519422730000
+502,,,1.0,,Botella x 375,Ron,No image,,,1.0,383.0,Ron Caldas,24100.0,,https://www.toccmarket.com/image/cache/catalog/LICORES/Ron%20Viejo%20e%20Caldas%20x%20375ml-1000x798.jpg
+503,,,1.0,,Botella x 750,Ron,No image,,,1.0,384.0,Ron Caldas,43800.0,,https://exitocol.vtexassets.com/arquivos/ids/1973693/Ron-Viejo-De-Caldas-Botella-X-750ml-721457_a.jpg?v=637258937395170000
+504,,,1.0,,Caja x 1000 ,Ron,No image,,,1.0,385.0,Ron Caldas,45900.0,,https://exitocol.vtexassets.com/arquivos/ids/1973531-800-auto?width=800&height=auto&aspect=true
+505,,,1.0,,Botella x 375,Ron,No image,,,1.0,386.0,Ron Medellin Añejo,24200.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/267732-750-750/7702049100583.jpg?v=637238805657600000
+506,,,1.0,,Botella x 750,Ron,No image,,,1.0,387.0,Ron Medellin Añejo,43400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3500166-1000-1000/7702049100576.jpg?v=637238806908530000
+507,,,1.0,,Botella x 375,Ron,No image,,,1.0,388.0,Ron Medellin Dorado ,21600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3483764-1000-1000/7702049101191.jpg?v=637172014192630000
+508,,,1.0,,Botella x 750,Ron,No image,,,1.0,389.0,Ron Medellin Dorado ,39900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3376433-1000-1000/7702049101207.jpg?v=636809358424330000
+509,,,1.0,,Botella x 750,Ron,No image,,,1.0,390.0,Ron Bacardi Añejo,42400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3508835-750-750/7501008611135.jpg?v=637266168642070000
+510,,,1.0,,Botella x 750,Ron,No image,,,1.0,391.0,Ron Bacardi Limon,45100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3508838-1000-1000/7501008616130.jpg?v=637266168654770000
+511,,,1.0,,Botella x 375,Ron,No image,,,1.0,392.0,Ron Bacardi Limon,27900.0,,https://supermercadocomunal.com/2744-large_default/ron-bacardi-limon-botella-375-ml.jpg
+512,,,1.0,,Botella x 750,Ron,No image,,,1.0,393.0,Ron Bacardi Mojito,0.0,,https://loboexpress.com.co/337/ron-bacardi-mojito-botella-750-ml.jpg
+513,,,1.0,,Botella x 750,Ron,No image,,,1.0,394.0,Ron Bacardi Daiquiri,0.0,,https://www.licoreselmensajerodelanoche.com/wp-content/uploads/2019/08/MIGPS0290-5.jpg
+514,,,1.0,,Botella x 750,Vodka,No image,,,1.0,395.0,Vodka Smirnoff ,67100.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/268637-750-750/5410316942775.jpg?v=637245464616930000
+515,,,1.0,,Botella x 375,Vodka,No image,,,1.0,396.0,Vodka Smirnoff Lulo,19300.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/228274-750-750/5410316951821.jpg?v=636874019128730000
+516,,,1.0,,Botella x 750,Vodka,No image,,,1.0,397.0,Vodka Smirnoff Lulo,34100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3502344-1000-1000/7707096271682.jpg?v=637245464926070000
+517,,,1.0,,Botella x 750,Vodka,No image,,,1.0,398.0,Voska Absolut,66800.0,,https://bucaramanga.gruposotillo.com/wp-content/uploads/2014/08/absolut-750ml11.jpg
+518,,,1.0,,Botella x 750,Licor,No image,,,1.0,399.0,Jagermeister,94900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3351500-750-750/4067700015419.jpg?v=636772038985000000
+519,,,1.0,,Botella x 750,Whisky,No image,,,1.0,400.0,Whiskey Jack Daniels Tenesse,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3502394-1000-1000/82184090466.jpg?v=637245537138500000
+520,,,1.0,,Botella x 750,Whisky,No image,,,1.0,401.0,Whiskey Jack Daniels Honey,107700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/179058-1000-1000/Jack-Honey-750.jpg?v=636124971865400000
+521,,,1.0,,Botella x 375,Whisky,No image,,,1.0,402.0,Whiskey Jhonny Walker Red Label,32300.0,,https://www.vinosylicores.com.co/image/cache/catalog/Licores/Whiskies/johnnie-walker-red-lebel-375-800x800.jpg
+522,,,1.0,,Botella x 750,Whisky,No image,,,1.0,403.0,Whiskey Jhonny Walker Red Label,52100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3502268-1000-1000/5000267014609.jpg?v=637245464247430000
+523,,,1.0,,Botella x 1000,Whisky,No image,,,1.0,404.0,Whiskey Jhonny Walker Red Label,0.0,,https://dislicores.vteximg.com.br/arquivos/ids/156358-1000-1000/Licores-whisky_002017_1.jpg?v=637091704757470000
+524,,,1.0,,Botella x 750,Whisky,No image,,,1.0,405.0,Whiskey Grants,48100.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/280787-1000-1000/5010327000046.jpg?v=637321761570400000
+525,,,1.0,,Botella x 1000,Whisky,No image,,,1.0,406.0,Whiskey Grants,61700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3534312-1000-1000/5010327000039.jpg?v=637321762012070000
+526,,,1.0,,Botella x 750,Whisky,No image,,,1.0,407.0,Whiskey Jameson ,63600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3501443-750-750/5011007003005.jpg?v=637244720027670000
+527,,,1.0,,Botella x 375,Whisky,No image,,,1.0,408.0,Whiskey Black & White ,24400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3502295-750-750/50196166.jpg?v=637245464452330000
+528,,,1.0,,Botella x 750,Whisky,No image,,,1.0,409.0,Whiskey Black & White ,42500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3395590-750-750/B-26W-Alta_50196135.jpg?v=636875875412030000
+529,,,1.0,,Botella x 750,Whisky,No image,,,1.0,410.0,Whiskey Chivas Regal 12 años,109100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3501478-750-750/80432402931.jpg?v=637244720238600000
+530,,,1.0,,Botella x 360,Whisky,No image,,,1.0,411.0,Whiskey Something,35600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3501475-1000-1000/80432402788.jpg?v=637244720214630000
+531,,,1.0,,Botella x 750,Whisky,No image,,,1.0,412.0,Whiskey Something,55900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3501476-1000-1000/80432402795.jpg?v=637244720216530000
+532,,,1.0,,Botella x 750,Whisky,No image,,,1.0,413.0,Whiskey Buchanans 12 años,119900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3502294-1000-1000/50196388.jpg?v=637245464447970000
+533,,,1.0,,Botella x 500 ,Whisky,No image,,,1.0,414.0,Whiskey Old Parr 12 años,78900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3502282-750-750/5000281005034.jpg?v=637245464342200000
+534,,,1.0,,Botella x 750,Whisky,No image,,,1.0,415.0,Whiskey Old Parr 12 años,110600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3502279-750-750/5000281003160.jpg?v=637245464318870000
+535,,,1.0,,Botella x 1000,Whisky,No image,,,1.0,416.0,Whiskey Old Parr 12 años,0.0,,https://i.pinimg.com/originals/0b/c1/c0/0bc1c0da27dbefb97b36dc0cd1306707.jpg
+536,,,1.0,,Botella x 700,Whisky,No image,,,1.0,417.0,Crema de Whiskey de la Corte,32600.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7703518010099.jpg
+537,,,1.0,,Botella x 700,Whisky,No image,,,1.0,418.0,Crema de Cafe de la Corte,28200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/226683-750-750/7703518010051-1.jpg?v=636307123572470000
+538,,,1.0,,Botella x 700,Whisky,No image,,,1.0,419.0,Crema de Whiskey Brodway,31200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/226693-750-750/7702732100203-1.jpg?v=636307123584200000
+539,,,1.0,,Botella x 700,Whisky,No image,,,1.0,420.0,Crema de Whiskey Bailys,56700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3502292-1000-1000/5011013100156.jpg?v=637245464427130000
+540,,,1.0,,Botella x 375,Whisky,No image,,,1.0,421.0,Crema de Whiskey Bailys,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3502293-1000-1000/5011013100194.jpg?v=637245464440430000
+541,,,1.0,,Pack x 3 ,Whisky,No image,,,1.0,422.0,Crema de Whiskey Bailys Mini,0.0,,https://dislicores.vteximg.com.br/arquivos/ids/156891-1000-1000/Licores-crema-de-whisky_002363_1.jpg?v=637232489313900000
+542,,,1.0,,Botella x 750,Ginebra,No image,,,1.0,423.0,Ginebra Tanqueray Dry,105800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3502288-1000-1000/5000291020706.jpg?v=637245464397400000
+543,,,1.0,,Botella x 750,Ginebra,No image,,,1.0,424.0,Ginebra Gordon´s,51900.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/268624-1000-1000/5000289020701.jpg?v=637245464461400000
+544,,,1.0,,Botella x 750,Brandy,No image,,,1.0,425.0,Brandy Domeq ,42700.0,,https://exitocol.vtexassets.com/arquivos/ids/1973571-800-auto?width=800&height=auto&aspect=true
+545,,,1.0,,Botella x 375,Brandy,No image,,,1.0,426.0,Brandy Domeq ,21800.0,,https://exitocol.vtexassets.com/arquivos/ids/1973572/Brandy-Media-X-375ml-24468_a.jpg?v=637258931792130000
+546,,,1.0,,Botella x 750,Vinos,No image,,,1.0,427.0,Vino Sanzon Coffe,18100.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/227581-1000-1000/7703588000389.jpg?v=636815455141730000
+547,,,1.0,,Botella x 750,Vinos,No image,,,1.0,428.0,Vino Sanzon ,17700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3350268-1000-1000/7703588003304.jpg?v=636771336510230000
+548,,,1.0,,Botella x 750,Vinos,No image,,,1.0,429.0,Vino Sanzon Maestro,19900.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/243710-1000-1000/7703588000495.jpg?v=637014158686430000
+549,,,1.0,,Botella x 750,Vinos,No image,,,1.0,430.0,Vino Dubonnet ,53200.0,,https://dislicores.vteximg.com.br/arquivos/ids/155664-1000-1000/Cocteleria-aperitivos_304001_1.jpg?v=637074675959300000
+550,,,1.0,,Botella x 750,Vinos,No image,,,1.0,431.0,Vino Gato Negro Merlot,31200.0,,https://www.licoreswolf.com/wp-content/uploads/2020/06/Gato-Negro-Merlot-Chile.jpg
+551,,,1.0,,Botella x 750,Vinos,No image,,,1.0,432.0,Vino Gato Negro Cabernet Suavignon,0.0,,https://dislicores.vteximg.com.br/arquivos/ids/156791-1000-1000/Vinos-tinto_100111_1.jpg?v=637187828945600000
+552,,,1.0,,Botella x 750,Vinos,No image,,,1.0,433.0,Vino Gato Negro Suavignon Blac,0.0,,https://dislicores.vteximg.com.br/arquivos/ids/155665-1000-1000/Vinos-blanco_100066_1.jpg?v=637074675962900000
+553,,,1.0,,Botella x 750,Vinos,No image,,,1.0,434.0,Vino Gato Negro Rose,0.0,,https://dislicores.vteximg.com.br/arquivos/ids/155733-1000-1000/Vinos-rosado_100162_1.jpg?v=637074676205500000
+554,,,1.0,,Botella x 750,Vinos,No image,,,1.0,435.0,Vino Casillero del Diablo Cabernet Suavignon,43400.0,,https://loboexpress.com.co/671/vino-casillero-del-diablo-cabernet-sauvignon-botella-750-ml.jpg
+555,,,1.0,,Botella x 750,Vinos,No image,,,1.0,436.0,Vino Casillero del Diablo Malbec,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3512265-750-750/7804320510187.jpg?v=637274217069770000
+556,,,1.0,,Botella x 750,Vinos,No image,,,1.0,437.0,Vino Casillero del Diablo Suavignon Blac,0.0,,https://falabella.scene7.com/is/image/FalabellaCO/4244976_1?wid=800&hei=800&qlt=70
+557,,,1.0,,Botella x 750,Vinos,No image,,,1.0,438.0,Vino Casillero del Diablo Merlot,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3512273-1000-1000/7804320985633.jpg?v=637274217095600000
+558,,,1.0,,Botella x 750,Vinos,No image,,,1.0,439.0,Vino Z ,17700.0,,https://www.anchetascolombia.com/1333/vino-oporto-z-x-750-ml.jpg
+559,,,1.0,,Botella x 750,Vinos,No image,,,1.0,440.0,Vino Cariñoso Verano,17800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/341220-750-750/7703588001041-2.jpg?v=636487650606700000
+560,,,1.0,,Botella x 750,Vinos,No image,,,1.0,441.0,Vino Cariñoso Manzana,12600.0,,https://www.anchetascolombia.com/1328/vino-carinoso-durazno-750-ml.jpg
+561,,,1.0,,Botella x 750,Vinos,No image,,,1.0,442.0,Vino Cariñoso Rose,0.0,,https://cdn.totalcode.com/la14/product-zoom/es/vino-carinoso--rose-12un-x750ml-1.jpg
+562,,,1.0,,Botella x 750,Vinos,No image,,,1.0,443.0,Vino Cariñoso Durazno,13400.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/163213-750-750/7703588000211-1.jpg?v=636670258403670000
+563,,,1.0,,Botella x 750,Vinos,No image,,,1.0,444.0,Vino Libertador Espumoso Blanco,12900.0,,https://www.vincorte.com/wp-content/uploads/2020/02/AP.-VINICO-ESPUMOSO-BCO-LIBERTADOR.jpg
+564,,,1.0,,Botella x 750,Vinos,No image,,,1.0,445.0,Vino Libertador Espumoso Rosado,12900.0,,https://www.vincorte.com/wp-content/uploads/2020/02/BEB.-GAS.-SAB-A-VINO-MOSTELO-750-ROSADO.jpg
+565,,,1.0,,Botella x 750,Vinos,No image,,,1.0,446.0,Vino Gran Brindis Espumoso Rosado,9100.0,,https://colsubsidiogrocery.vtexassets.com/arquivos/ids/157187-300-300?width=300&height=300&aspect=true
+566,,,1.0,,Botella x 750,Vinos,No image,,,1.0,447.0,Vino Gran Brindis Espumoso Blanco,9100.0,,https://www.licoresmayorista.com/wp-content/uploads/2020/06/champa%C3%B1a_0003_gran-brindis-blanca-260ml.jpg
+567,,,1.0,,Botella x 750,Vinos,No image,,,1.0,448.0,Vino Rivelino Espumoso Rosado,12100.0,,https://www.vincorte.com/wp-content/uploads/2020/02/V.-ESP-ROSADO-RIVELINO-6%C2%B0-750.jpg
+568,,,1.0,,Botella x 750,Vinos,No image,,,1.0,449.0,Vino Rivelino Espumoso Blanco,12100.0,,https://www.vincorte.com/wp-content/uploads/2020/02/V.-ESP-BLANCO-RIVELINO-6-750.jpg
+569,,,1.0,,Six Pack,Cerveza,No image,,,1.0,450.0,Cerveza Aguila,13900.0,,https://piragua.com.co/wp-content/uploads/2019/11/aguila-original-sixpack.jpg
+570,,,1.0,,Six Pack,Cerveza,No image,,,1.0,451.0,Cerveza Aguila Light ,14400.0,,https://piragua.com.co/wp-content/uploads/2019/11/aguila-lightl-sixpack.jpg
+571,,,1.0,,Six Pack,Cerveza,No image,,,1.0,452.0,Cerveza Aguila Fusion Limon ,12500.0,,https://loboexpress.com.co/560/aguila-fusi%C3%B3n-lim%C3%B3n-six-pack-6x269ml.jpg
+572,,,1.0,,Six Pack,Cerveza,No image,,,1.0,453.0,Cerveza Poker ,14500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3491989-750-750/7702004007841.jpg?v=637212593850570000
+573,,,1.0,,Six Pack,Cerveza,No image,,,1.0,454.0,Cerveza Poker Roja ,0.0,,https://www.licorerazonafrank.com/wp-content/uploads/2020/05/IMG_20200516_221618.jpg
+574,,,1.0,,Six Pack,Cerveza,No image,,,1.0,455.0,Cerveza Club Colombia Roja,15300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3491996-750-750/7702004003638.jpg?v=637212593878200000
+575,,,1.0,,Six Pack,Cerveza,No image,,,1.0,456.0,Cerveza Club Colombia Negra,15300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3491993-750-750/7702004003782.jpg?v=637212593865300000
+576,,,1.0,,Six Pack,Cerveza,No image,,,1.0,457.0,Cerveza Club Colombia Dorada,15300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3491998-1000-1000/7702004003539.jpg?v=637212593889130000
+577,,,1.0,,Six Pack,Cerveza,No image,,,1.0,458.0,Cerveza Corona,23400.0,,https://exitocol.vtexassets.com/arquivos/ids/1981294/CERVEZA-SIXPACK-CORONA-X-355-ML-CU-1663470_a.jpg?v=637259439302100000
+578,,,1.0,,Six Pack,Cerveza,No image,,,1.0,459.0,Cerveza Coronita,14600.0,,https://exitocol.vtexassets.com/arquivos/ids/1721365/CERVEZA-SIXPACK-CORONITA-X-210-ML-CU-1663468_a.jpg?v=637223989278770000
+579,,,1.0,,Six Pack,Cerveza,No image,,,1.0,460.0,Cerveza Stella Artois,23100.0,,https://oechsle.vteximg.com.br/arquivos/ids/1351972-1000-1000/image-d1b48abb5a774f9a982f4f13c260644c.jpg?v=637123898111700000
+580,,,1.0,,Six Pack,Cerveza,No image,,,1.0,461.0,Cerveza Miller Energy,0.0,,https://almacen.do/wp-content/uploads/2018/03/Cerveza-Miller-6-uds-12-oz-Turn.jpg
+581,,,1.0,,Four Pack,Cerveza,No image,,,1.0,462.0,Cerveza Grolsch,21600.0,,https://plazavea.vteximg.com.br/arquivos/ids/227276-1000-1000/20106095.jpg?v=636985532997030000
+582,,,1.0,,Six Pack,Cerveza,cervezaheineken4631.png,,,1.0,463.0,Cerveza Heineken,11900.0,,https://i.postimg.cc/K8BCFXbD/6-PACK-HEINEKEN.png
+583,,,1.0,,Six Pack,Cerveza,No image,,,1.0,464.0,Cerveza Costeña Bacana,9900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3538403-1000-1000/7702004005618.jpg?v=637347523585400000
+584,,,1.0,,Six Pack,Cerveza,No image,,,1.0,465.0,Cerveza Andina,11500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3430112-1000-1000/7702090050578.jpg?v=636958662690200000
+585,,,1.0,,Six Pack,Cerveza,No image,,,1.0,466.0,Cerveza Tecate,11900.0,,https://supermercadocomunal.com/1162-large_default/cerveza-tecate-6-und-355-ml.jpg
+586,,,1.0,,Six Pack,Cerveza,No image,,,1.0,467.0,Cerveza Reeds,11900.0,,https://mistiendas.com.co/mistiendas/4296-large_default/cerveza-redds-citrus-six-pack.jpg
+587,,,1.0,,Six Pack,Cerveza,No image,,,1.0,468.0,Cerveza Azteca,10800.0,,https://piragua.com.co/wp-content/uploads/2019/11/azteca-six-pack.jpg
+588,,,1.0,,Six Pack,Cerveza,No image,,,1.0,469.0,Cerveza Budwaiser,12900.0,,https://piragua.com.co/wp-content/uploads/2019/11/budweiser-six-pack-piragua.jpg
+589,,,1.0,,Six Pack,Cerveza,No image,,,1.0,470.0,Cerveza Refajo Cola y Pola,9900.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/263040-750-750/7702004016621.jpg?v=637212601283170000
+590,,,1.0,,Four Pack,Cerveza,No image,,,1.0,471.0,Cerveza BBC,0.0,,https://exitocol.vtexassets.com/arquivos/ids/1867835-800-auto?width=800&height=auto&aspect=true
+591,,,1.0,,Paq x 20 ,Cigarrillos,No image,,,1.0,472.0,Cigarrillos Malboro Fusion,8500.0,,https://d2j6dbq0eux0bg.cloudfront.net/images/30491376/1501898178.jpg
+592,,,1.0,,Paq x 20 ,Cigarrillos,cigarrillosmalborofusion4731.png,,,1.0,473.0,Cigarrillos Malboro Fusion,8500.0,,https://merkeygane.com/1256/marlboro-fusion-medio.jpg
+593,,,1.0,,Paq x 20 ,Cigarrillos,cigarrillosmalborodoblefusion4741.png,,,1.0,474.0,Cigarrillos Malboro doble Fusion,8500.0,,https://licoreslarebaja.com/398-large_default/cigarrillo-malboro-ice-x-20-un.jpg
+594,,,1.0,,Paq x 20 ,Cigarrillos,No image,,,1.0,475.0,Cigarrillos Malboro ,8500.0,,https://licoreslarebaja.com/394-large_default/cigarrillo-malboro-doble-fusion-x-20-un.jpg
+595,,,1.0,,Paq x 20 ,Cigarrillos,No image,,,1.0,476.0,Cigarrillos Malboro Gold,8500.0,,https://supermercadocomunal.com/1093-large_default/cigarrillos-marlboro-rojo-20-und.jpg
+596,,,1.0,,Paq x 10 ,Cigarrillos,No image,,,1.0,477.0,Cigarrillos Malboro Fusion,4400.0,,https://www.licoexpress.co/wp-content/uploads/2020/05/Cigarrillos-Marlboro-Gold-Caja-20-und.jpg
+597,,,1.0,,Paq x 10 ,Cigarrillos,No image,,,1.0,478.0,Cigarrillos Malboro Fusion,4400.0,,https://www.licorerazonafrank.com/wp-content/uploads/2020/05/Marlboro-Fusi%C3%B3n-Summer-10und-2-300x300.jpg
+598,,,1.0,,Paq x 10 ,Cigarrillos,No image,,,1.0,479.0,Cigarrillos Malboro doble Fusion,4400.0,,https://d2j6dbq0eux0bg.cloudfront.net/images/30491376/1491246783.jpg
+599,,,1.0,,Paq x 10 ,Cigarrillos,No image,,,1.0,480.0,Cigarrillos Malboro ,4400.0,,https://d2j6dbq0eux0bg.cloudfront.net/images/30491376/1491260034.jpg
+600,,,1.0,,Paq x 10 ,Cigarrillos,No image,,,1.0,481.0,Cigarrillos Malboro Gold,4400.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702005004467.jpg
+601,,,1.0,,Paq x 20 ,Cigarrillos,No image,,,1.0,482.0,Cigarrillos L&M ,5500.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702005004474.jpg
+602,,,1.0,,Paq x 10 ,Cigarrillos,No image,,,1.0,483.0,Cigarrillos L&M ,2900.0,,https://newyorkstore.com.co/wp-content/uploads/CIGARRILLOS-LM-600x600.jpg
+603,,,1.0,,Paq x 20 ,Cigarrillos,No image,,,1.0,484.0,Cigarrillos Lucky Strike Azul,8400.0,,https://newyorkstore.com.co/wp-content/uploads/CIGARRILLOS-LM-10.jpg
+604,,,1.0,,Paq x 20 ,Cigarrillos,No image,,,1.0,485.0,Cigarrillos Lucky Strike Blanco,8400.0,,https://www.west24horas.com/wp-content/uploads/2019/12/17002.jpg
+605,,,1.0,,Paq x 10 ,Cigarrillos,No image,,,1.0,486.0,Cigarrillos Lucky Strike Blanco,4400.0,,https://supermercadocomunal.com/1105-large_default/cigarrillos-lucky-strike-20-und.jpg
+606,,,1.0,,Paq x 10 ,Cigarrillos,No image,,,1.0,487.0,Cigarrillos Lucky Strike Azul,4400.0,,https://supermercadocomunal.com/1111-large_default/cigarrillos-lucky-strike-white-10-und.jpg
+607,,,1.0,,Paq x 20 ,Cigarrillos,No image,,,1.0,488.0,Cigarillos Rothmans Azul,6800.0,,https://www.sevenmarket.co/imagenes/productos/1564882660-m3-cigarrillos-lucky-x-10-und-large.jpg
+608,,,1.0,,Paq x 20 ,Cigarrillos,No image,,,1.0,489.0,Cigarillos Rothmans Gris,0.0,,https://newyorkstore.com.co/wp-content/uploads/CIGARRILLO-ROTHMANS-GRIS-600x600.jpg
+609,,,1.0,,Paq x 10 ,Cigarrillos,No image,,,1.0,490.0,Cigarillos Rothmans  Azul,3700.0,,https://supermercadocomunal.com/1080-large_default/cigarrillos-rothmans-azul-10-und.jpg
+610,,,1.0,,Paq x 10 ,Cigarrillos,No image,,,1.0,491.0,Cigarillos Rothmans Gris,3700.0,,https://supermercadocomunal.com/1086-large_default/cigarrillos-rothmans-gris-10-und.jpg
+611,,,1.0,,Paq x 10 ,Cigarrillos,No image,,,1.0,492.0,Cigarillos Rothmans Blanco,3000.0,,https://www.toccmarket.com/image/cache/catalog/Products/Cigarrillo%20Rothmans%20Blanco%20Caja%20X%2010%20Und-1000x798.jpg
+612,,,1.0,,Paq x 20 ,Cigarrillos,No image,,,1.0,493.0,Cigarrillos Chesterfirld ,0.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702005601239.jpg
+613,,,1.0,,Paq x 10 ,Cigarrillos,cigarrilloschesterfirld4941.png,,,1.0,494.0,Cigarrillos Chesterfirld ,3300.0,,https://estanquillobalu.com/wp-content/uploads/2020/05/cigarrillos-chesterfield-remix-10-und.png
+614,,,1.0,,Botella x 1000,Aceites,No image,,,1.0,495.0,Aceite Oliosoya ,6800.0,,https://mercaldas.vteximg.com.br/arquivos/ids/157362-1000-1000/459.jpg?v=636918829074970000
+615,,,1.0,,Botella x 2000,Aceites,No image,,,1.0,496.0,Aceite Oliosoya ,12800.0,,https://triunfoq.com/wp-content/uploads/2019/04/7702116000945.jpg
+616,,,1.0,,Botella x 3000,Aceites,No image,,,1.0,497.0,Aceite Oliosoya ,18900.0,,https://exitocol.vtexassets.com/arquivos/ids/1976394-800-auto?width=800&height=auto&aspect=true
+617,,,1.0,,Botella x 5000,Aceites,No image,,,1.0,498.0,Aceite Oliosoya ,31900.0,,https://bodegaeltrebol.com/wp-content/uploads/2018/12/Oliosoya-5.jpeg
+618,,,1.0,,Botella x 1000,Aceites,No image,,,1.0,499.0,Aceite Bon Life,6700.0,,https://mercatuonline.com/wp-content/uploads/2020/07/aceite-vegetal-soya-bon-life-x-1000-1.png
+619,,,1.0,,Botella x 2000,Aceites,aceitebonlife5001.png,,,1.0,500.0,Aceite Bon Life,13100.0,,https://supertiendascomunal.com/1313-medium_default/aceite-bon-life-2000-ml.jpg
+620,,,1.0,,Botella x 3000,Aceites,No image,,,1.0,501.0,Aceite Bon Life,19200.0,,https://supermercadocomunal.com/1628-large_default/aceite-vegetal-bon-life-3000-cc.jpg
+621,,,1.0,,Botella x 5000,Aceites,No image,,,1.0,502.0,Aceite Bon Life,31400.0,,https://www.rapimercados.com/media/products/aceite_bonlife_x_5000_3N3Bv0S.jpg
+622,,,1.0,,Botella x 1000,Aceites,No image,,,1.0,503.0,Aceite Gourmet ,12900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3501456-1000-1000/7702116000013.jpg?v=637244720100900000
+623,,,1.0,,Botella x 2000,Aceites,No image,,,1.0,504.0,Aceite Gourmet ,23600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3501464-1000-1000/7702116000785.jpg?v=637244720147530000
+624,,,1.0,,Botella x 3000,Aceites,No image,,,1.0,505.0,Aceite Gourmet ,34900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3501457-1000-1000/7702116000020.jpg?v=637244720108270000
+625,,,1.0,,Botella x 900,Aceites,No image,,,1.0,506.0,Aceite Garza,5500.0,,https://images.jumpseller.com/store/cigarrerialarosa/5240306/7702116000105.jpg?1588629944
+626,,,1.0,,Botella x 2000,Aceites,No image,,,1.0,507.0,Aceite Garza,11700.0,,https://vx2.bc3.myftpupload.com/wp-content/uploads/2019/04/7702116000082-600x600.jpg
+627,,,1.0,,Botella x 3000,Aceites,No image,,,1.0,508.0,Aceite Garza,17100.0,,https://toccmarket.com/image/cache/catalog/MARCAS/aceite-1000x798.jpg
+628,,,1.0,,Botella x 5000,Aceites,No image,,,1.0,509.0,Aceite Garza,28100.0,,https://images.jumpseller.com/store/fanero/4762771/aceite_la_garza_5000ml.jpg?1585870751
+629,,,1.0,,Botella x 900,Aceites,No image,,,1.0,510.0,Aceite Diana,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3510519-1000-1000/7702028000330.jpg?v=637273105500200000
+630,,,1.0,,Botella x 2000,Aceites,aceitediana5111.png,,,1.0,511.0,Aceite Diana,0.0,,https://bodegaeltrebol.com/wp-content/uploads/2018/12/a-510.png
+631,,,1.0,,Botella x 3000,Aceites,No image,,,1.0,512.0,Aceite Diana,19900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3510520-750-750/7702028000378.jpg?v=637273105500830000
+632,,,1.0,,Botella x 5000,Aceites,No image,,,1.0,513.0,Aceite Diana,0.0,,https://mercaldas.vteximg.com.br/arquivos/ids/196457-400-400/Aceite-DIANA-con-vitaminas-frasco-x2000-ml_113059.jpg?v=637327956234000000
+633,,,1.0,,Botella x 900,Aceites,No image,,,1.0,514.0,Aceite Vivi,5500.0,,https://secureservercdn.net/50.62.88.95/vx2.bc3.myftpupload.com/wp-content/uploads/2019/05/7702179013104.jpg?time=1600957807
+634,,,1.0,,Botella x 3000,Aceites,No image,,,1.0,515.0,Aceite Vivi,16500.0,,https://exitocol.vtexassets.com/arquivos/ids/290691-800-auto?width=800&height=auto&aspect=true
+635,,,1.0,,Botella x 5000,Aceites,No image,,,1.0,516.0,Aceite Vivi,26900.0,,https://www.mercapava.com.co/wp-content/uploads/importedmedia/blogmedia-151690-600x600.jpg
+636,,,1.0,,Botella x 900,Aceites,No image,,,1.0,517.0,Aceite Girasoli,7600.0,,https://www.fastmarketctg.com/wp-content/uploads/2018/08/Aceite-Girasol-2-Litros.png
+637,,,1.0,,Botella x 2000,Aceites,No image,,,1.0,518.0,Aceite Girasoli,15900.0,,https://exitocol.vtexassets.com/arquivos/ids/2135470/Aceite-De-Girasol-X-2000-Cm3-748719_a.jpg?v=637279388259130000
+638,,,1.0,,Botella x 3000,Aceites,No image,,,1.0,519.0,Aceite Girasoli,23800.0,,https://mercaldas.vteximg.com.br/arquivos/ids/198208-1300-1300/Aceite-GIRASOLI-garrafa-x3000-ml_57694.jpg?v=637348636594000000
+639,,,1.0,,Botella x 250,Aceites,No image,,,1.0,520.0,Aceite de Oliva Olivetto intenso,15600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3498979-1000-1000/7702109018438.jpg?v=637237131148530000
+640,,,1.0,,Botella x 500,Aceites,No image,,,1.0,521.0,Aceite de Oliva Olivetto intenso,24700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3498978-750-750/7702109018414.jpg?v=637237130713200000
+641,,,1.0,,Botella x 500,Aceites,No image,,,1.0,522.0,Aceite de Oliva Gourmet,15900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3501452-1000-1000/7702109014836.jpg?v=637244720078370000
+642,,,1.0,,Botella x 1000,Aceites,No image,,,1.0,523.0,Aceite de Oliva Gourmet,22900.0,,https://www.todoaseo.com/wp-content/uploads/2017/03/ACEITE-GOURMET-AVANZADO-OLIVA-X-1000-RF-08300.jpg
+643,,,1.0,,Bolsa x 1000,Arroz ,No image,,,1.0,524.0,Arroz Diana,3100.0,,https://exitocol.vtexassets.com/arquivos/ids/654535/Arroz-Diana-1000-gr-552155_a.jpg?v=637027025752170000
+644,,,1.0,,Bolsa X 3000,Arroz ,No image,,,1.0,525.0,Arroz Diana,8900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3510542-1000-1000/7702511000038.jpg?v=637273105609430000
+645,,,1.0,,Bolsa x 5000,Arroz ,No image,,,1.0,526.0,Arroz Diana,14700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3510543-1000-1000/7702511000045.jpg?v=637273105624530000
+646,,,1.0,,Talega x 10k,Arroz ,No image,,,1.0,527.0,Arroz Diana,29900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3510544-1000-1000/7702511000205.jpg?v=637273105627330000
+647,,,1.0,,Bolsa 25 lb,Arroz ,No image,,,1.0,528.0,Arroz Diana,35900.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/272422-1000-1000/7702511000342.jpg?v=637273102760430000
+648,,,1.0,,Bolsa x 1000,Arroz ,No image,,,1.0,529.0,Arroz Roa,3100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/187637-1000-1000/7702552000141.jpg?v=636142066817800000
+649,,,1.0,,Bolsa X 3000,Arroz ,No image,,,1.0,530.0,Arroz Roa,8900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3242283-1000-1000/7702552000486.jpg?v=636556173953100000
+650,,,1.0,,Bolsa x 5000,Arroz ,No image,,,1.0,531.0,Arroz Roa,14700.0,,https://mercaldas.vteximg.com.br/arquivos/ids/166804-1000-1000/Arroz-ROA-x5000-g.jpg?v=636985690009930000
+651,,,1.0,,Talega x 10k,Arroz ,No image,,,1.0,532.0,Arroz Roa,29900.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157166-750-750/7702552000172-1.jpg?v=636670240592730000
+652,,,1.0,,Bolsa 25 lb,Arroz ,arrozroa5331.png,,,1.0,533.0,Arroz Roa,35900.0,,https://www.corbeta.com.co/media/catalog/product/1/7/17702552000094.png
+653,,,1.0,,Bolsa x 1000,Arroz ,No image,,,1.0,534.0,Arroz Florhuila,3100.0,,https://exitocol.vtexassets.com/arquivos/ids/1027148/Arroz-Flor-Huila-1000-gr-796712_a.jpg?v=637124526121630000
+654,,,1.0,,Bolsa X 3000,Arroz ,No image,,,1.0,535.0,Arroz Florhuila,8900.0,,https://supermio.co/wp-content/uploads/2020/04/08866.jpeg
+655,,,1.0,,Bolsa x 5000,Arroz ,No image,,,1.0,536.0,Arroz Florhuila,14700.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157156-750-750/7702231000042-1.jpg?v=636670240574730000
+656,,,1.0,,Talega x 10k,Arroz ,No image,,,1.0,537.0,Arroz Florhuila,29900.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157155-750-750/7702231000066-1.jpg?v=636670240572130000
+657,,,1.0,,Bolsa 25 lb,Arroz ,No image,,,1.0,538.0,Arroz Florhuila,35900.0,,https://supermercadocomunal.com/verbenal/img/p/1/6/5/2/1652-large_default.jpg
+658,,,1.0,,Bolsa x 1000,Arroz ,arrozcasanare5391.png,,,1.0,539.0,Arroz Casanare,3100.0,,https://secureservercdn.net/198.71.233.106/p78.62f.myftpupload.com/wp-content/uploads/2019/10/ArrozCasanare1000-300x400.png
+659,,,1.0,,Bolsa X 3000,Arroz ,No image,,,1.0,540.0,Arroz Casanare,8900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/206515-1000-1000/7703308010049-1.jpg?v=636287518837470000
+660,,,1.0,,Bolsa x 5000,Arroz ,No image,,,1.0,541.0,Arroz Casanare,14700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/209569-1000-1000/7703308010056-1.jpg?v=636288948604830000
+661,,,1.0,,Talega x 10k,Arroz ,No image,,,1.0,542.0,Arroz Casanare,29900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/206516-1000-1000/7703308010131-1.jpg?v=636287518838800000
+662,,,1.0,,Bolsa 25 lb,Arroz ,No image,,,1.0,543.0,Arroz Casanare,35900.0,,
+663,,,1.0,,Bolsa x 1000,Arroz ,No image,,,1.0,544.0,Arroz Diana Premium ,4800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3510546-1000-1000/7702511000427.jpg?v=637273105646430000
+664,,,1.0,,Bolsa x 2500,Arroz ,No image,,,1.0,545.0,Arroz Diana Premium ,11100.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/272424-1000-1000/7702511000748.jpg?v=637273102765670000
+665,,,1.0,,Bolsa x 1000,Arroz ,No image,,,1.0,546.0,Arroz Florhuila Integral,0.0,,https://i1.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2020/08/8298-large_default.jpg?fit=749%2C1000&ssl=1
+666,,,1.0,,Bolsa x 150,Arroz ,No image,,,1.0,547.0,Arroz Roa de Leche,3100.0,,https://supermercadocomunal.com/7682-large_default/arroz-con-leche-roa-150-gr.jpg
+667,,,1.0,,en blanco,Arroz ,No image,,,1.0,548.0,Arroz Roa con Pollo,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/195341-1000-1000/7702552400125.jpg?v=636226238385200000
+668,,,1.0,,Bolsa x 300 ,Arroz ,No image,,,1.0,549.0,Arroz Roa  Mexicano,5100.0,,https://mercaldas.vteximg.com.br/arquivos/ids/192714-1300-1300/Arroz-ROA-mexicano-x300-g_3468.jpg?v=637280421737170000
+669,,,1.0,,en blanco,Arroz ,No image,,,1.0,550.0,Arroz Roa Paella,0.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157188-1000-1000/7702552400132-1.jpg?v=636670240619970000
+670,,,1.0,,en blanco,Arroz ,No image,,,1.0,551.0,Arroz Roa de Coco,0.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/ps-mezcla-arroz-coco-x150g-saborizados-roa-copia.jpg
+671,,,1.0,,Bolsa x 300,Arroz ,No image,,,1.0,552.0,Arroz Champiñones,5100.0,,https://supermio.co/wp-content/uploads/2020/04/12043.jpeg
+672,,,1.0,,Bolsa x 300,Arroz ,No image,,,1.0,553.0,Arroz Roa Oriental ,5100.0,,https://mercadomambo.com/multimedia/productos/4025590.JPG
+673,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,554.0,Frijol Bola Roja Unimercas,4900.0,,
+674,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,555.0,Frijol Cargamanto Unimercas,4800.0,,
+675,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,556.0,Frijol Cabeza Negra Unimercas,2900.0,,
+676,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,557.0,Frijols Caraota Maritza,2900.0,,
+677,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,558.0,Frijol Nima Unimercas,3200.0,,
+678,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,559.0,Frijol Soya Unimercas,2100.0,,
+679,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,560.0,Aveja verde seca Unimercas,1700.0,,
+680,,,1.0,,Bolsa x 1000,Granos,No image,,,1.0,561.0,Aveja verde seca Unimercas,3200.0,,
+681,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,562.0,Arveja Amarilla Unimercas,1600.0,,
+682,,,1.0,,Bolsa x 1000,Granos,No image,,,1.0,563.0,Arveja Amarilla Unimercas,2300.0,,
+683,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,564.0,Garbanza Unimercas,3500.0,,
+684,,,1.0,,Bolsa x 1000,Granos,No image,,,1.0,565.0,Garbanza Unimercas,6700.0,,
+685,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,566.0,Maiz Porva ,5400.0,,
+686,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,567.0,Maiz Pira ,1800.0,,
+687,,,1.0,,Bolsa x 1000,Granos,No image,,,1.0,568.0,Maiz Peto ,1950.0,,
+688,,,1.0,,Bolsa x 3000,Granos,No image,,,1.0,569.0,Maiz Peto ,5500.0,,
+689,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,570.0,Lenteja Unimercas,2500.0,,
+690,,,1.0,,Bolsa x 1000,Granos,No image,,,1.0,571.0,Lenteja Unimercas,4800.0,,
+691,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,572.0,Cuchuco de Trigo De la Abuela,1800.0,,https://supertiendascomunal.com/3559-thickbox_default/cuchuco-trigo-de-la-abuela-500-g.jpg
+692,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,573.0,Cuchuco de Cebada De la Abuela,2500.0,,https://supertiendascomunal.com/3566-thickbox_default/de-la-abuela-cuchuco-de-cebada-500-g.jpg
+693,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,574.0,Cuchuco de Maiz De la Abuela,1800.0,,https://organizacioncardenas.com/images/cuchuco/cuchuco-de-maiz-194-250.png
+694,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,575.0,Cebada Perlada De la Abuela,2500.0,,https://supertiendascomunal.com/2668-large_default/cebada-perlada-de-la-abuela-500-g.jpg
+695,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,576.0,Mazamorra Amarilla Aburra,1800.0,,https://cdn.derematazo.com/wp-content/uploads/2019/08/Mazamorra-Aburra-x-500-g-32393.jpg
+696,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,577.0,Mazamorra Blanca Aburra,1800.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/7706667029011.jpg
+697,,,1.0,,Bolsa x 500,Granos,No image,,,1.0,578.0,Habas Unimercas,2700.0,,
+698,,,1.0,,Bolsa x 1000,Sal,No image,,,1.0,579.0,Sal Refisal ,1500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492569-1000-1000/7703812101202.jpg?v=637214303845200000
+699,,,1.0,,Bolsa x 3000,Sal,No image,,,1.0,580.0,Sal Refisal ,3900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492567-1000-1000/7703812101356.jpg?v=637214303842700000
+700,,,1.0,,Bolsa x 800,Sal,No image,,,1.0,581.0,Sal Refisal Marinera,2700.0,,https://cdn.derematazo.com/wp-content/uploads/2019/08/Sal-marina-Refisal-bolsa-x-800-g-43022.jpg
+701,,,1.0,,Bolsa x 500 ,Sal,No image,,,1.0,582.0,Sal Refisal Light baja sodio,6900.0,,https://cdn.derematazo.com/wp-content/uploads/2019/08/Sal-vital-Refisal-tarro-x-500-g-36940.jpg
+702,,,1.0,,Tarro x 454,Sal,No image,,,1.0,583.0,Sal Refisal Parillera,5300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3492578-1000-1000/7703812013697.jpg?v=637214303881370000
+703,,,1.0,,Tarro x 500,Sal,No image,,,1.0,584.0,Sal Refisal ,2300.0,,https://mercaldas.vteximg.com.br/arquivos/ids/196466-1300-1300/Sal-REFISAL-500-Salero-Slim-Frasco_5647.jpg?v=637327956253430000
+704,,,1.0,,Bolsa x 55 gr ,Condimentos,No image,,,1.0,585.0,Tricompleto El Rey,1900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175504-1000-1000/7702175111279-20-281-29.jpg?v=636114455465570000
+705,,,1.0,,Bolsa x 20 gr,Condimentos,No image,,,1.0,586.0,Curry El Rey,2600.0,,https://exitocol.vtexassets.com/arquivos/ids/1977256/Curry-Chapeta-El-Rey-15071_a.jpg?v=637259186823730000
+706,,,1.0,,Bolsa x 43 gr ,Condimentos,No image,,,1.0,587.0,Pimienta en Pepa El Rey,2000.0,,
+707,,,1.0,,Bolsa x 60 gr,Condimentos,No image,,,1.0,588.0,Cebolla El Rey,1350.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175477-1000-1000/7702175108378-20-281-29.jpg?v=636114455434400000
+708,,,1.0,,Bolsa x 30 gr ,Condimentos,No image,,,1.0,589.0,Curcuma El Rey ,2000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175542-1000-1000/7702175157260-20-281-29.jpg?v=636114455509570000
+709,,,1.0,,Bolsa x 20 gr,Condimentos,No image,,,1.0,590.0,Picante El Rey ,1900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171433-1000-1000/7702175108361-281-29.jpg?v=636111274910300000
+710,,,1.0,,Bolsa x 60 gr,Condimentos,No image,,,1.0,591.0,Amarillo El Rey,1100.0,,https://cdn.totalcode.com/la14/product-zoom/es/azafran-amarillo-el-rey-chapeta-x-60-g-1.jpg
+711,,,1.0,,Bolsa x 9 gr,Condimentos,No image,,,1.0,592.0,Clavo El Rey,1300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175478-1000-1000/7702175108200-20-281-29.jpg?v=636114455435100000
+712,,,1.0,,Bolsa x 55 gr ,Condimentos,No image,,,1.0,593.0,Color El Rey,1200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175498-1000-1000/7702175111248-20-281-29.jpg?v=636114455459800000
+713,,,1.0,,Bolsa x 55 gr ,Condimentos,No image,,,1.0,594.0,Ajo El Rey,1300.0,,https://exitocol.vtexassets.com/arquivos/ids/1977152/Ajo-En-Polvo-Bolsa-X-55-gr-195697_a.jpg?v=637259180043230000
+714,,,1.0,,Bolsa x 10 gr,Condimentos,No image,,,1.0,595.0,Oregano El Rey,1400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/231302-1000-1000/7702175108286-1.jpg?v=636312434254000000
+715,,,1.0,,Bolsa x 55 gr ,Condimentos,No image,,,1.0,596.0,Tri Rey El Rey,2000.0,,https://supertiendascomunal.com/8259-thickbox_default/tri-rey-55-gr.jpg
+716,,,1.0,,Bolsa x 55 gr ,Condimentos,No image,,,1.0,597.0,Tri Salsina El Rey,2000.0,,https://elprogresar.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWE2SWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--16d69719cf64e2539f3bbdf1c9aee71b4c7bde04/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9UY21WemFYcGxYMkZ1WkY5d1lXUmJDR2tDUUFGcEFrQUJld1k2QzJWNGRHVnVaRG9LZDJocGRHVTZER052Ym5abGNuUkpJZ2hxY0djR09nWkZWRG9LYzJGMlpYSjdDRG9NY1hWaGJHbDBlV2xmT2dwemRISnBjRlE2RDJKaFkydG5jbTkxYm1SYkNHa0IvMmtCLzJrQi93PT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--cce1b70dad3a0785ed15866f1aadf16af1f8013b/7702175111286.jpg?locale=es
+717,,,1.0,,Bolsa x 50 gr,Condimentos,No image,,,1.0,598.0,Bicarbonato El Rey,700.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702175108385.jpg
+718,,,1.0,,Bolsa x 60 gr,Condimentos,No image,,,1.0,599.0,Completo El Rey,1950.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171427-1000-1000/7702175108347-20-281-29.jpg?v=636111274891300000
+719,,,1.0,,Bolsa x 60 gr,Condimentos,No image,,,1.0,600.0,Jengibre El Rey,2100.0,,https://exitocol.vtexassets.com/arquivos/ids/1977248-1200-auto?width=1200&height=auto&aspect=true
+720,,,1.0,,Bolsa x 125 gr ,Condimentos,No image,,,1.0,601.0,Color El Rey,2100.0,,https://cdn1.totalcode.net/la14/product-zoom/es/color-rey-bolsa-x-125-g-1.jpg
+721,,,1.0,,Bolsa x 55 gr ,Condimentos,No image,,,1.0,602.0,SazonaRey El Rey,1500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175538-1000-1000/7702175156799-20-281-29.jpg?v=636114455505300000
+722,,,1.0,,Bolsa x 60 gr,Condimentos,No image,,,1.0,603.0,Pimienta El Rey,2700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175484-1000-1000/7702175108101-20-281-29.jpg?v=636114455443730000
+723,,,1.0,,Bolsa x 70 gr,Condimentos,No image,,,1.0,604.0,Ablandacarnes El Rey,1300.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/el-rey-ablandacarnes.jpg
+724,,,1.0,,Bolsa x 20 gr,Condimentos,No image,,,1.0,605.0,Tomillo El Rey,2300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175488-1000-1000/7702175108439-20-281-29.jpg?v=636114455448230000
+725,,,1.0,,Bolsa x 55 gr ,Condimentos,No image,,,1.0,606.0,Salsina El Rey,1900.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/166361-750-750/7702175111262-1.jpg?v=636670854738400000
+726,,,1.0,,Bolsa x 55 gr ,Condimentos,No image,,,1.0,607.0,Comino El Rey,1900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175495-1000-1000/7702175111224-20-281-29.jpg?v=636114455455030000
+727,,,1.0,,Bolsa x 60 gr,Condimentos,paprikaelrey6081.png,,,1.0,608.0,Paprika El Rey,3400.0,,https://www.centrocomercialestrella.co/67-thickbox_default/rey-paprika.jpg
+728,,,1.0,,Bolsa x 37 gr,Condimentos,No image,,,1.0,609.0,Laurel El Rey,3150.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175492-1000-1000/7702175108408-20-281-29.jpg?v=636114455453230000
+729,,,1.0,,Bolsa x 15 gr ,Condimentos,No image,,,1.0,610.0,Finas Hierbas El Rey,2500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175553-1000-1000/7702175157253-20-281-29.jpg?v=636114455525830000
+730,,,1.0,,Bolsa x 5 gr,Condimentos,No image,,,1.0,611.0,Guascas El Rey,2000.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/app/el-rey-guasas.jpg
+731,,,1.0,,Bolsa x 30 gr ,Condimentos,No image,,,1.0,612.0,Canela Molida El Rey,4700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175559-1000-1000/7702175158823-20-281-29.jpg?v=636114455533170000
+732,,,1.0,,Bolsa x 15 gr ,Condimentos,No image,,,1.0,613.0,Pimienta de Olor El Rey,1500.0,,https://supermercadocomunal.com/8595-large_default/pimienta-de-olor-el-rey-15-gr.jpg
+733,,,1.0,,Bolsa x 20 gr,Condimentos,No image,,,1.0,614.0,Canela en Astillas El Rey,3000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175490-1000-1000/7702175111194-20-281-29.jpg?v=636114455451130000
+734,,,1.0,,Bolsa x 11 gr,Condimentos,No image,,,1.0,615.0,Canela en Astillas El Rey,1900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175496-1000-1000/7702175111170-20-281-29.jpg?v=636114455457500000
+735,,,1.0,,Bolsa x 20 gr,Condimentos,No image,,,1.0,616.0,Canela en Astillas El Rey,3100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175490-1000-1000/7702175111194-20-281-29.jpg?v=636114455451130000
+736,,,1.0,,Bolsa x 30 gr ,Condimentos,No image,,,1.0,617.0,Canela en Astillas El Rey,3950.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175559-1000-1000/7702175158823-20-281-29.jpg?v=636114455533170000
+737,,,1.0,,Bolsa x 500 gr ,Condimentos,No image,,,1.0,618.0,Color El Rey,8300.0,,https://supermio.co/wp-content/uploads/2020/04/00429.jpeg
+738,,,1.0,,Bolsa x 500 gr ,Condimentos,No image,,,1.0,619.0,Amarillo El Rey,6400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175530-1000-1000/7702175141269-20-281-29.jpg?v=636114455495500000
+739,,,1.0,,Bolsa x 500 gr ,Condimentos,No image,,,1.0,620.0,Bicarbonato El Rey,4950.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/175528-750-750/7702175141214-20-281-29.jpg?v=636114455493430000
+740,,,1.0,,Caja x 8 und ,Caldos,No image,,,1.0,621.0,Caldo Maggi,2800.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/7702024027577-A.jpg
+741,,,1.0,,Caja x 12 und,Caldos,No image,,,1.0,622.0,Caldo Maggi,3600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/156257-750-750/7702024027591-1.jpg?v=636066438250670000
+742,,,1.0,,Caja x 8 und ,Caldos,No image,,,1.0,623.0,Caldo Ricostilla,2800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/155837-750-750/7702354012410-1.jpg?v=636066426128130000
+743,,,1.0,,Caja x 12 und,Caldos,No image,,,1.0,624.0,Caldo Ricostilla,4100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/155833-1000-1000/7702354012427-1.jpg?v=636066426124330000
+744,,,1.0,,Caja x 8 und ,Caldos,No image,,,1.0,625.0,Caldo Doña Gallina,2700.0,,https://cdn.derematazo.com/wp-content/uploads/2019/08/Caldo-De-Gallina-Dona-Gallina-x-8-cubos-x-11g-c-u-13366.jpg
+745,,,1.0,,Caja x 12 und,Caldos,No image,,,1.0,626.0,Caldo Doña Gallina,4100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/155835-1000-1000/7702354002930-1.jpg?v=636066426127170000
+746,,,1.0,,Bolsa x 1000,Azucar,No image,,,1.0,627.0,Azucar Unimercas,3100.0,,
+747,,,1.0,,Bolsa x 3000,Azucar,No image,,,1.0,628.0,Azucar Unimercas,8900.0,,
+748,,,1.0,,Bolsa 1/2 aroba,Azucar,No image,,,1.0,629.0,Azucar Unimercas,17300.0,,
+749,,,1.0,,Bolsa x 1000,Azucar,No image,,,1.0,630.0,Azucar Riopaila,3100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/155701-750-750/7702127108029-1.jpg?v=636066425977930000
+750,,,1.0,,Bolsa x 1000,Azucar,No image,,,1.0,631.0,Azucar Riopaila Morena,3200.0,,https://mercaldas.vteximg.com.br/arquivos/ids/157547-1300-1300/41165.jpg?v=636918867554370000
+751,,,1.0,,Bolsa x 2500,Azucar,No image,,,1.0,632.0,Azucar Riopaila,8400.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/167737-750-750/7702127110022-1.jpg?v=636671030555100000
+752,,,1.0,,Bolsa x 2500,Azucar,No image,,,1.0,633.0,Azucar Riopaila Morena,8400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/155706-750-750/7702127010025-1.jpg?v=636066425984500000
+753,,,1.0,,Bolsa x 5000,Azucar,No image,,,1.0,634.0,Azucar Riopaila,16900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/155702-1000-1000/7702127113023-1.jpg?v=636066425978500000
+754,,,1.0,,Bolsa x 5000,Azucar,No image,,,1.0,635.0,Azucar Riopaila Morena,16900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/155711-1000-1000/7702127000040-1.jpg?v=636066425991200000
+755,,,1.0,,Bolsa x 454,Azucar,No image,,,1.0,636.0,Azucar Incauca Light Blanca,3950.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/229006-1000-1000/7702059601308.jpg?v=636881972705000000
+756,,,1.0,,Bolsa x 454,Azucar,No image,,,1.0,637.0,Azucar Incauca Light Morena,6700.0,,https://www.incauca.com/wp-content/uploads/2016/06/1713-azucar-Incauca-Light-454g.jpg
+757,,,1.0,,Bolsa x 850,Azucar,No image,,,1.0,638.0,Azucar Incauca Light Blanca,3950.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/225804-750-750/7702059601339-1.jpg?v=636306162054600000
+758,,,1.0,,Bolsa x 850,Azucar,No image,,,1.0,639.0,Azucar Incauca Light Morena,6700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3397132-750-750/7702059601322.jpg?v=636881972008070000
+759,,,1.0,,Bolsa x 500,Azucar,azucarpulverizadaitalo6401.png,,,1.0,640.0,Azucar Pulverizada Italo,3800.0,,https://www.comestiblesitalo.com/wp-content/themes/italo_final/img/productos/945.png
+760,,,1.0,,Bolsa x 1000,Azucar,No image,,,1.0,641.0,Azucar Riopaila Stickpack,4400.0,,https://vixark.azureedge.net/lp-i-i-g/az%C3%BAcar-blanca-riopaila-1000g-sobres.jpg
+761,,,1.0,,Bolsa x 500,Panela,No image,,,1.0,642.0,Panela Salamanca Pulverizada ,3100.0,,
+762,,,1.0,,Bolsa x 1000,Panela,No image,,,1.0,643.0,Panela Salamanca Pastilla ,4200.0,,
+763,,,1.0,,Bolsa x 2100,Panela,No image,,,1.0,644.0,Panela Salamanca 3/4 minis,0.0,,
+764,,,1.0,,Bolsa x 3100,Panela,No image,,,1.0,645.0,Panela Salamanca ,13800.0,,
+765,,,1.0,,Bolsa x 1790 ,Panela,No image,,,1.0,646.0,Panela Salamanca ,8500.0,,
+766,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,647.0,Harina Pan ,3800.0,,https://bodegaeltrebol.com/wp-content/uploads/2018/12/harinas_harina-pan-blanca-1000g-x20ud_13926429295910..jpg
+767,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,648.0,Harina Pan ,1900.0,,https://surtiservice.co/wp-content/uploads/2020/07/HARINA-PAN-500GR.jpg
+768,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,649.0,Harina Pan Amarilla,3800.0,,https://bodegaeltrebol.com/wp-content/uploads/2018/12/pan_amarillo.jpg
+769,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,650.0,Harina Pan Amarilla,1900.0,,https://surtiservice.co/wp-content/uploads/2020/07/HARINA-PAN-AMARILLA-500GR.jpg
+770,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,651.0,Harina Pan Dulce,6200.0,,https://mercaldas.vteximg.com.br/arquivos/ids/155939-400-400/59009.jpg?v=636885396594330000
+771,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,652.0,Harina Pan Dulce,3100.0,,https://exitocol.vtexassets.com/arquivos/ids/1828121/Harina-Dulce-Amarilla-X-500-gr-814744_a.png?v=637243512067430000
+772,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,653.0,Harina Promasa Blanca,1800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/190525-750-750/7702084127217.jpg?v=636162204408270000
+773,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,654.0,Harina Promasa Blanca,3700.0,,https://exitocol.vtexassets.com/arquivos/ids/1818334-800-auto?width=800&height=auto&aspect=true
+774,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,655.0,Harina Promasa Amarilla,1800.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/204193-1000-1000/7702084127309-1.jpg?v=636773703885500000
+775,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,656.0,Harina Promasa Amarilla,3500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3323887-750-750/7702084137605-1.jpg?v=636674235062070000
+776,,,1.0,,Bolsa x 500 ,Harinas,harinadonaarepa6571.png,,,1.0,657.0,Harina Doña Arepa,1950.0,,https://images.rappi.com/products/13627-1573766913514.png?d=500x500
+777,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,658.0,Harina Doña Arepa ,3300.0,,https://admin.megatiendas.co/backend/admin/backend/web/archivosDelCliente/items/images/Despensa-Harinas-Harina-Maiz-Blanca-Dona-Arepa-x-1000-g-989220200629125803.jpg
+778,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,659.0,Harina Doña Arepa Amarilla,1950.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/205275-750-750/7702020211024-1.jpg?v=636773705656070000
+779,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,660.0,Harina Doña Arepa Amarilla,3400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/157907-1000-1000/7702020212021-1.jpg?v=636081687749600000
+780,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,661.0,Harina Arepasan ,1600.0,,https://supertiendascomunal.com/4748-home_default/harina-arepasan-500-g.jpg
+781,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,662.0,Harina Arepasan ,3400.0,,https://i1.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2018/11/Arepasan_amarilla_x1kg.jpg?fit=800%2C800&ssl=1
+782,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,663.0,Harina Super Arepa,1800.0,,https://ditexcon.com.co/wp-content/uploads/2020/02/1-aprepa-super-arepa.jpg
+783,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,664.0,Harina Super Arepa,4100.0,,https://ditexcon.com.co/wp-content/uploads/2020/02/1-aprepa-super-arepa.jpgg
+784,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,665.0,Harina Rinde Arepa,1700.0,,
+785,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,666.0,Harina Rinde Arepa,3200.0,,
+786,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,667.0,Harina de Trigo Haz de Oros,1600.0,,https://www.jdh.com.co/wp-content/uploads/2020/05/Harina-de-Trigo-Haz-de-Oros-Bolsax500gr-1596.jpg
+787,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,668.0,Harina de Trigo Haz de Oros,2900.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/160271-400-400/7702020011310-1.jpg?v=636670252595700000
+788,,,1.0,,Bolsa x 2500,Harinas,No image,,,1.0,669.0,Harina de Trigo Haz de Oros,6500.0,,https://exitocol.vtexassets.com/arquivos/ids/653753-800-auto?width=800&height=auto&aspect=true
+789,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,670.0,Harina de Trigo Haz de Oros con Polvo de Hornear,2100.0,,https://mundohuevo.com/wp-content/uploads/2018/10/4045.jpg
+790,,,1.0,,Bolsa x 1000,Harinas,No image,,,1.0,671.0,Harina de Trigo Haz de Oros con Polvo de Hornear,4100.0,,https://exitocol.vtexassets.com/arquivos/ids/653821/Harina-Con-Polvo-De-Hornear-573703_b.jpg?v=637027021123600000
+791,,,1.0,,Bolsa x 500 ,Harinas,No image,,,1.0,672.0,Harina de Trigo La Nieve ,1300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3528659-1000-1000/7707237413902.jpg?v=637303297093700000
+792,,,1.0,,Caja x 300,Pancakes,No image,,,1.0,673.0,Mezcla Pancakes Maizena,4200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3472571-1000-1000/7702047037928.jpg?v=637116805573700000
+793,,,1.0,,Bolsa x 300,Pancakes,No image,,,1.0,674.0,Mezcla Pancakes Aunt Jemima,4200.0,,https://mercaldas.vteximg.com.br/arquivos/ids/189283-400-400/Mezcla-Para-Pancakes-Tia-JEMINA-Solo-Leche_22833.jpg?v=637236199062370000
+794,,,1.0,,Bolsa x 300,Pancakes,No image,,,1.0,675.0,Mezcla Pancakes Haz de Oros,4100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/157936-750-750/7702020216043---1.jpg?v=636081687793400000
+795,,,1.0,,Bolsa x 320,Pancakes,No image,,,1.0,676.0,Mezcla Pancakes Corona,4800.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702007056761.jpg
+796,,,1.0,,Bolsa x 500,Torta,No image,,,1.0,677.0,Mezcla Torta Haz de Oros ,6300.0,Naranja,https://metrocolombiafood.vteximg.com.br/arquivos/ids/160359-512-512/7702020211239-2.jpg?v=636670252697670000
+797,,,1.0,,Bolsa x 500,Torta,No image,,,2.0,677.0,Mezcla Torta Haz de Oros,6300.0,Banano,https://www.mercadoslpineda.co/3150-home_default/mezcla-lista-dona-torta-banano-x500g.jpg
+798,,,1.0,,Bolsa x 500,Torta,No image,,,3.0,677.0,Mezcla Torta Haz de Oros,6300.0,Vainilla ,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/157901-1000-1000/7702020211208-1.jpg?v=636081687740200000
+799,,,1.0,,Bolsa x 500,Torta,No image,,,4.0,677.0,Mezcla Torta Haz de Oros,6300.0,Chocolate,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/157906-1000-1000/7702020211215-1.jpg?v=636081687748370000
+800,,,1.0,,Bolsa x 450,Torta,No image,,,1.0,678.0,Mezcla Torta Corona,8100.0,Naranja,
+801,,,1.0,,Bolsa x 450,Torta,No image,,,2.0,678.0,Mezcla Torta Corona,7100.0,Arequipe,https://http2.mlstatic.com/D_NQ_NP_918277-MCO42278981571_062020-V.jpg
+802,,,1.0,,Bolsa x 28 ,Coladas y Feculas,No image,,,1.0,679.0,Colada Maizena,1000.0,Vainilla  ,
+803,,,1.0,,Bolsa x 28 ,Coladas y Feculas,No image,,,2.0,679.0,Colada Maizena,1000.0,Fresa ,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3533556-262-262/7702047040041.jpg?v=637318091159530000
+804,,,1.0,,Bolsa x 28 ,Coladas y Feculas,No image,,,3.0,679.0,Colada Maizena,1000.0,Vainilla,https://pimiento.com.co/851-large_default/colada-maizena-sabor-vainilla-x-28-gr.jpg
+805,,,1.0,,Caja x 380,Coladas y Feculas,No image,,,1.0,680.0,Fecula de Maiz Maizena ,8400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/155672-1000-1000/7702047003497.jpg?v=636066425916170000
+806,,,1.0,,Caja x 300,Coladas y Feculas,No image,,,1.0,681.0,Fecula de Maiz Maizena Cereales,6500.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/160287-750-750/7702047069004-1.jpg?v=636670252619530000
+807,,,1.0,,Caja x 720,Coladas y Feculas,No image,,,1.0,682.0,Fecula de Maiz Maizena ,13800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/155685-1000-1000/7501005110563.jpg?v=636066425955470000
+808,,,1.0,,Caja x 200,Coladas y Feculas,No image,,,1.0,683.0,Fecula de Platano De La Abuela,1800.0,frambuesa,https://www.organizacioncardenas.com/images/avenas-harinas/feculas/fecula-platano/frambuesa.png
+809,,,1.0,,Caja x 200,Coladas y Feculas,No image,,,2.0,683.0,Fecula de Platano De La Abuela,1800.0,vainilla,https://supermercadocomunal.com/6719-large_default/fecula-de-la-abuela-vainilla-200-gr.jpg
+810,,,1.0,,Caja x 200,Coladas y Feculas,No image,,,3.0,683.0,Fecula de Platano De La Abuela,1800.0,natural,https://supermercadocomunal.com/verbenal/img/p/6/7/2/1/6721-home_default.jpg
+811,,,1.0,,Bolsa x 200 ,Coladas y Feculas,No image,,,1.0,684.0,Colada San Jorge ,3000.0,Vainilla,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/187225-1000-1000/7702014502527-1.jpg?v=636136308862430000
+812,,,1.0,,Bolsa x 200 ,Coladas y Feculas,No image,,,2.0,684.0,Colada San Jorge ,3000.0,fresa ,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/187229-1000-1000/7702014502534-1.jpg?v=636136308870030000
+813,,,1.0,,Bolsa x 200 ,Coladas y Feculas,No image,,,3.0,684.0,Colada San Jorge ,3000.0,banano,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/187206-1000-1000/7702014502541-1.jpg?v=636136308842470000
+814,,,1.0,,Caja x 300,Harinas,No image,,,1.0,685.0,Yucarina Maizena,8500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/155687-1000-1000/7702047001424.jpg?v=636066425956100000
+815,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,686.0,Raviolis Doria,6900.0,Queso,https://exitocol.vtexassets.com/arquivos/ids/208601-800-auto?width=800&height=auto&aspect=true
+816,,,1.0,,Bolsa x 250,Pastas,No image,,,2.0,686.0,Raviolis Doria,6900.0,Pollo,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3538048-750-750/7702085002346-1.jpg?v=637345653492400000
+817,,,1.0,,Bolsa x 250,Pastas,No image,,,3.0,686.0,Raviolis Doria,6900.0,Jamon,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702085058336.jpg
+818,,,1.0,,Bolsa x 250,Pastas,No image,,,4.0,686.0,Raviolis Doria,6900.0,Carne,https://masxmenospiedecuesta.vive.expert/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM01BSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6bc280f15dc90831aaae0f27b943c1e3e93afd8f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9UY21WemFYcGxYMkZ1WkY5d1lXUmJDR2tDUUFGcEFrQUJld1k2QzJWNGRHVnVaRG9LZDJocGRHVTZER052Ym5abGNuUkpJZ2hxY0djR09nWkZWRG9LYzJGMlpYSjdDRG9NY1hWaGJHbDBlV2xmT2dwemRISnBjRlE2RDJKaFkydG5jbTkxYm1SYkNHa0IvMmtCLzJrQi93PT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--cce1b70dad3a0785ed15866f1aadf16af1f8013b/7702085002094.jpg?locale=es
+819,,,1.0,,Caja x 400,Pastas,No image,,,1.0,687.0,Pasta Lasagna Doria,7100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3417394-1000-1000/7702085003428.jpg?v=636922676669900000
+820,,,1.0,,Caja x 200 ,Pastas,No image,,,1.0,688.0,Pasta Macarron Queso Doria,3000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/180606-750-750/7702085014288.jpg?v=636126828391670000
+821,,,1.0,,Bolsa x 250 ,Pastas,No image,,,1.0,689.0,Pasta Spaguetti Pollo Asado Doria ,2100.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702085002865.jpg
+822,,,1.0,,Bolsa x 250 ,Pastas,No image,,,1.0,690.0,Pasta Spaguetti Chorizo Doria ,2100.0,,https://colsubsidiogrocery.vtexassets.com/arquivos/ids/156859/7702085002766.jpg?v=637274971049530000
+823,,,1.0,,Bolsa x 250 ,Pastas,No image,,,1.0,691.0,Pasta Spaguetti Verduras Doria ,2100.0,,https://vixark.azureedge.net/lp-i-i-p/espaguetis-con-verduras-doria-250g.jpg
+824,,,1.0,,Bolsa x 250 ,Pastas,No image,,,1.0,692.0,Pasta Spaguetti  Doria ,1700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/177578-1000-1000/7702085012024-1.jpg?v=636117824573000000
+825,,,1.0,,Bolsa x 500,Pastas,No image,,,1.0,693.0,Pasta Spaguetti  Doria ,2900.0,,https://exitocol.vtexassets.com/arquivos/ids/1964452/Pasta-Clasica-Spaghetti-X-500-gr-13653_b.png?v=637258603933700000
+826,,,1.0,,Bolsa x 1000,Pastas,No image,,,1.0,694.0,Pasta Spaguetti  Doria ,4700.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/283691-1000-1000/7702085019023-1.jpg?v=637345705443300000
+827,,,1.0,,Bolsa x 250 ,Pastas,No image,,,1.0,695.0,Pasta Macarron Largo Doria,1700.0,,https://exitocol.vtexassets.com/arquivos/ids/204489/Pasta-Macarron-Largo-X-250-gr-769694_a.jpg?v=636988523433970000
+828,,,1.0,,Bolsa x 250 ,Pastas,No image,,,1.0,696.0,Pasta Tallarin Doria,1700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3538054-750-750/7702085012055-1.jpg?v=637345653528770000
+829,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,697.0,Pasta Bucatini Doria,1700.0,,https://mercalo.co/tienda/despensa/pastas/pasta-doria-bucatini-250-grs/#&gid=1&pid=1
+830,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,698.0,Pasta Fideo Pollo Asado Doria,2200.0,,https://exitocol.vtexassets.com/arquivos/ids/223870/Fideos-Sabor-Pollo-1080897_a.jpg?v=636989086083800000
+831,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,699.0,Pasta Fideo Doria,1700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/177567-750-750/7702085012062-1.jpg?v=636117824543030000
+832,,,1.0,,Bolsa x 500,Pastas,No image,,,1.0,700.0,Pasta Fideo Doria,2900.0,,https://exitocol.vtexassets.com/arquivos/ids/660919-800-auto?width=800&height=auto&aspect=true
+833,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,701.0,Pasta Conchas Doria,1700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/177569-750-750/7702085012123-1.jpg?v=636117824549800000
+834,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,702.0,Pasta Codos Doria,1700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/177573-1000-1000/7702085012390-1.jpg?v=636117824561730000
+835,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,703.0,Pasta Cabello de Angel Doria,1700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/177566-750-750/7702085012079-1.jpg?v=636117824542830000
+836,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,704.0,Pasta Letras Doria,1700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3538057-750-750/7702085012246-1.jpg?v=637345653530670000
+837,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,705.0,Pasta Macarron Doria,1700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/177568-750-750/7702085012093-1.jpg?v=636117824545600000
+838,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,706.0,Pasta Conchitas Doria,1700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/177571-750-750/7702085012215-1.jpg?v=636117824558000000
+839,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,707.0,Pasta Tornillos Doria,1700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/177575-750-750/7702085012482-1.jpg?v=636117824569630000
+840,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,708.0,Pasta Tornillos de Verduras Doria,2100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3538055-1000-1000/7702085012499-1.jpg?v=637345653528930000
+841,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,709.0,Pasta Rigatoni Doria,1700.0,,https://mercaldas.vteximg.com.br/arquivos/ids/198289-1300-1300/Pasta-DORIA-250-Rigatoni-Bolsa_82117.jpg?v=637348636794530000
+842,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,710.0,Pasta Conchitas San Remo,1200.0,,https://www.app.domiciliosbogota.co/wp-content/uploads/2020/04/600343.jpg
+843,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,711.0,Pasta Fideo San Remo,1200.0,,https://colsubsidiogrocery.vtexassets.com/arquivos/ids/156612-800-450?width=800&height=450&aspect=true
+844,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,712.0,Pasta Conchas San Remo,1200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/207061-1000-1000/7702020040099-20-1.jpg?v=636287519748300000
+845,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,713.0,Pasta Cabello de Angel San Remo,1200.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/160913-1000-1000/7702020040266-1.jpg?v=636670253226000000
+846,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,714.0,Pasta Macarron San Remo,1200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/207058-1000-1000/7702020040082-20-1.jpg?v=636287519745900000
+847,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,715.0,Pasta Spaguetti San Remo,1200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/207065-1000-1000/7702020040006-20-1.jpg?v=636287519759030000
+848,,,1.0,,Bolsa x 400,Pastas,No image,,,1.0,716.0,Pasta Spaguetti San Remo,1700.0,,https://supermio.co/wp-content/uploads/2020/04/13294.jpeg
+849,,,1.0,,Bolsa x 1000,Pastas,No image,,,1.0,717.0,Pasta Spaguetti San Remo,3500.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/164301-1000-1000/7702020040327-1.jpg?v=636670260736300000
+850,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,718.0,Pasta Conchitas La Nieve,1300.0,,https://www.mercaya.com.co/images/thumbs/0002900_conchas-la-nieve-x-250-gr_510.jpeg
+851,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,719.0,Pasta Fideo La Nieve,1300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3528665-262-262/7707237417306.jpg?v=637303297111100000
+852,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,720.0,Pasta Conchas La Nieve,1300.0,,
+853,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,721.0,Pasta Cabello de Angel La Nieve,1300.0,,https://fruverya.co/wp-content/uploads/2020/03/pasta-la-nieve-fideo-250g.jpg
+854,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,722.0,Pasta Macarron La Nieve,1300.0,,https://mercadoroyal.com/api/product/get-image-user/O017V5eTZ7-tNcUhj_InpFJm.jpg
+855,,,1.0,,Bolsa x 250,Pastas,No image,,,1.0,723.0,Pasta Spaguetti La Nieve,1300.0,,https://fruverya.co/wp-content/uploads/2020/03/pasta-la-nieve-espa250g.jpg
+856,,,1.0,,Bolsa x 1000,Salsas,No image,,,1.0,724.0,Salsa de Tomate Fruco ,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3377792-1000-1000/7702047038123.jpg?v=636822066735870000
+857,,,1.0,,Bolsa x 600 ,Salsas,No image,,,1.0,725.0,Salsa de Tomate Fruco ,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3498821-750-750/7702047137994.jpg?v=637236928822800000
+858,,,1.0,,Bolsa x 400,Salsas,No image,,,1.0,726.0,Salsa de Tomate Fruco ,0.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/267020-750-750/7702047005330.jpg?v=637236914683230000
+859,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,727.0,Salsa de Tomate Fruco ,0.0,,https://i2.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2018/10/salsa_fruco_tomate_200gr.jpg?fit=1300%2C1300&ssl=1
+860,,,1.0,,Bolsa x 1000,Salsas,No image,,,1.0,728.0,Salsa Mayonesa Fruco,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3377791-1000-1000/7702047038116.jpg?v=636822063060570000
+861,,,1.0,,Bolsa x 600 ,Salsas,No image,,,1.0,729.0,Salsa Mayonesa Fruco,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3498822-1000-1000/7702047138007.jpg?v=637236928825170000
+862,,,1.0,,Bolsa x 400,Salsas,No image,,,1.0,730.0,Salsa Mayonesa Fruco,0.0,,https://i2.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2018/10/mayonesa_fruco_400gr_doypack.jpg?fit=1300%2C1300&ssl=1
+863,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,731.0,Salsa Mayonesa Fruco,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3377208-1000-1000/7702047038758.jpg?v=636815259237970000
+864,,,1.0,,Bolsa x 1000,Salsas,No image,,,1.0,732.0,Salsa de Tomate San Jorge ,0.0,,https://www.levapan.com/wp-content/uploads/2015/11/salsa-tomate-san-jorge-de-1000g-2.jpg
+865,,,1.0,,Bolsa x 600 ,Salsas,No image,,,1.0,733.0,Salsa de Tomate San Jorge ,0.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/238004-750-750/7702014963892.jpg?v=636977638919300000
+866,,,1.0,,Bolsa x 400,Salsas,No image,,,1.0,734.0,Salsa de Tomate San Jorge ,0.0,,https://www.levapan.com/wp-content/uploads/2015/11/salsa-tomate-san-jorge-400g-1.jpg
+867,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,735.0,Salsa de Tomate San Jorge ,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3382175-1000-1000/7702014620214.jpg?v=636844833305330000
+868,,,1.0,,Bolsa x 1000,Salsas,No image,,,1.0,736.0,Salsa Mayonesa San Jorge,0.0,,https://www.levapan.com/wp-content/uploads/2015/11/mayonesa-san-jorge-de-1000g-1.jpg
+869,,,1.0,,Bolsa x 600 ,Salsas,No image,,,1.0,737.0,Salsa Mayonesa San Jorge,0.0,,https://www.levapan.com/wp-content/uploads/2015/11/mayonesa-san-jorge-de-600g-1.jpg
+870,,,1.0,,Bolsa x 400,Salsas,No image,,,1.0,738.0,Salsa Mayonesa San Jorge,0.0,,https://www.levapan.com/wp-content/uploads/2015/11/mayonesa-san-jorge-de-380g-1.jpg
+871,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,739.0,Salsa Mayonesa San Jorge,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3382174-1000-1000/7702014618044.jpg?v=636844826500200000
+872,,,1.0,,Bolsa x 1000,Salsas,No image,,,1.0,740.0,Salsa de Tomate La Constancia,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3531664-750-750/7702097037480.jpg?v=637312039824230000
+873,,,1.0,,Bolsa x 1000,Salsas,No image,,,1.0,741.0,Salsa Mayonesa La Constancia,0.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702097037497.jpg
+874,,,1.0,,Bolsa x 1000,Salsas,No image,,,1.0,742.0,Salsa de Tomate del Huerto ,7600.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7702047038314.jpg
+875,,,1.0,,Bolsa x 380,Salsas,No image,,,1.0,743.0,Salsa de Tomate Del Huerto ,4100.0,,https://www.eurosupermercados.com/eurosupermercado2020/contenidos/images/ecommerce_productos/7702047038956.jpg
+876,,,1.0,,Bolsa x 1000,Salsas,No image,,,1.0,744.0,Salsa Mayonesa Del Huerto,9800.0,,https://web.superboom.net/web/image/product.template/9524/image
+877,,,1.0,,Bolsa x 380,Salsas,No image,,,1.0,745.0,Salsa Mayonesa Del Huerto,5600.0,,https://colsubsidiogrocery.vtexassets.com/arquivos/ids/158690/7702047038963.jpg?v=637280094617270000
+878,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,746.0,Salsa Rosada La Constancia,4300.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3493192-1000-1000/7702097032829.jpg?v=637215453395400000
+879,,,1.0,,Bolsa x 180,Salsas,No image,,,1.0,747.0,Salsa Rosada Fruco,5600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3498800-1000-1000/7702047016824.jpg?v=637236928745330000
+880,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,748.0,Salsa Rosada San Jorge ,3900.0,,https://mercasmart.com/wp-content/uploads/2020/06/Salsa-San-Jorge-Rosada-X-200-Gr-5-1.jpg
+881,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,749.0,Salsa Tartara San Jorge,4600.0,,https://mercaldas.vteximg.com.br/arquivos/ids/198323-1000-1000/Salsa-Tartara-SAN-JORGE-200Gramos-Doy-Pack_12671.jpg?v=637348636880770000
+882,,,1.0,,Bolsa x 180,Salsas,No image,,,1.0,750.0,Salsa Tartara Fruco,5600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3425747-1000-1000/7702047038925.jpg?v=636940491912970000
+883,,,1.0,,Bolsa x 380,Salsas,No image,,,1.0,751.0,Salsa Bbq Fruco ,0.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/267038-1000-1000/7702047132104.jpg?v=637236914809600000
+884,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,752.0,Salsa Bbq San Jorge ,3400.0,,https://mercaldas.vteximg.com.br/arquivos/ids/156347-1300-1300/46987.jpg?v=636885401163270000
+885,,,1.0,,Bolsa x 400,Salsas,No image,,,1.0,753.0,Salsa Bbq San Jorge ,5900.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157030-1000-1000/7702014627169-1.jpg?v=636670240400900000
+886,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,754.0,Salsa Mostaza San Jorge,3200.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/191034-1000-1000/7702014632057-1.jpg?v=636166311039970000
+887,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,755.0,Salsa Mostaza Fruco,4700.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3498801-1000-1000/7702047021934.jpg?v=637236928751770000
+888,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,756.0,Salsa Pasta de Tomate San Jorge ,3800.0,,https://www.levapan.com/wp-content/uploads/2015/11/pasta-de-tomate-san-jorge-de-200g.jpg
+889,,,1.0,,en blanco,Salsas,No image,,,1.0,757.0,Salsa Pasta de Tomate Fruco,0.0,,https://admin.megatiendas.co/backend/admin/backend/web/archivosDelCliente/items/images/Despensa-Salsas-y-bases-Pasta-de-Tomate-Fruco-x-200-g-909120200629125803.jpg
+890,,,1.0,,Botella x 155,Salsas,No image,,,1.0,758.0,Salsa para Carnes San Jorge ,4100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/191013-1000-1000/7702014626599-1.jpg?v=636166311004930000
+891,,,1.0,,Botella x 155,Salsas,No image,,,1.0,759.0,Salsa de Soya San Jorge ,3900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/191012-1000-1000/7702014626605-1.jpg?v=636166311004000000
+892,,,1.0,,Botella x 155,Salsas,No image,,,1.0,760.0,Salsa Inglesa San Jorge ,3500.0,,https://cdn.totalcode.com/la14/product-zoom/es/salsa-inglesa-san-jorge-x-155-ml-1.jpg
+893,,,1.0,,Botella x 155,Salsas,No image,,,1.0,761.0,Salsa Negra San Jorge,3400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/191020-750-750/7702014626711-1.jpg?v=636166311020500000
+894,,,1.0,,Botella x 160 ,Salsas,No image,,,1.0,762.0,Salsa Teriyaki Aburra,3600.0,,
+895,,,1.0,,Botella x 160 ,Salsas,No image,,,1.0,763.0,Salsa de Soya Aburra,2600.0,,https://mercaldas.vteximg.com.br/arquivos/ids/198316-400-400/Salsa-De-Soya-Aburra-X155Ml_28699.jpg?v=637348636863230000
+896,,,1.0,,Botella x 160 ,Salsas,No image,,,1.0,764.0,Salsa Negra Aburra,2600.0,,
+897,,,1.0,,Botella x 160 ,Salsas,No image,,,1.0,765.0,Salsa para Carnes Aburra,2600.0,,
+898,,,1.0,,Botella x 160 ,Salsas,No image,,,1.0,766.0,Salsa Humo Aburra,2600.0,,
+899,,,1.0,,Botella x 160 ,Salsas,No image,,,1.0,767.0,Salsa BBQ Aburra,2600.0,,
+900,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,768.0,Salsa Piña La Constancia ,3800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3493214-750-750/7702097039774.jpg?v=637215453482370000
+901,,,1.0,,Tarro x 280 ,Salsas,No image,,,1.0,769.0,Salsa Piña Aderezos ,4900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/210040-750-750/7702889000692-1.jpg?v=636288949352730000
+902,,,1.0,,Bolsa x 200 ,Salsas,No image,,,1.0,770.0,Salsa Ciruela La Constancia,3800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3493212-1000-1000/7702097039767.jpg?v=637215453471900000
+903,,,1.0,,Botella x 87 ml,Salsas,No image,,,1.0,771.0,Salsa Picante La Constancia,2500.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/263673-1000-1000/7702097031327.jpg?v=637215452267170000
+904,,,1.0,,Botella x 155 ml,Salsas,No image,,,1.0,772.0,Salsa Aji San Jorge ,3400.0,,https://mercasmart.com/wp-content/uploads/2020/06/salsa-de-aji-san-jorge-de-155cc-5-1.jpg
+905,,,1.0,,Botella x 60 ml,Salsas,No image,,,1.0,773.0,Slalsa Aji Piquetasco San Jorge,1900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/207072-750-750/7702014626810-20--201.jpg?v=636287519770830000
+906,,,1.0,,Bolsa x 110 gr ,Salsas,No image,,,1.0,774.0,Salsa Ajo listo San Jorge ,2900.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3376646-1000-1000/7702014626926.jpg?v=636809359665700000
+907,,,1.0,,Botella x 165 gr,Salsas,No image,,,1.0,775.0,Salsa Ajo Aburra ,2600.0,,
+908,,,1.0,,Botella x 330,Vinagres,No image,,,1.0,776.0,Viangreta Aburra,4500.0,,https://mercaldas.vteximg.com.br/arquivos/ids/156368-1300-1300/25082.jpg?v=636885401348900000
+909,,,1.0,,Bolsa x 230 ,Vinagres,No image,,,1.0,777.0,Vinagre La Constancia,1500.0,,https://i0.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2019/02/la_constancia_vinagre_blanco_230ml.jpg?fit=1000%2C1000&ssl=1
+910,,,1.0,,Botella x 500,Vinagres,No image,,,1.0,778.0,Vinagre La Constancia,2900.0,,https://www.toccmarket.com/image/cache/catalog/MERCADO/Vinagre%20blanco%20x%20500ml-1000x798.jpg
+911,,,1.0,,Botella x 500,Vinagres,No image,,,1.0,779.0,Viangre San Jorge ,2800.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/vinagre-blanco-san-jorge-500-cm.jpg
+912,,,1.0,,Botella x 500,Vinagres,No image,,,1.0,780.0,Vinagre Don Prospero,2500.0,,https://lacatleya.com/wp-content/uploads/2020/06/OFERTA-vinagre-blanco-pague12-llve13-1-1.jpg
+913,,,1.0,,Botella x 500,Vinagres,No image,,,1.0,781.0,Vinagre de Manzana Don Prospero,2500.0,,https://lacatleya.com/wp-content/uploads/2020/05/VINAGRE-MANZANA-490.jpg
+914,,,1.0,,Garrafa x 3000,Vinagres,No image,,,1.0,782.0,Vinagre Don Prospero,8400.0,,https://lacatleya.com/wp-content/uploads/2020/05/30722-1-vinagre-blanco-D.-PROSPERO-X-300CC.jpg
+915,,,1.0,,Garrafa x 3000,Vinagres,No image,,,1.0,783.0,Vinagre de Manzana Don Prospero,8400.0,,https://lacatleya.com/wp-content/uploads/2020/05/VINAGRE-X-3000-MANZANA.jpg
+916,,,1.0,,Caja x 83 ,Cremas,No image,,,1.0,784.0,La Sopera 6 porciones,1950.0,Pollo champiñones,https://metrocolombiafood.vteximg.com.br/arquivos/ids/157110-750-750/7702354931001-1.jpg?v=636670240510300000
+917,,,1.0,,Caja x 83 ,Cremas,No image,,,2.0,784.0,La Sopera 6 porciones,1950.0,Pollo champiñones,https://exitocol.vtexassets.com/arquivos/ids/1805743-800-auto?width=800&height=auto&aspect=true
+918,,,1.0,,Caja x 83 ,Cremas,No image,,,3.0,784.0,La Sopera 6 porciones,1950.0,Ajiaco,https://exitocol.vtexassets.com/arquivos/ids/661041-800-auto?width=800&height=auto&aspect=true
+919,,,1.0,,Caja x 83,Cremas,No image,,,4.0,784.0,La Sopera 6 porciones,1950.0,Mazorca,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3376361-750-750/7702354931018.jpg?v=636809358319370000
+920,,,1.0,,Caja x 83,Cremas,No image,,,5.0,784.0,La Sopera 6 porciones,1950.0,champiñones,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3376363-750-750/7702354930998.jpg?v=636809358321700000
+921,,REVISAR,1.0,,Caja x 83,Cremas,No image,,,6.0,784.0,La Sopera 6 porciones,1950.0,Pollo verduras,https://bodegaeltrebol.com/wp-content/uploads/2018/12/la-soper-6.jpg
+922,,REVISAR,1.0,,Caja x 83,Cremas,No image,,,7.0,784.0,La Sopera 6 porciones,1950.0,Verduras,https://bodegaeltrebol.com/wp-content/uploads/2018/12/la-soper-6.jpg
+923,,,1.0,,Bolsa x 76,Cremas,No image,,,1.0,785.0,Crema Maggi,2800.0,tomate,https://exitocol.vtexassets.com/arquivos/ids/2152312-800-auto?width=800&height=auto&aspect=true
+924,,,1.0,,Bolsa x 76,Cremas,No image,,,2.0,785.0,Crema Maggi,2800.0,pollo,https://exitocol.vtexassets.com/arquivos/ids/2135512-800-auto?width=800&height=auto&aspect=true
+925,,,1.0,,Bolsa x 72,Cremas,No image,,,3.0,785.0,Crema Maggi,2800.0,Pollo verduras,https://exitocol.vtexassets.com/arquivos/ids/2135524-800-auto?width=800&height=auto&aspect=true
+926,,,1.0,,Bolsa x 70,Cremas,No image,,,4.0,785.0,Crema Maggi,2800.0,marinera,https://exitocol.vtexassets.com/arquivos/ids/2024216/Crema-Marinera-Sobre-13384_a.png?v=637267120316130000
+927,,,1.0,,Bolsa x 72,Cremas,No image,,,5.0,785.0,Crema Maggi,2800.0,champiñones,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/7702024008064_A.jpg
+928,,,1.0,,Bolsa x 50,Bases,No image,,,1.0,786.0,Salsa Base Maggi,2900.0,Pollo champiñones,https://exitocol.vtexassets.com/arquivos/ids/2135555/Base-P-Pollo-Con-Champinones-714654_a.png?v=637279389038700000
+929,,,1.0,,Bolsa x 45,Bases,No image,,,2.0,786.0,Salsa Base Maggi,2900.0,gulash,https://cdn.totalcode.com/la14/product-zoom/es/maggi-base-gulash--x-45g-1.jpg
+930,,,1.0,,Bolsa x 50,Bases,No image,,,3.0,786.0,Salsa Base Maggi,2900.0,boloñesa,https://exitocol.vtexassets.com/arquivos/ids/2135559/Base-Para-Salsa-Bolognesa-50-gr-876428_a.png?v=637279389081570000
+931,,,1.0,,Bolsa x 50,Bases,No image,,,4.0,786.0,Salsa Base Maggi,2900.0,carbonara,https://exitocol.vtexassets.com/arquivos/ids/2135571/Base-Para-Salsa-Carbonara-50-gr-874969_a.png?v=637279389179100000
+932,,,1.0,,Bolsa x 24 ,Bases,No image,,,1.0,787.0,Jugoso al Sarten Maggi,3300.0,finas hierbas,https://exitocol.vtexassets.com/arquivos/ids/2169445-800-auto?width=800&height=auto&aspect=true
+933,,,1.0,,Bolsa x 24 ,Bases,No image,,,2.0,787.0,Jugoso al Sarten Maggi,3300.0,pimenton,https://exitocol.vtexassets.com/arquivos/ids/2135585-800-auto?width=800&height=auto&aspect=true
+934,,,1.0,,Bolsa x 24,Bases,No image,,,1.0,788.0,Jugoso al Horno Maggi,3300.0,pimenton,https://www.nestle.com.co/sites/g/files/pydnoa531/files/brands/culinarios/publishingimages/maggi_jah_pollopimenton/maggi-jugoso-pimenton-square-thumbnail.jpg
+935,,,1.0,,Bolsa x 24,Bases,No image,,,2.0,788.0,Jugoso al Horno Maggi,3300.0,ajo y cebolla,https://i0.wp.com/ossom.cl/wp-content/uploads/2018/05/Captura-de-pantalla-2018-05-25-a-las-10.30.10.png?resize=432%2C638&ssl=1
+936,,,1.0,,Bolsa x 86,Sopa,No image,,,1.0,789.0,Sopa Aji-no-men,1600.0,gallina criolla,https://s.cornershopapp.com/product-images/1060686.jpg?versionId=z_JrCcgcQOuIiM4WVH1GOacRBHAN9qFR
+937,,,1.0,,Bolsa x 86,Sopa,No image,,,2.0,789.0,Sopa Aji-no-men,1600.0,gallina ,https://www.dontomate.com/web/image/product.template/38/image
+938,,,1.0,,Bolsa x 80,Sopa,No image,,,3.0,789.0,Sopa Aji-no-men,1600.0,Pollo verduras,https://chely.pe/wp-content/uploads/2019/03/pollo-con-verduras.jpg
+939,,,1.0,,Bolsa x 80,Sopa,No image,,,4.0,789.0,Sopa Aji-no-men,1600.0,carne,https://colsubsidiogrocery.vtexassets.com/arquivos/ids/157587/7754487001700.jpg?v=6372749755278000000
+940,,,1.0,,Bolsa x 80,Sopa,No image,,,5.0,789.0,Sopa Aji-no-men,1600.0,pollo,https://dojiw2m9tvv09.cloudfront.net/43381/product/0100600160006901006001600069.jpg
+941,,,1.0,,Bolsa x 80,Sopa,No image,,,6.0,789.0,Sopa Aji-no-men,1600.0,costilla,https://supermercadocomunal.com/2159-large_default/sopa-instantanea-ajinomen-costilla-80-gr.jpg
+942,,,1.0,,Bolsa x 90,Sopa,No image,,,1.0,790.0,Sopa Maggi,2000.0,Ajiaco,https://images.jumpseller.com/store/merkapromo/1644322/sopas-maggi-x-90-gr-ajiaco-mi-tierra.jpg?1522255277
+943,,,1.0,,Bolsa x 90,Sopa,No image,,,2.0,790.0,Sopa Maggi,2000.0,sanchocho,https://cdnx.jumpseller.com/don-merke/image/8998418/thumb/635/480?1590507817
+944,,,1.0,,Bolsa x 65,Sopa,No image,,,1.0,791.0,Sopa Maggi ,1400.0,gallina fideos,https://exitocol.vtexassets.com/arquivos/ids/2135531-800-auto?width=800&height=auto&aspect=true
+945,,,1.0,,Bolsa x 65,Sopa,No image,,,2.0,791.0,Sopa Maggi ,1400.0,gallina arroz,https://cdn.totalcode.com/la14/product-zoom/es/maggi-sopa-gallina-con-arroz-65g-1.jpg
+946,,,1.0,,Lata x 150 gr ,Atun,No image,,,1.0,792.0,Atun Rallado en Aceite Alamar,3700.0,.,https://alival.com.co/express/wp-content/uploads/2020/05/ATUN_RALLADO_EN_ACEITE.jpg
+947,,,1.0,,Lata x 150 gr ,Atun,No image,,,1.0,793.0,Atun Rallado en Agua Alamar,3500.0,,https://exitocol.vtexassets.com/arquivos/ids/1742024-800-auto?width=800&height=auto&aspect=truee
+948,,,1.0,,Lata x 140 gr ,Atun,No image,,,1.0,794.0,Atun Lomo en Agua Alamar,5000.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3536499-1000-1000/7700618020423.jpg?v=637340619942330000
+949,,,1.0,,Lata x 140 gr ,Atun,No image,,,1.0,795.0,Atun Lomo en Aceite Alamar,5100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3536500-750-750/7700618020430.jpg?v=637340619945300000
+950,,,1.0,,Lata x 160 gr ,Atun,No image,,,1.0,796.0,Atun Ensalada Alamar,4400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3536503-1000-1000/7700618020638.jpg?v=637340619952200000
+951,,,1.0,,Lata x 160 gr ,Atun,No image,,,1.0,797.0,Atun Lomo en Agua Isabel,6500.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/8410111009472.jpg
+952,,,1.0,,Lata x 160 gr ,Atun,No image,,,1.0,798.0,Atun Lomo en Aceite Isabel,6600.0,,https://mercaldas.vteximg.com.br/arquivos/ids/166959-400-400/Atun-ISABEL-160-Aceite-Girasol-48La.jpg?v=636986345364570000
+953,,,1.0,,Lata x 160 gr ,Atun,No image,,,1.0,799.0,Atun Ensalada Isabel,5800.0,,https://lamayorista.com/wp-content/uploads/2020/07/8410111007119.jpg
+954,,,1.0,,Lata x 160 gr ,Atun,No image,,,1.0,800.0,Atun Lomo en Agua Vikingos,5600.0,,https://static.wixstatic.com/media/605536_2ed0886ca7924601897d96f1ff33815e~mv2.jpg
+955,,,1.0,,Lata x 160 gr ,Atun,No image,,,1.0,801.0,Atun Lomo en Aceite Vikingos,5400.0,,https://mercaldas.vteximg.com.br/arquivos/ids/188042-400-400/Atun-VIKINGOS-160-Rallado-Aceite.jpg?v=637174176899900000
+956,,,1.0,,Lata x 140 gr ,Atun,No image,,,1.0,802.0,Atun Rallado en Aceite Vikingos ,3300.0,,https://bodegaeltrebol.com/wp-content/uploads/2018/11/atun-vikingos.jpgg
+957,,,1.0,,Lata x 160 gr ,Atun,No image,,,1.0,803.0,Atun Lomo en Aceite Van Camps,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171293-750-750/7702367002613-281-29.jpg?v=636111260797770000
+958,,,1.0,,Lata x 160 gr ,Atun,No image,,,1.0,804.0,Atun Lomo en Agua  Van Camps,0.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171304-750-750/7702367002620-281-29.jpg?v=636111260808470000
+959,,,1.0,,Lata x 160gr,Atun,No image,,,1.0,805.0,Atun Lomo en Aceite de Oliva  Van Camps,0.0,,https://vancamps.com.co/sites/default/files/2019-12/vancamps_0005_oliva-160g.jpg
+960,,,1.0,,en blanco,Atun,No image,,,1.0,806.0,Atun Rallado Van Camps,0.0,,https://www.merkadomi.com/wp-content/uploads/2020/08/IMG_1722-640x480-1.jpg
+961,,,1.0,,Lata x 125gr,Atun,No image,,,1.0,807.0,Atun Ensalada Van Camps,0.0,,https://secureservercdn.net/50.62.88.95/vx2.bc3.myftpupload.com/wp-content/uploads/2019/07/7702367001197-600x450.jpg
+962,,,1.0,,Lata x 150gr,Atun,No image,,,1.0,808.0,Atun Champiñones Van Camps,0.0,,https://www.toccmarket.com/image/cache/catalog/MERCADO/Atun%20lomitos%20con%20champin%CC%83ones%20van%20camps%20x150grs-1000x798.jpg
+963,,,1.0,,Pack x 3 und,Atun,No image,,,1.0,809.0,Atun Pack en Agua Van Camps,13100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171270-512-512/7702367000558-282-29.jpg?v=636111260763630000
+964,,,1.0,,Pack x 3 und,Atun,No image,,,1.0,810.0,Atun Pack en Aceita  Van Camps,13600.0,,https://mercaldas.vteximg.com.br/arquivos/ids/185378-400-400/Atun-VAN-CAMPS-en-aceite-3-unds-x80-g.jpg?v=6370304087563000000
+965,,,1.0,,Pack x 3 und,Atun,No image,,,1.0,811.0,Atun Pack en Aceite de Oliva  Van Camps,14500.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/171277-1000-1000/7702367000404-281-29.jpg?v=636111260772330000
+966,,,1.0,,Lata x 425 gr ,Sardinas,No image,,,1.0,812.0,Sardina Van Camps Tomate,8800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/170677-1000-1000/722008000898-281-29.jpg?v=636111258654070000
+967,,,1.0,,Lata x 425 gr ,Sardinas,No image,,,1.0,813.0,Sardina Van Camps Aceite de Oliva,9900.0,,https://supermercadocomunal.com/2796-large_default/sardinas-van-camps-en-aceite-425-gr.jpg
+968,,,1.0,,Lata x 425 gr ,Sardinas,No image,,,1.0,814.0,Sardina Isabel ,9100.0,,https://lamayorista.com/wp-content/uploads/2020/07/8426920635009.jpg
+969,,,1.0,,Lata x 425 gr ,Sardinas,No image,,,1.0,815.0,Sardina Soberana Tomate ,6300.0,,https://exitocol.vtexassets.com/arquivos/ids/3833304/Sardina-Ovalada-Soberana-Tomat-316401_a.jpg?v=637352380877670000
+970,,,1.0,,Lata x 425 gr ,Sardinas,No image,,,1.0,816.0,Sardina Soberana Aceite de Oliva,7500.0,,https://www.mercapava.com.co/wp-content/uploads/importedmedia/blogmedia-144303-600x600.jpg
+971,,,1.0,,Lata x 425 gr ,Sardinas,No image,,,1.0,817.0,Sardina Vikingos,6800.0,,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbdmGtE1UMCk1RefLKo2LfNC1w_KxNjqC7mA&usqp=CAU
+972,,,1.0,,Lata x 150 gr ,Enlatados,No image,,,1.0,818.0,Salchicha Limon Zenu,3400.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/225665-1000-1000/7701101240991.jpg?v=636306142951500000
+973,,,1.0,,Lata x 150 gr ,Enlatados,No image,,,1.0,819.0,Salchicha Viena Zenu,3100.0,,https://carulla.vtexassets.com/arquivos/ids/812126/Salchichas-Viena-Lata-X-150-gr-13298_a.png?v=637181521403730000
+974,,,1.0,,Lata x 150 gr ,Enlatados,No image,,,1.0,820.0,Salchicha Pollo Zenu,3400.0,,https://metrocolombiafood.vteximg.com.br/arquivos/ids/156936-1000-1000/7701101240991-1.jpg?v=636670240295330000
+975,,,1.0,,Lata x 360 gr ,Enlatados,No image,,,1.0,821.0,Salchicha Frankfurt Zenu,6100.0,,https://supertiendascomunal.com/7309-medium_default/salchichas-frankfurt-zenu-360-g.jpg
+976,,,1.0,,Lata x 150 gr ,Enlatados,No image,,,1.0,822.0,Jamoneta Zenu,0.0,,https://exitocol.vtexassets.com/arquivos/ids/657007-800-auto?width=800&height=auto&aspect=true
+977,,,1.0,,Lata x 370 gr ,Enlatados,No image,,,1.0,823.0,Jamoneta Zenu,7500.0,,https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images1000446.jpg
+978,,,1.0,,Lata x 162 gr ,Enlatados,No image,,,1.0,824.0,Albondigas Zenu,4600.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3351361-750-750/7701101247648.jpg?v=636772038688500000
+979,,,1.0,,Lata x 440 gr ,Enlatados,No image,,,1.0,825.0,Chile con carne de Res Zenu,8100.0,,https://www.jdh.com.co/wp-content/uploads/2020/06/Chile-con-Carne-Zenu-X-440-gr.-REF2457.jpg
+980,,,1.0,,Lata x 160 gr ,Enlatados,No image,,,1.0,826.0,Pollo con Champiñones Zenu,7900.0,,https://exitocol.vtexassets.com/arquivos/ids/2091572-800-auto?width=800&height=auto&aspect=true
+981,,,1.0,,Lata x 310 gr ,Enlatados,No image,,,1.0,827.0,Frijoles Antioqueños Zenu,3600.0,,https://web.superboom.net/web/image/product.template/8126/image
+982,,,1.0,,Lata x 580 gr,Enlatados,No image,,,1.0,828.0,Frijoles Antioqueños Zenu,0.0,,https://web.superboom.net/web/image/product.template/8127/image
+983,,,1.0,,Lata x 425 gr ,Enlatados,No image,,,1.0,829.0,Maiz Dulce Zenu,4900.0,,https://www.privun.com/pub/media/catalog/product/cache/75eed2686e01eb22cb4050b2f40ddf97/h/t/httpsstorage.googleapis.comfotos-novaventaprivun2011707maiz-dulce-zenu.jpg
+984,,,1.0,,Lata x 241 gr,Enlatados,No image,,,1.0,830.0,Maiz Dulce Zenu,0.0,,https://merkeygane.com/4955-large_default/maiz-dulce-zenu-241g.jpg
+985,,,1.0,,Lata x 300 gr ,Enlatados,No image,,,1.0,831.0,Arveja natural Zenu,2800.0,,https://www.eurosupermercados.com/eurosupermercado2020//contenidos/images/ecommerce_productos/7701101233207.jpg
+986,,,1.0,,Lata x 580 gr ,Enlatados,No image,,,1.0,832.0,Arveja natural Zenu,4250.0,,https://larecetta.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/t/httpsstorage.googleapis.comlarecetta-ibis-images1000081.jpg
+987,,,1.0,,Lata x 300 gr ,Enlatados,No image,,,1.0,833.0,Arveja Zanahoria Zenu,3100.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/225670-750-750/7701101233085.jpg?v=6363061429551700000
+988,,,1.0,,Lata x 580 gr ,Enlatados,No image,,,1.0,834.0,Arveja Zanahoria Zenu,4600.0,,https://i2.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2018/11/zenu_arverja_con_zanahoria_580gr.jpg?fit=700%2C700&ssl=1
+989,,,1.0,,Lata x 150 gr ,Enlatados,No image,,,1.0,835.0,Salchicha Viena Rica,0.0,,https://exitocol.vtexassets.com/arquivos/ids/1979799-800-auto?width=800&height=auto&aspect=true
+990,,,1.0,,Pack x 3 und,Enlatados,No image,,,1.0,836.0,Salchicha Pack Rica,0.0,,
+991,,,1.0,,Lata x 190 gr ,Enlatados,No image,,,1.0,837.0,Maiz Tierno San Jorge,3200.0,,https://i2.wp.com/mercaenlinea.nyc3.digitaloceanspaces.com/2020/09/maiz-tierno-san-jorge-x190g.jpg?fit=800%2C800&ssl=11
+992,,,1.0,,Lata x 300 gr ,Enlatados,No image,,,1.0,838.0,Maiz Tierno San Jorge,4100.0,,https://exitocol.vtexassets.com/arquivos/ids/656208/Maiz-Tierno-Lata-X-300-G-13364_a.jpg?v=6370270394638700000
+993,,,1.0,,Lata x 600 gr ,Enlatados,No image,,,1.0,839.0,Maiz Tierno San Jorge,7400.0,,https://mercadoacasa.co/wp-content/uploads/2020/04/maiz-tierno-san-jorge.jpg
+994,,,1.0,,Lata x 180 gr ,Enlatados,No image,,,1.0,840.0,Arveja Zanahoria San Jorge,0.0,,https://d50xhnwqnrbqk.cloudfront.net/images/products/large/San-Jorge-Arveja-con-Zanahoria-(1).jpg
+995,,,1.0,,Lata x 300 gr ,Enlatados,No image,,,1.0,841.0,Arveja Zanahoria San Jorge,2800.0,,https://jumbocolombiafood.vteximg.com.br/arquivos/ids/190950-1000-1000/7702014597714-1.jpg?v=636166310930070000
+996,,,1.0,,Lata x 300 gr ,Enlatados,No image,,,1.0,842.0,Frijoles con Tocino San Jorge,3950.0,,https://supertiendascomunal.com/4233-home_default/frijoles-con-tocino-respin-300-gr.jpg
+997,,,1.0,,Lata x 500 gr ,Enlatados,No image,,,1.0,843.0,Frijoles con Tocino San Jorge,6100.0,,
+998,,,1.0,,Lata x 300 gr ,Enlatados,No image,,,1.0,844.0,Arveja Sabanera San Jorge,2600.0,,https://mercaldas.vteximg.com.br/arquivos/ids/188019-1300-1300/Arveja-Sabanera-SAN-JORGE-300.jpg

@@ -19,7 +19,7 @@ def remove_special_characters(s: str) -> str:
 
 if __name__ == '__main__':
     unsaved_images = []
-    csv_file_path = "productos_unimercas_url.csv"
+    csv_file_path = "productos_unimercas_v2.csv"
     res = pd.DataFrame()
     pd.set_option("display.max_rows", None, "display.max_columns", None)
     data = pd.read_csv(csv_file_path)
@@ -27,7 +27,7 @@ if __name__ == '__main__':
         import urllib.request
 
         try:
-            image_name = "{}_{}_{}.png".format(remove_special_characters(row['Nombre']), row['ID_PRODUCTO'], row['ID'])
+            image_name = "{}_{}.png".format(row['ID_PRODUCTO'], row['ID'])
             image_path = "images/{}".format(image_name)
             urllib.request.urlretrieve(row["URL FOTO"], image_path)
 
