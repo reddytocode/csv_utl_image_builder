@@ -1,9 +1,9 @@
 import pandas as pd
-import cv2
-
+# import cv2
+# from PIL import Image
 def remove_special_characters(s: str) -> str:
     s = ''.join(c.lower() for c in s if c.isalnum() or c == ' ')
-    return s.replace(' ', '-').replace("ñ", "n")
+    return s.replace(' ', '').replace("ñ", "n")
 
 
 if __name__ == '__main__':
@@ -15,12 +15,12 @@ if __name__ == '__main__':
         import urllib.request
 
         try:
-            image_name = "{}_{}_{}.jpg".format(remove_special_characters(row['Nombre']), row['ID_PRODUCTO'], row['ID'])
+            image_name = "{}_{}_{}.png".format(remove_special_characters(row['Nombre']), row['ID_PRODUCTO'], row['ID'])
             image_path = "images/{}".format(image_name)
             urllib.request.urlretrieve(row["URL FOTO"], image_path)
 
-            cv_image = cv2.imread(image_path)
-            cv2.imwrite(image_path, cv_image)
+            # cv_image = cv2.imread(image_path)
+            # cv2.imwrite(image_path, cv_image)
 
             row['Foto 1'] = image_name
         except Exception as e:
