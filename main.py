@@ -4,11 +4,9 @@ from PIL import Image
 import numpy as np
 import cv2
 
-try:
-    os.remove("images")
-    os.remove("filtered")
-except Exception as e:
-    pass
+os.system("rm -rf images")
+os.system("rm -rf filtered")
+
 os.mkdir("images")
 os.mkdir("filtered")
 
@@ -41,7 +39,11 @@ if __name__ == '__main__':
 
         if len(str(row["URL FOTO"])) > 5:
             try:
-                image_name = "{}_{}.png".format(row['ID_PRODUCTO'], row['ID'])
+                id_product = int(row['ID_PRODUCTO'])
+                print("id_product", id_product)
+                # if id_product.isnumeric():
+                #     id_product = int(id_product)
+                image_name = "{}_{}.png".format(id_product, row['ID'])
                 image_path = "filtered/{}".format(image_name)
                 urllib.request.urlretrieve(row["URL FOTO"], image_path)
 
