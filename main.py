@@ -40,10 +40,11 @@ if __name__ == '__main__':
         if len(str(row["URL FOTO"])) > 5:
             try:
                 id_product = int(row['ID_PRODUCTO'])
+                id = int(row['ID'])
                 print("id_product", id_product)
                 # if id_product.isnumeric():
                 #     id_product = int(id_product)
-                image_name = "{}_{}.png".format(id_product, row['ID'])
+                image_name = "{}_{}.png".format(id_product, id)
                 image_path = "filtered/{}".format(image_name)
                 urllib.request.urlretrieve(row["URL FOTO"], image_path)
 
