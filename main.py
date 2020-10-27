@@ -29,7 +29,7 @@ if __name__ == '__main__':
     data = pd.read_csv(csv_file_path)
     for index, row in data.iterrows():
         import urllib.request
-        if len(row["URL FOTO"]) > 0:
+        if len(str(row["URL FOTO"])) > 0:
             try:
                 image_name = "{}_{}.png".format(row['ID_PRODUCTO'], row['ID'])
                 image_path = "filtered/{}".format(image_name)
